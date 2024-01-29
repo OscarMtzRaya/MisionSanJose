@@ -1,0 +1,182 @@
+@font-face {
+    font-family: 'CerebriSans';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('CerebriSans-Bold.ttf');
+}
+@font-face {
+    font-family: 'CerebriSans';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url('CerebriSans-BoldItalic.ttf');
+}
+@font-face {
+    font-family: 'CerebriSans';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url('CerebriSans-Book.ttf');
+}
+@font-face {
+    font-family: 'CerebriSans';
+    font-style: italic;
+    font-weight: normal;
+    font-display: swap;
+    src: url('CerebriSans-BookItalic.ttf');
+}
+@font-face {
+    font-family: 'CerebriSans';
+    font-style: italic;
+    font-weight: 800;
+    font-display: swap;
+    src: url('CerebriSans-ExtraBoldItalic.ttf');
+}
+@font-face {
+    font-family: 'CerebriSans';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url('CerebriSans-Heavy.ttf');
+}
+@font-face {
+    font-family: 'CerebriSans';
+    font-style: italic;
+    font-weight: 900;
+    font-display: swap;
+    src: url('CerebriSans-HeavyItalic.ttf');
+}
+@font-face {
+    font-family: 'CerebriSans';
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+    src: url('CerebriSans-Italic.ttf');
+}
+@font-face {
+    font-family: 'CerebriSans';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url('CerebriSans-Light.ttf');
+}
+@font-face {
+    font-family: 'CerebriSans';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url('CerebriSans-LightItalic.ttf');
+}
+@font-face {
+    font-family: 'CerebriSans';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url('CerebriSans-Medium.ttf');
+}
+@font-face {
+    font-family: 'CerebriSans';
+    font-style: italic;
+    font-weight: 500;
+    font-display: swap;
+    src: url('CerebriSans-MediumItalic.ttf');
+}
+@font-face {
+    font-family: 'CormorantInfant';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('CormorantInfant-Bold.ttf');
+}
+@font-face {
+    font-family: 'CormorantInfant';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url('CormorantInfant-BoldItalic.ttf');
+}
+@font-face {
+    font-family: 'CormorantInfant';
+    font-style: italic;
+    font-weight: normal;
+    font-display: swap;
+    src: url('CormorantInfant-Italic.ttf');
+}
+@font-face {
+    font-family: 'CormorantInfant';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url('CormorantInfant-Light.ttf');
+}
+@font-face {
+    font-family: 'CormorantInfant';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url('CormorantInfant-LightItalic.ttf');
+}
+@font-face {
+    font-family: 'CormorantInfant';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url('CormorantInfant-Medium.ttf');
+}
+@font-face {
+    font-family: 'CormorantInfant';
+    font-style: italic;
+    font-weight: 500;
+    font-display: swap;
+    src: url('CormorantInfant-MediumItalic.ttf');
+}
+@font-face {
+    font-family: 'CormorantInfant';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url('CormorantInfant-Regular.ttf');
+}
+@font-face {
+    font-family: 'CormorantInfant';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url('CormorantInfant-SemiBold.ttf');
+}
+@font-face {
+    font-family: 'CormorantInfant';
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+    src: url('CormorantInfant-SemiBoldItalic.ttf');
+}
+@font-face {
+    font-family: 'PS Demo';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url('PSDemo.ttf');
+}
+@font-face {
+    font-family: 'Dancing Script';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('DancingScript-Bold.ttf');
+}
+@font-face {
+    font-family: 'Cirka Light';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('Cirka-Variable.ttf');
+}
+@font-face {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: url('Oswald-Regular.ttf');
+}
