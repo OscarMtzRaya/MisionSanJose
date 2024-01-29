@@ -1828,7 +1828,7 @@ a:focus {
     width: 320px;
     height: 100%;
     top: 0;
-    left: -340px;
+    right: -340px;
     position: fixed;
     background-color: #000;
     z-index: 999999;
@@ -1845,7 +1845,7 @@ a:focus {
 }
 
 .mobile-nav-wrap.active .inner-mobile-nav {
-    left: 0;
+    right: 0;
 }
 
 .inner-mobile-nav {
@@ -2558,4 +2558,8 @@ ul.list-content li p.text {
 
 .tf-mouse-outer.mouse-hover {
     opacity: 0;
+}
+
+.logo-fixes{
+    height: 8rem;
 }
