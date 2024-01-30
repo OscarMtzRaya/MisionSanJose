@@ -44,7 +44,7 @@
                          <a href="#">Home</a>
                      </li>
                      <li class="menu-item">
-                         <a href="#">About</a>
+                         <a href="about.php">About</a>
                      </li>
                      <li class="menu-item">
                          <a href="#">Gallery</a>
