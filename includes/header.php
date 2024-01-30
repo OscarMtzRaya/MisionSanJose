@@ -41,13 +41,13 @@
              <nav class="main-nav">
                  <ul class="menu-primary-menu">
                      <li class="menu-item">
-                         <a href="#">Home</a>
+                         <a href="index.php">Home</a>
                      </li>
                      <li class="menu-item">
                          <a href="about.php">About</a>
                      </li>
                      <li class="menu-item">
-                         <a href="#">Gallery</a>
+                         <a href="gallery.php">Gallery</a>
                      </li>
                      <li class="menu-item">
                          <a href="#">Menu</a>
@@ -150,13 +150,13 @@
              <nav id="mobile-main-nav" class="mobile-main-nav">
                  <ul id="menu-mobile-menu" class="menu">
                  <li class="menu-item">
-                         <a href="#">Home</a>
+                         <a href="index.php">Home</a>
                      </li>
                      <li class="menu-item">
-                         <a href="#">About</a>
+                         <a href="about.php">About</a>
                      </li>
                      <li class="menu-item">
-                         <a href="#">Gallery</a>
+                         <a href="gallery.php">Gallery</a>
                      </li>
                      <li class="menu-item">
                          <a href="#">Menu</a>

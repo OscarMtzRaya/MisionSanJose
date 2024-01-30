@@ -167,50 +167,25 @@
 <!-- portfolio -->
 <div class="portfolio-wrap flex popup-gallery">
     <div class="portfolio-item">
-        <img src="assets/images/box-item/portfolio-1.jpg" alt="">
-        <div class="content">
-            <div class="wrap">
-                <div class="title">
-                    <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/box-item/portfolio-1.jpg">
-                        +</a>
-                </div>
-
-            </div>
-        </div>
+        <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/box-item/portfolio-1.jpg">
+            <img src="assets/images/box-item/portfolio-1.jpg" alt="">
+        </a>
     </div>
     <div class="portfolio-item">
-        <img src="assets/images/box-item/portfolio-2.jpg" alt="">
-        <div class="content">
-            <div class="wrap">
-                <div class="title">
-                    <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/box-item/portfolio-2.jpg">
-                        +</a>
-                </div>
-            </div>
-        </div>
+        <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/box-item/portfolio-2.jpg">
+            <img src="assets/images/box-item/portfolio-2.jpg" alt="">
+        </a>
     </div>
     <div class="portfolio-item">
-        <img src="assets/images/box-item/portfolio-3.jpg" alt="">
-        <div class="content">
-            <div class="wrap">
-                <<div class="title">
-                    <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/box-item/portfolio-3.jpg">
-                        +</a>
-            </div>
-        </div>
+        <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/box-item/portfolio-3.jpg">
+            <img src="assets/images/box-item/portfolio-3.jpg" alt="">
+        </a>
     </div>
-</div>
-<div class="portfolio-item">
-    <img src="assets/images/box-item/portfolio-4.jpg" alt="">
-    <div class="content">
-        <div class="wrap">
-            <div class="title">
-                <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/box-item/portfolio-4.jpg">
-                    +</a>
-            </div>
-        </div>
+    <div class="portfolio-item">
+        <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/box-item/portfolio-4.jpg">
+            <img src="assets/images/box-item/portfolio-4.jpg" alt="">
+        </a>
     </div>
-</div>
 </div>
 <!-- /portfolio -->
 
@@ -577,7 +552,7 @@
 <!-- reservations-location -->
 <div class="reservations-location">
     <div class="themesflat-container w1580">
-        <div class="row">
+        <div class="row justify-center align-items-center">
             <div class="col-xl-4">
                 <div class="wg-reservations pt-0 pb-0">
                     <div class="content">
@@ -626,8 +601,11 @@
                 </div>
             </div>
             <div class="col-xl-4">
-                <div class="map-box relative h-full">
-                    <div id="map"></div>
+                <div class=" relative h-full">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2249.9640344807185!2d-109.69752609037937!3d23.062449561355578!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af509d96c683db%3A0xba844638a5767c71!2sMisi%C3%B3n%20San%20Jos%C3%A9%20del%20Cabo!5e0!3m2!1sen!2smx!4v1706596511625!5m2!1sen!2smx"
+                        width="100%" height="450" style="border:0; border-radius:30px; filter: grayscale(1);" allowfullscreen="" loading="lazy"
+                        referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
             <div class="col-xl-4">
@@ -648,9 +626,7 @@
                                 +52 123 456 7890
                             </a>
                         </div>
-                        <p class="wow fadeInUp">San José del Cabo <a
-                                href="#" class="__cf_email__"
-                                >email@algo.com</a>
+                        <p class="wow fadeInUp">San José del Cabo <a href="#" class="__cf_email__">email@algo.com</a>
                         </p>
                         <div class="title wow fadeInUp">Opening Hour:</div>
                         <p class="text wow fadeInUp">Mon - Fri : 9.00am - 22.00pm, Holidays : Close</p>

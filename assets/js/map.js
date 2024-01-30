@@ -3,7 +3,7 @@ if (document.getElementById('map')){
         const map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/mapbox/light-v11',
-        center: [-0.108968,51.492933],
+        center: [23.0624496,-109.69752613],
         zoom: 14
     });
     
@@ -14,7 +14,7 @@ if (document.getElementById('map')){
             type: 'Feature',
             geometry: {
                 type: 'Point',
-                coordinates: [-0.108968,51.492933]
+                coordinates: [23.0624496,-109.6975261]
             }
             }
         ]
@@ -35,7 +35,7 @@ if (document.getElementById('map1')) {
         const map1 = new mapboxgl.Map({
         container: 'map1',
         style: 'mapbox://styles/mapbox/light-v11',
-        center: [-0.108968,51.492933],
+        center: [23.0624496,-109.6975261],
         zoom: 14
     });
     
@@ -46,7 +46,7 @@ if (document.getElementById('map1')) {
             type: 'Feature',
             geometry: {
                 type: 'Point',
-                coordinates: [-0.108968,51.492933]
+                coordinates: [23.0624496,-109.6975261]
             }
             }
         ]
@@ -67,7 +67,7 @@ if (document.getElementById('map2')) {
         const map2 = new mapboxgl.Map({
         container: 'map2',
         style: 'mapbox://styles/mapbox/light-v11',
-        center: [-0.108968,51.492933],
+        center: [23.0624496,-109.6975261],
         zoom: 14
     });
     
@@ -78,7 +78,7 @@ if (document.getElementById('map2')) {
             type: 'Feature',
             geometry: {
                 type: 'Point',
-                coordinates: [-0.108968,51.492933]
+                coordinates: [23.0624496,-109.6975261]
             }
             }
         ]

@@ -99,7 +99,7 @@
                     </p>
                     <p class="wow fadeInUp">loren proident, sunt in culpa qui cia deserunt mollit anim id est
                         laborum. Sed utsa tat monullamco</p>
-                    <a class="button-two-line wow fadeInUp" href="chef.html">VIEW MENU</a>
+                    <a class="button-two-line wow fadeInUp" href="#">VIEW MENU</a>
                 </div>
             </div>
         </div>
