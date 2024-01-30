@@ -150,19 +150,26 @@
              <nav id="mobile-main-nav" class="mobile-main-nav">
                  <ul id="menu-mobile-menu" class="menu">
                  <li class="menu-item">
-                         <a href="contact.html">Home</a>
+                         <a href="#">Home</a>
                      </li>
                      <li class="menu-item">
-                         <a href="contact.html">Contact</a>
+                         <a href="#">About</a>
                      </li>
                      <li class="menu-item">
-                         <a href="contact.html">Contact</a>
+                         <a href="#">Gallery</a>
                      </li>
                      <li class="menu-item">
-                         <a href="contact.html">Contact</a>
+                         <a href="#">Menu</a>
                      </li>
                      <li class="menu-item">
-                         <a href="contact.html">Contact</a>
+                         <a href="#">Contact</a>
+                     </li>
+                     <li class="menu-item menu-item-has-children-mobile">
+                         <a class="item-menu-mobile" href="#">Language</a>
+                         <ul class="sub-menu-mobile">
+                             <li class="menu-item"><a href="#">English</a></li>
+                             <li class="menu-item"><a href="#">Spanish</a></li>
+                         </ul>
                      </li>
                      <!-- <li class="menu-item menu-item-has-children-mobile current-menu-item">
                          <a class="item-menu-mobile" href="#">Home</a>
@@ -213,9 +220,6 @@
                              <li class="menu-item"><a href="blog-single.html">Blog Single</a></li>
                          </ul>
                      </li> -->
-                     <li class="menu-item">
-                         <a href="contact.html">Contact</a>
-                     </li>
                  </ul>
              </nav>
          </div>
