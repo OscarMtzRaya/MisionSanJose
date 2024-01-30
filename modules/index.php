@@ -614,7 +614,7 @@
                         <div class="heading-section text-center">
                             <div class="sub wow fadeInUp">Location</div>
                             <div class="main wow fadeInUp">how to find us</div>
-                            <div class="text wow fadeInUp">It is inconvenient to not know the address, below is the <br>
+                            <div class="text wow fadeInUp">Below is the <br>
                                 address and contact of the restaurant</div>
                             <div class="divider wow fadeInUp">
                                 <div></div>
