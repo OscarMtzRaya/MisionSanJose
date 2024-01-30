@@ -117,7 +117,7 @@
                          </svg>
                      </div>
                      <div class="content">
-                         <p class="tf-color">Phone Call Us</p>
+                         <p class="tf-color">Call Us</p>
                          <p class="number-phone">+52 123 456 7890</p>
                      </div>
                  </div>

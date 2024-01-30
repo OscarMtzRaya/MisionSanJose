@@ -1476,7 +1476,7 @@ form.form-search button {
     left: -163px;
     top: 246px;
     background-image: url(../images/item-background/snare-1.png);
-    animation: rotate360 7s infinite linear ;
+    animation: rotate360 40s infinite linear ;
 }
 
 /* testimonial-item */
