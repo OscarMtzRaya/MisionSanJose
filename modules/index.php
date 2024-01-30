@@ -628,7 +628,7 @@
                         </div>
                         <p class="wow fadeInUp">San José del Cabo <a href="#" class="__cf_email__">email@algo.com</a>
                         </p>
-                        <div class="title wow fadeInUp">Opening Hour:</div>
+                        <div class="title wow fadeInUp">Opening Hours:</div>
                         <p class="text wow fadeInUp">Mon - Fri : 9.00am - 22.00pm, Holidays : Close</p>
                         <div class="widget-social style-big justify-center wow fadeInUp">
                             <ul class="">
