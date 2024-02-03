@@ -1202,7 +1202,7 @@ form.form-search button {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(../images/box-item/video-1.jpg);
+    background-image: url(../images/box-item/video-1.jpg?=1);
     position: relative;
 }
 
@@ -1263,7 +1263,7 @@ form.form-search button {
 /* style-1 */
 .wg-video-full.style-1 {
     height: 561px;
-    background-image: url(../images/box-item/img-full-parallax.jpg);
+    background-image: url(../images/box-item/img-full-parallax.jpg?=1);
 }
 
 .wg-video-full.h649 {
@@ -1275,7 +1275,7 @@ form.form-search button {
 }
 
 .wg-video-full.style-2 {
-    background-image: url(../images/box-item/img-full-parallax-1.jpg);
+    background-image: url(../images/box-item/img-full-parallax-1.jpg?=1);
 }
 
 /* wg-private-event */
