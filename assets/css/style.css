@@ -1129,8 +1129,8 @@ a:focus {
     max-width: 1619px;
     margin: auto;
     justify-content: space-between;
-    padding-top: 23px;
-    padding-bottom: 24px;
+    /* padding-top: 23px;
+    padding-bottom: 24px; */
 }
 
 .header-top > .left {
