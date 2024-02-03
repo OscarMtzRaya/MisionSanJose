@@ -159,7 +159,8 @@ html {
 }
 
 body {
-    background : #0e1618;
+    /* background : #0e1618; */
+    background : #132c2d;
     line-height: 1;
     padding: 0 !important;
 }
