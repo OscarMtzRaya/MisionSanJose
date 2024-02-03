@@ -81,7 +81,7 @@
         </div>
         <div class="center">
             <div class="image">
-                <img src="assets/images/box-item/about-hour.jpg" alt="">
+                <img src="assets/images/box-item/about-hour2.jpg" alt="">
             </div>
         </div>
         <div class="right">
@@ -155,7 +155,7 @@
             </div>
             <div class="col-md-6">
                 <div class="image text-end wow fadeInRight">
-                    <img src="assets/images/box-item/private-event-1.jpg" alt="">
+                    <img src="assets/images/box-item/private-event-2.jpg" alt="">
                 </div>
             </div>
         </div>
@@ -184,6 +184,11 @@
     <div class="portfolio-item">
         <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/box-item/portfolio-4.jpg">
             <img src="assets/images/box-item/portfolio-4.jpg" alt="">
+        </a>
+    </div>
+    <div class="portfolio-item">
+        <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/box-item/portfolio-4.jpg">
+            <img src="assets/images/box-item/portfolio-5.jpg" alt="">
         </a>
     </div>
 </div>
