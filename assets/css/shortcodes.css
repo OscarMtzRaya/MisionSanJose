@@ -1597,7 +1597,7 @@ form.form-search button {
 }
 
 .wg-testimonial > .bg::before {
-    background-color: rgba(9, 15, 16,0.749);
+    background-color: rgba(19, 44, 45,0.749);
     position: absolute;
     content: '';
     top: 0;
