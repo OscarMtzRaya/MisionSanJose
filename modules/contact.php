@@ -9,15 +9,6 @@
 
  <!-- wg-map -->
  <div class="wg-map">
-     <div class="themesflat-container">
-         <div class="row">
-             <div class="col-12">
-                 <div class="top">
-                     <div id="map"></div>
-                 </div>
-             </div>
-         </div>
-     </div>
      <div class="bottom">
          <div class="themesflat-container">
              <div class="row">
@@ -27,10 +18,10 @@
                          <div class="title">Contact Us</div>
                          <p>
                              <a href="tel:+521234567890">
-                             Phone: +52 123-456-7890
+                                 Phone: +52 123-456-7890
                              </a><br>
                              Email: <a href="#" class="__cf_email__">
-                                email@algo.com</a>
+                                 email@algo.com</a>
                          </p>
                      </div>
                  </div>
@@ -39,8 +30,7 @@
                          <div class="image"><img src="assets/images/item-background/address.png" alt=""></div>
                          <div class="title">Address here</div>
                          <p>
-                             Andé Restaurant 767 5th Avenue, <br>
-                             Paris 10021, France
+                             Miguel Hidalgo S/N, Gallery District <br> Centro, San José del Cabo
                          </p>
                      </div>
                  </div>
@@ -68,8 +58,9 @@
                  <div class="heading-section text-center">
                      <div class="title wow fadeInUp">Have a question or need more information? Just drop us a line!
                      </div>
-                     <p class="wow fadeInUp">Give us a call or drop by anytime, we endeavour to answer all enquiries
-                         within 24 hours <br> on business days.We will be happy to answer your questions.</p>
+                     <p class="wow fadeInUp">Give us a call or drop by anytime, we endeavour to answer all enquiries.
+                         <br>We will be happy to answer your questions.
+                     </p>
                      <div class="divider wow fadeInUp">
                          <div></div>
                      </div>
@@ -103,4 +94,22 @@
          </div>
      </div>
  </div>
+
+ <section class="mapaNvo">
+     <div class="wg-quetion h-100 w-100" style="padding-top:0;">
+         <div class="themesflat-container">
+             <div class="row">
+                 <div class="col-12">
+                     <div class="top">
+                         <iframe
+                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1091.3808313190373!2d-109.69594410066327!3d23.062187742565285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af509d96c683db%3A0xba844638a5767c71!2sMisi%C3%B3n%20San%20Jos%C3%A9%20del%20Cabo!5e0!3m2!1sen!2smx!4v1706928352703!5m2!1sen!2smx"
+                             height="640" width="100%" style="border:0;filter: grayscale(1);" allowfullscreen="" loading="lazy"
+                             referrerpolicy="no-referrer-when-downgrade"></iframe>
+                     </div>
+                 </div>
+             </div>
+         </div>
+     </div>
+
+ </section>
  <!-- end wg-quetion -->
