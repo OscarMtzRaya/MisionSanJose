@@ -43,7 +43,7 @@
                                 <p>Maybe you’re in the mood for a juicy steak? No matter what kind of meal you have in
                                     <br> mind, Mision San Jose is ready to prepare it for you.
                                 </p>
-                                <a class="button-two-line" href="menu-1.html">DISCOVERY MENU</a>
+                                <a class="button-two-line" href="index.php#menu">DISCOVERY MENU</a>
                             </div>
                         </div>
                     </div>
@@ -150,7 +150,7 @@
                         meeting, shower, wedding reception, bat/bar mitzvah or rehearsal dinner, we know we can offer
                         you and your guests a truly memorable event.
                     </p>
-                    <a class="button-two-line wow fadeInUp" href="book-a-table.html">GET STARTED FOR YOUR EVENT</a>
+                    <a class="button-two-line wow fadeInUp" href="contact.php">GET STARTED FOR YOUR EVENT</a>
                 </div>
             </div>
             <div class="col-md-6">
