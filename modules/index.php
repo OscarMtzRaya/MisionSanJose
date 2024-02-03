@@ -190,7 +190,7 @@
 <!-- /portfolio -->
 
 <!-- our-menu -->
-<div class="our-menu style-1">
+<div class="our-menu style-1" id="menu">
     <div class="themesflat-container w1600">
         <div class="row">
             <div class="col-12">
@@ -210,16 +210,16 @@
                     <div class="top">
                         <ul class="widget-menu-tab">
                             <li class="item-title active">
-                                <span class="inner">Appetizers </span>
+                                <span class="inner">Food </span>
                             </li>
                             <li class="item-title">
-                                <span class="inner">Main Course</span>
+                                <span class="inner">Drinks</span>
                             </li>
                             <li class="item-title">
-                                <span class="inner">Desserts</span>
+                                <span class="inner">Wine</span>
                             </li>
                             <li class="item-title">
-                                <span class="inner">Drink & wine</span>
+                                <span class="inner">Spirits</span>
                             </li>
                         </ul>
                     </div>
@@ -230,59 +230,16 @@
                             </div>
                         </div>
                         <div class="widget-content-tab">
-                            <div class="widget-content-inner active">
-                                <div class="wg-menu-item">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">OMELETTE WITH BACON</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$32</div>
-                                    </div>
-                                    <p>Candied Jerusalem artichokes, truffle</p>
-                                </div>
-                                <div class="wg-menu-item">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">Tender Octopus and Fennel</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$25</div>
-                                    </div>
-                                    <p>Citrus, wild rocket condiment</p>
-                                </div>
-                                <div class="wg-menu-item">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">Thinly Sliced Brittany Artichokes</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$35</div>
-                                    </div>
-                                    <p>Candied salmon, basil potato puree, baby kale marsala </p>
-                                </div>
-                                <div class="wg-menu-item">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">KING PRAWNS AND LOBSTER</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$23</div>
-                                    </div>
-                                    <p>Creamy saffron, sauce Vierge</p>
-                                </div>
-                                <div class="wg-menu-item">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">Grilled Veal Filet Mignon</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$60</div>
-                                    </div>
-                                    <p>Pumpkin, endives with hazelnuts</p>
-                                </div>
-                                <div class="wg-menu-item mb-0">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">PAN SEARED SCALLOPS</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$32</div>
-                                    </div>
-                                    <p>Saffron, celeriac puree, black pudding, olive oil</p>
-                                </div>
-                                <div class="button-bot">
-                                    <a class="button-two-line m-auto" href="menu-1.html">VIEW ALL MENU</a>
-                                </div>
+                            <div class="widget-content-inner active popup-gallery">
+                                <a href="assets/images/menuEng/01.jpg">
+                                    <img src="assets/images/menuEng/01.jpg" style="width:55rem" alt="">
+                                </a>
                             </div>
+
+
+
+
+
                             <div class="widget-content-inner">
                                 <div class="wg-menu-item">
                                     <div class="flex items-center">
@@ -604,8 +561,8 @@
                 <div class=" relative h-full">
                     <iframe
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2249.9640344807185!2d-109.69752609037937!3d23.062449561355578!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af509d96c683db%3A0xba844638a5767c71!2sMisi%C3%B3n%20San%20Jos%C3%A9%20del%20Cabo!5e0!3m2!1sen!2smx!4v1706596511625!5m2!1sen!2smx"
-                        width="100%" height="450" style="border:0; border-radius:30px; filter: grayscale(1);" allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        width="100%" height="450" style="border:0; border-radius:30px; filter: grayscale(1);"
+                        allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
             <div class="col-xl-4">

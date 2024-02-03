@@ -50,7 +50,7 @@
                          <a href="gallery.php">Gallery</a>
                      </li>
                      <li class="menu-item">
-                         <a href="#">Menu</a>
+                         <a href="index.php#menu">Menu</a>
                      </li>
                      <!-- <li class="menu-item menu-item-has-children current-menu-item">
                                     <a href="#">Home</a>
@@ -102,7 +102,7 @@
                                     </ul>
                                 </li> -->
                      <li class="menu-item">
-                         <a href="#">Contact</a>
+                         <a href="contact.php">Contact</a>
                      </li>
                  </ul>
              </nav><!-- /main-nav -->
@@ -162,7 +162,7 @@
                          <a href="#">Menu</a>
                      </li>
                      <li class="menu-item">
-                         <a href="#">Contact</a>
+                         <a href="contact.php">Contact</a>
                      </li>
                      <li class="menu-item menu-item-has-children-mobile">
                          <a class="item-menu-mobile" href="#">Language</a>

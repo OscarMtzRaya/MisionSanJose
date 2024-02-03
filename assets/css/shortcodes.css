@@ -3242,7 +3242,8 @@ form.form-search button {
 /* wg-map */
 /* --------------------------------------- */
 .wg-map {
-    padding-top: 150px;
+    /* padding-top: 150px; */
+    padding-top: 0px;
 }
 
 .wg-map .top {
