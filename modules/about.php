@@ -80,7 +80,7 @@
             <div class="col-md-7">
                 <div class="images">
                     <!-- <img class="img1 wow fadeInLeft" src="assets/images/box-item/about-2.jpg" alt=""> -->
-                    <img class="img2 wow fadeInLeft" style"width:45rem" data-wow-delay="0.2s" src="assets/images/box-item/about-3.jpg"
+                    <img class="img2 wow fadeInLeft" style"width:45rem;" data-wow-delay="0.2s" src="assets/images/box-item/about-3.jpg"
                         alt="">
                 </div>
             </div>
