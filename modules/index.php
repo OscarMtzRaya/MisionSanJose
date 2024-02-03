@@ -241,168 +241,20 @@
                                 </a>
                             </div>
 
-
-
-
-
-                            <div class="widget-content-inner">
-                                <div class="wg-menu-item">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">OMELETTE WITH BACON</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$32</div>
-                                    </div>
-                                    <p>Candied Jerusalem artichokes, truffle</p>
-                                </div>
-                                <div class="wg-menu-item">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">Tender Octopus and Fennel</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$25</div>
-                                    </div>
-                                    <p>Citrus, wild rocket condiment</p>
-                                </div>
-                                <div class="wg-menu-item">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">Thinly Sliced Brittany Artichokes</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$35</div>
-                                    </div>
-                                    <p>Candied salmon, basil potato puree, baby kale marsala </p>
-                                </div>
-                                <div class="wg-menu-item">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">KING PRAWNS AND LOBSTER</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$23</div>
-                                    </div>
-                                    <p>Creamy saffron, sauce Vierge</p>
-                                </div>
-                                <div class="wg-menu-item">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">Grilled Veal Filet Mignon</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$60</div>
-                                    </div>
-                                    <p>Pumpkin, endives with hazelnuts</p>
-                                </div>
-                                <div class="wg-menu-item mb-0">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">PAN SEARED SCALLOPS</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$32</div>
-                                    </div>
-                                    <p>Saffron, celeriac puree, black pudding, olive oil</p>
-                                </div>
-                                <div class="button-bot">
-                                    <a class="button-two-line m-auto" href="menu-1.html">VIEW ALL MENU</a>
-                                </div>
+                            <div class="widget-content-inner popup-gallery">
+                                <a href="assets/images/menuEng/02.jpg">
+                                    <img src="assets/images/menuEng/02.jpg" alt="">
+                                </a>
                             </div>
-                            <div class="widget-content-inner">
-                                <div class="wg-menu-item">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">OMELETTE WITH BACON</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$32</div>
-                                    </div>
-                                    <p>Candied Jerusalem artichokes, truffle</p>
-                                </div>
-                                <div class="wg-menu-item">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">Tender Octopus and Fennel</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$25</div>
-                                    </div>
-                                    <p>Citrus, wild rocket condiment</p>
-                                </div>
-                                <div class="wg-menu-item">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">Thinly Sliced Brittany Artichokes</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$35</div>
-                                    </div>
-                                    <p>Candied salmon, basil potato puree, baby kale marsala </p>
-                                </div>
-                                <div class="wg-menu-item">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">KING PRAWNS AND LOBSTER</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$23</div>
-                                    </div>
-                                    <p>Creamy saffron, sauce Vierge</p>
-                                </div>
-                                <div class="wg-menu-item">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">Grilled Veal Filet Mignon</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$60</div>
-                                    </div>
-                                    <p>Pumpkin, endives with hazelnuts</p>
-                                </div>
-                                <div class="wg-menu-item mb-0">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">PAN SEARED SCALLOPS</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$32</div>
-                                    </div>
-                                    <p>Saffron, celeriac puree, black pudding, olive oil</p>
-                                </div>
-                                <div class="button-bot">
-                                    <a class="button-two-line m-auto" href="menu-1.html">VIEW ALL MENU</a>
-                                </div>
+                            <div class="widget-content-inner popup-gallery">
+                                <a href="assets/images/menuEng/03.jpg">
+                                    <img src="assets/images/menuEng/03.jpg" alt="">
+                                </a>
                             </div>
-                            <div class="widget-content-inner">
-                                <div class="wg-menu-item">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">OMELETTE WITH BACON</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$32</div>
-                                    </div>
-                                    <p>Candied Jerusalem artichokes, truffle</p>
-                                </div>
-                                <div class="wg-menu-item">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">Tender Octopus and Fennel</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$25</div>
-                                    </div>
-                                    <p>Citrus, wild rocket condiment</p>
-                                </div>
-                                <div class="wg-menu-item">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">Thinly Sliced Brittany Artichokes</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$35</div>
-                                    </div>
-                                    <p>Candied salmon, basil potato puree, baby kale marsala </p>
-                                </div>
-                                <div class="wg-menu-item">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">KING PRAWNS AND LOBSTER</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$23</div>
-                                    </div>
-                                    <p>Creamy saffron, sauce Vierge</p>
-                                </div>
-                                <div class="wg-menu-item">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">Grilled Veal Filet Mignon</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$60</div>
-                                    </div>
-                                    <p>Pumpkin, endives with hazelnuts</p>
-                                </div>
-                                <div class="wg-menu-item mb-0">
-                                    <div class="flex items-center">
-                                        <div class="name"><a href="#">PAN SEARED SCALLOPS</a></div>
-                                        <div class="line"></div>
-                                        <div class="price">$32</div>
-                                    </div>
-                                    <p>Saffron, celeriac puree, black pudding, olive oil</p>
-                                </div>
-                                <div class="button-bot">
-                                    <a class="button-two-line m-auto" href="menu-1.html">VIEW ALL MENU</a>
-                                </div>
+                            <div class="widget-content-inner popup-gallery">
+                                <a href="assets/images/menuEng/04.jpg">
+                                    <img src="assets/images/menuEng/04.jpg" alt="">
+                                </a>
                             </div>
                         </div>
                         <div class="image border-over-column">
