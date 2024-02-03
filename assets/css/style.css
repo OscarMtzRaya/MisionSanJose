@@ -2278,7 +2278,7 @@ a:focus {
 }
 
 .banner-page.about {
-    background-image: url(../images/bg-section/bg-about-us.jpg);
+    background-image: url(../images/bg-section/bg-about-us.jpg?=1);
 }
 
 .banner-page.book-table {
@@ -2290,7 +2290,7 @@ a:focus {
 }
 
 .banner-page.gallery-page {
-    background-image: url(../images/bg-section/bg-gallery.jpg);
+    background-image: url(../images/bg-section/bg-gallery.jpg?=1);
 }
 
 .banner-page.chef-page {
@@ -2314,7 +2314,7 @@ a:focus {
 }
 
 .banner-page.contact-page {
-    background-image: url(../images/bg-section/bg-contact.jpg);
+    background-image: url(../images/bg-section/bg-contact.jpg?=1);
 }
 
 .banner-page.portfolio-page {
