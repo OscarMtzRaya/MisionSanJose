@@ -237,7 +237,7 @@
                         <div class="widget-content-tab">
                             <div class="widget-content-inner active popup-gallery">
                                 <a href="assets/images/menuEng/01.jpg">
-                                    <img src="assets/images/menuEng/01.jpg" style="width:55rem" alt="">
+                                    <img src="assets/images/menuEng/01.jpg" alt="">
                                 </a>
                             </div>
 
