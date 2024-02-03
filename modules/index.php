@@ -186,6 +186,11 @@
             <img src="assets/images/box-item/portfolio-4.jpg" alt="">
         </a>
     </div>
+    <div class="portfolio-item">
+        <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/box-item/portfolio-4.jpg">
+            <img src="assets/images/box-item/portfolio-5.jpg" alt="">
+        </a>
+    </div>
 </div>
 <!-- /portfolio -->
 
