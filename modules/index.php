@@ -446,9 +446,9 @@
                         <p class="text wow fadeInUp">Mon - Fri : 9.00am - 22.00pm, Holidays : Close</p>
                         <div class="widget-social style-big justify-center wow fadeInUp">
                             <ul class="">
-                                <li><a href="#" class="icon-fb"></a></li>
+                                <li><a target="_blank" href="https://www.facebook.com/misionsanjoserest" class="icon-fb"></a></li>
                                 <li><a href="#" class="icon-trip"></a></li>
-                                <li><a href="#" class="icon-instagram2"></a></li>
+                                <li><a target="_blank" href="https://www.instagram.com/misionsanjose_" class="icon-instagram2"></a></li>
                             </ul>
                         </div>
                     </div>

@@ -14,10 +14,9 @@
                             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro itaque aperiam nulla? Reprehenderit, quae perspiciatis!</p>
                             <div class="widget-social style-big">
                                 <ul class="">
-                                    <li><a href="#" class="icon-fb"></a></li>
+                                    <li><a target="_blank" href="https://www.facebook.com/misionsanjoserest" class="icon-fb"></a></li>
                                     <li><a href="#" class="icon-trip"></a></li>
-                                    <li><a href="#" class="icon-youtube-play"></a></li>
-                                    <li><a href="#" class="icon-instagram2"></a></li>
+                                    <li><a target="_blank" href="https://www.instagram.com/misionsanjose_" class="icon-instagram2"></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -26,11 +25,11 @@
                             <ul class="list">
                                 <li>
                                     <p class="tf-color">Monday - Friday:</p>
-                                    <p>08:00 am - 09:00pm</p>
+                                    <p>12:00 pm - 09:00pm</p>
                                 </li>
                                 <li>
                                     <p class="tf-color">Saturday - Sunday:</p>
-                                    <p>
+                                    <p>12:00 pm - 09:00pm</p>
                             </ul>
                         </div>
                         <div class="col-lg-3 col-md-6 col-12">
