@@ -13,16 +13,10 @@
         <div class="row popup-gallery">
             <div class="col-12">
                 <div class="portfolio-item style-mansory">
-                    <img src="assets/images/box-item/portfolio-mansonry-1.jpg" alt="">
-                    <div class="content">
-                        <div class="wrap">
-                            <div class="title">
-                                <a class="gallery-plus-fix" title="Exquisite food"
-                                    href="assets/images/box-item/portfolio-mansonry-1.jpg">
-                                    +</a>
-                            </div>
-                        </div>
-                    </div>
+                <a class="gallery-plus-fix" title="Exquisite food"
+                        href="assets/images/box-item/portfolio-mansonry-1.jpg">
+                        <img src="assets/images/box-item/portfolio-mansonry-1.jpg" alt="">
+                    </a>
                 </div>
             </div>
             <div class="col-md-6">
