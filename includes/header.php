@@ -24,7 +24,7 @@
                  </span>
              </div>
              <div class="button-right">
-                 <a href="book-a-table.html" class="button-default mt-0">BOOK A TABLE</a>
+                 <a href="contact.php" class="button-default mt-0">BOOK A TABLE</a>
              </div>
          </div>
      </div>
@@ -32,7 +32,7 @@
          <div class="header-inner-wrap">
              <div class="header-left">
                  <div id="site-logo">
-                     <a href="index.html" rel="home" class="main-logo">
+                     <a href="index.php" rel="home" class="main-logo">
                          <img id="logo_header" alt="" src="assets/images/logo/logo.png"
                              data-retina="assets/images/logo/logo.png" class="logo-fixes">
                      </a>
@@ -55,50 +55,50 @@
                      <!-- <li class="menu-item menu-item-has-children current-menu-item">
                                     <a href="#">Home</a>
                                     <ul class="sub-menu">
-                                        <li class="menu-item"><a href="index.html">Home 1</a></li>
-                                        <li class="menu-item current-item"><a href="home-2.html">Home 2</a></li>
+                                        <li class="menu-item"><a href="index.php">Home 1</a></li>
+                                        <li class="menu-item current-item"><a href="home-2.php">Home 2</a></li>
                                     </ul>
                                 </li> -->
                      <!-- <li class="menu-item menu-item-has-children">
                                     <a href="#">Pages</a>
                                     <ul class="sub-menu">
-                                        <li class="menu-item"><a href="about.html">About</a></li>
-                                        <li class="menu-item"><a href="book-a-table.html">Book A Table</a></li>
-                                        <li class="menu-item"><a href="coming-soon.html">Coming Soon</a></li>
-                                        <li class="menu-item"><a href="gallery.html">Gallery</a></li>
-                                        <li class="menu-item"><a href="chef.html">Chef</a></li>
-                                        <li class="menu-item"><a href="faq.html">FAQ</a></li>
-                                        <li class="menu-item"><a href="services.html">Services</a></li>
-                                        <li class="menu-item"><a href="services-detail.html">Services-detail</a></li>
-                                        <li class="menu-item"><a href="shop.html">Shop</a></li>
-                                        <li class="menu-item"><a href="shop-detail.html">Shop-detail</a></li>
-                                        <li class="menu-item"><a href="404.html">404</a></li>
+                                        <li class="menu-item"><a href="about.php">About</a></li>
+                                        <li class="menu-item"><a href="book-a-table.php">Book A Table</a></li>
+                                        <li class="menu-item"><a href="coming-soon.php">Coming Soon</a></li>
+                                        <li class="menu-item"><a href="gallery.php">Gallery</a></li>
+                                        <li class="menu-item"><a href="chef.php">Chef</a></li>
+                                        <li class="menu-item"><a href="faq.php">FAQ</a></li>
+                                        <li class="menu-item"><a href="services.php">Services</a></li>
+                                        <li class="menu-item"><a href="services-detail.php">Services-detail</a></li>
+                                        <li class="menu-item"><a href="shop.php">Shop</a></li>
+                                        <li class="menu-item"><a href="shop-detail.php">Shop-detail</a></li>
+                                        <li class="menu-item"><a href="404.php">404</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item menu-item-has-children">
                                     <a href="#">Menu</a>
                                     <ul class="sub-menu">
-                                        <li class="menu-item"><a href="menu-1.html">Menu Style 1</a></li>
-                                        <li class="menu-item"><a href="menu-2.html">Menu Style 2</a></li>
-                                        <li class="menu-item"><a href="menu-3.html">Menu Style 3</a></li>
+                                        <li class="menu-item"><a href="menu-1.php">Menu Style 1</a></li>
+                                        <li class="menu-item"><a href="menu-2.php">Menu Style 2</a></li>
+                                        <li class="menu-item"><a href="menu-3.php">Menu Style 3</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item menu-item-has-children">
                                     <a href="#">Portfolio</a>
                                     <ul class="sub-menu">
-                                        <li class="menu-item"><a href="portfolio-full-width.html">Portfolio Full Width</a></li>
-                                        <li class="menu-item"><a href="portfolio-mansonry.html">Portfolio Mansonry</a></li>
-                                        <li class="menu-item"><a href="portfolio-three-colum.html">Portfolio Three Colum</a></li>
-                                        <li class="menu-item"><a href="portfolio-carousel.html">Portfolio Carousel</a></li>
-                                        <li class="menu-item"><a href="portfolio-detail.html">Portfolio Detail</a></li>
+                                        <li class="menu-item"><a href="portfolio-full-width.php">Portfolio Full Width</a></li>
+                                        <li class="menu-item"><a href="portfolio-mansonry.php">Portfolio Mansonry</a></li>
+                                        <li class="menu-item"><a href="portfolio-three-colum.php">Portfolio Three Colum</a></li>
+                                        <li class="menu-item"><a href="portfolio-carousel.php">Portfolio Carousel</a></li>
+                                        <li class="menu-item"><a href="portfolio-detail.php">Portfolio Detail</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item menu-item-has-children">
                                     <a href="#">Blog</a>
                                     <ul class="sub-menu">
-                                        <li class="menu-item"><a href="blog.html">Blog</a></li>
-                                        <li class="menu-item"><a href="blog-full-width.html">Blog Full Width</a></li>
-                                        <li class="menu-item"><a href="blog-single.html">Blog Single</a></li>
+                                        <li class="menu-item"><a href="blog.php">Blog</a></li>
+                                        <li class="menu-item"><a href="blog-full-width.php">Blog Full Width</a></li>
+                                        <li class="menu-item"><a href="blog-single.php">Blog Single</a></li>
                                     </ul>
                                 </li> -->
                      <li class="menu-item">
@@ -131,7 +131,7 @@
          <div class="overlay-mobile-nav"></div>
          <div class="inner-mobile-nav">
              <div class="relative">
-                 <a href="index.html" rel="home" class="main-logo">
+                 <a href="index.php" rel="home" class="main-logo">
                      <img id="mobile-logo_header" alt="" src="assets/images/logo/logo.png"
                          data-retina="assets/images/logo/logo.png">
                  </a>
@@ -174,50 +174,50 @@
                      <!-- <li class="menu-item menu-item-has-children-mobile current-menu-item">
                          <a class="item-menu-mobile" href="#">Home</a>
                          <ul class="sub-menu-mobile">
-                             <li class="menu-item"><a href="index.html">Home 1</a></li>
-                             <li class="menu-item current-item"><a href="home-2.html">Home 2</a></li>
+                             <li class="menu-item"><a href="index.php">Home 1</a></li>
+                             <li class="menu-item current-item"><a href="home-2.php">Home 2</a></li>
                          </ul>
                      </li>
                      <li class="menu-item menu-item-has-children-mobile">
                          <a class="item-menu-mobile" href="#">Pages</a>
                          <ul class="sub-menu-mobile">
-                             <li class="menu-item"><a href="about.html">About</a></li>
-                             <li class="menu-item"><a href="book-a-table.html">Book A Table</a></li>
-                             <li class="menu-item"><a href="coming-soon.html">Coming Soon</a></li>
-                             <li class="menu-item"><a href="gallery.html">Gallery</a></li>
-                             <li class="menu-item"><a href="chef.html">Chef</a></li>
-                             <li class="menu-item"><a href="faq.html">FAQ</a></li>
-                             <li class="menu-item"><a href="services.html">Services</a></li>
-                             <li class="menu-item"><a href="services-detail.html">Services-detail</a></li>
-                             <li class="menu-item"><a href="shop.html">Shop</a></li>
-                             <li class="menu-item"><a href="shop-detail.html">Shop-detail</a></li>
-                             <li class="menu-item"><a href="404.html">404</a></li>
+                             <li class="menu-item"><a href="about.php">About</a></li>
+                             <li class="menu-item"><a href="book-a-table.php">Book A Table</a></li>
+                             <li class="menu-item"><a href="coming-soon.php">Coming Soon</a></li>
+                             <li class="menu-item"><a href="gallery.php">Gallery</a></li>
+                             <li class="menu-item"><a href="chef.php">Chef</a></li>
+                             <li class="menu-item"><a href="faq.php">FAQ</a></li>
+                             <li class="menu-item"><a href="services.php">Services</a></li>
+                             <li class="menu-item"><a href="services-detail.php">Services-detail</a></li>
+                             <li class="menu-item"><a href="shop.php">Shop</a></li>
+                             <li class="menu-item"><a href="shop-detail.php">Shop-detail</a></li>
+                             <li class="menu-item"><a href="404.php">404</a></li>
                          </ul>
                      </li>
                      <li class="menu-item menu-item-has-children-mobile">
                          <a class="item-menu-mobile" href="#">Menu</a>
                          <ul class="sub-menu-mobile">
-                             <li class="menu-item"><a href="menu-1.html">Menu Style 1</a></li>
-                             <li class="menu-item"><a href="menu-2.html">Menu Style 2</a></li>
-                             <li class="menu-item"><a href="menu-3.html">Menu Style 3</a></li>
+                             <li class="menu-item"><a href="menu-1.php">Menu Style 1</a></li>
+                             <li class="menu-item"><a href="menu-2.php">Menu Style 2</a></li>
+                             <li class="menu-item"><a href="menu-3.php">Menu Style 3</a></li>
                          </ul>
                      </li>
                      <li class="menu-item menu-item-has-children-mobile">
                          <a class="item-menu-mobile" href="#">Portfolio</a>
                          <ul class="sub-menu-mobile">
-                             <li class="menu-item"><a href="portfolio-full-width.html">Portfolio Full Width</a></li>
-                             <li class="menu-item"><a href="portfolio-mansonry.html">Portfolio Mansonry</a></li>
-                             <li class="menu-item"><a href="portfolio-three-colum.html">Portfolio Three Colum</a></li>
-                             <li class="menu-item"><a href="portfolio-carousel.html">Portfolio Carousel</a></li>
-                             <li class="menu-item"><a href="portfolio-detail.html">Portfolio Detail</a></li>
+                             <li class="menu-item"><a href="portfolio-full-width.php">Portfolio Full Width</a></li>
+                             <li class="menu-item"><a href="portfolio-mansonry.php">Portfolio Mansonry</a></li>
+                             <li class="menu-item"><a href="portfolio-three-colum.php">Portfolio Three Colum</a></li>
+                             <li class="menu-item"><a href="portfolio-carousel.php">Portfolio Carousel</a></li>
+                             <li class="menu-item"><a href="portfolio-detail.php">Portfolio Detail</a></li>
                          </ul>
                      </li>
                      <li class="menu-item menu-item-has-children-mobile">
                          <a class="item-menu-mobile" href="#">Blog</a>
                          <ul class="sub-menu-mobile">
-                             <li class="menu-item"><a href="blog.html">Blog</a></li>
-                             <li class="menu-item"><a href="blog-full-width.html">Blog Full Width</a></li>
-                             <li class="menu-item"><a href="blog-single.html">Blog Single</a></li>
+                             <li class="menu-item"><a href="blog.php">Blog</a></li>
+                             <li class="menu-item"><a href="blog-full-width.php">Blog Full Width</a></li>
+                             <li class="menu-item"><a href="blog-single.php">Blog Single</a></li>
                          </ul>
                      </li> -->
                  </ul>
