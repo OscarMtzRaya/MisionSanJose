@@ -79,8 +79,8 @@
         <div class="row">
             <div class="col-md-7">
                 <div class="images">
-                    <img class="img1 wow fadeInLeft" src="assets/images/box-item/about-2.jpg" alt="">
-                    <img class="img2 wow fadeInLeft" data-wow-delay="0.2s" src="assets/images/box-item/about-3.jpg"
+                    <!-- <img class="img1 wow fadeInLeft" src="assets/images/box-item/about-2.jpg" alt=""> -->
+                    <img class="img2 wow fadeInLeft" style"width:45rem" data-wow-delay="0.2s" src="assets/images/box-item/about-3.jpg"
                         alt="">
                 </div>
             </div>
@@ -99,7 +99,7 @@
                     </p>
                     <p class="wow fadeInUp">loren proident, sunt in culpa qui cia deserunt mollit anim id est
                         laborum. Sed utsa tat monullamco</p>
-                    <a class="button-two-line wow fadeInUp" href="#">VIEW MENU</a>
+                    <a class="button-two-line wow fadeInUp" href="index.php#menu">VIEW MENU</a>
                 </div>
             </div>
         </div>
