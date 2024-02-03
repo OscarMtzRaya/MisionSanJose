@@ -1832,6 +1832,7 @@ form.form-search button {
 .widget-tabs.style-1 > .bottom .image {
     position: relative;
     height: fit-content;
+    max-width: 40rem;
     margin-top: 33px;
 }
 
