@@ -14,8 +14,8 @@
             <div class="col-12">
                 <div class="portfolio-item style-mansory">
                 <a class="gallery-plus-fix" title="Exquisite food"
-                        href="assets/images/box-item/portfolio-mansonry-1.jpg">
-                        <img src="assets/images/box-item/portfolio-mansonry-1.jpg" alt="">
+                        href="assets/images/box-item/portfolio-mansonry-1.jpg?=1">
+                        <img src="assets/images/box-item/portfolio-mansonry-1.jpg?=1" alt="">
                     </a>
                 </div>
             </div>
