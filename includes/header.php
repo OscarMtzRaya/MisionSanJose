@@ -159,7 +159,7 @@
                          <a href="gallery.php">Gallery</a>
                      </li>
                      <li class="menu-item">
-                         <a href="#">Menu</a>
+                         <a href="index.php#menu">Menu</a>
                      </li>
                      <li class="menu-item">
                          <a href="contact.php">Contact</a>
