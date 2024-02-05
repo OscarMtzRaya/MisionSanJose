@@ -417,7 +417,7 @@
             <div class="col-xl-4" style="padding-top:3rem">
                 <div class="relative h-full">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1297.8794915968108!2d-109.69518677413483!3d23.06201750581786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51a292fe8185%3A0x3aa0d0dbca3c12e1!2zTWlzacOzbiBE4oCZIFNhbiBKb3PDqQ!5e0!3m2!1ses-419!2smx!4v1707109877499!5m2!1ses-419!2smx" 
-                            width="100%" height="450" style="border:0;border-radius:30px; filter: grayscale(1);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            width="100%" height="450" style="border:0;border-radius:30px; filter: grayscale(5);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
             <div class="col-xl-4">
