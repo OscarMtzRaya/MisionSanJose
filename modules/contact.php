@@ -95,7 +95,7 @@
      </div>
  </div>
 
- <section class="mapaNvo" hidden>
+ <section class="mapaNvo">
      <div class="wg-quetion h-100 w-100" style="padding-top:0;">
          <div class="themesflat-container">
              <div class="row">
