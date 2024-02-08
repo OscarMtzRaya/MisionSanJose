@@ -336,10 +336,11 @@
     }
     .button-style-arrow::after {
         font-size: 12px !important;
+        color: #0e1618 !important;
     }
 
     .button-style-arrow{
-        color: #c6ac83 !important;
+        background-color: #c6ac83 !important;
     }
 }
 
