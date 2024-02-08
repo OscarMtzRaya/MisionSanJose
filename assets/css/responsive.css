@@ -466,9 +466,9 @@
         top: 0;
         font-size: 165px;
     }
-    .swiper-wrapper {
+    /* .swiper-wrapper {
         padding-bottom: 0 !important;
-    }
+    } */
     .reservations-location .map-box {
         width: 345px;
         height: 345px;
