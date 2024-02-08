@@ -47,7 +47,8 @@
                     "navigation": {
                         "nextEl": ".about-next",
                         "prevEl": ".about-prev"
-                    }
+                    },
+                    "dynamicBullets": true,
                 }'>
         <div class="swiper-wrapper popup-gallery">
             <div class="swiper-slide">
