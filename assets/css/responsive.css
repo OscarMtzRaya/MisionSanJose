@@ -230,6 +230,19 @@
     .swiper-pagination {
         display: none !important;
     } */
+
+    .swiper-button-next,
+    .swiper-button-prev{
+        max-width: 4rem !important;
+        max-height: 4rem !important;
+    }
+    .button-style-arrow::after {
+        font-size: 12px !important;
+    }
+
+    .button-style-arrow{
+        color: #c6ac83;
+    }
     .header-right {
         padding-right: 0 !important;
         padding-left: 15px !important;
