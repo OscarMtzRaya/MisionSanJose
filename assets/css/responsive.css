@@ -224,12 +224,12 @@
     .mobile-button {
         display: block;
     }
-    .swiper-button,
+    /* .swiper-button,
     .swiper-button-next,
     .swiper-button-prev,
     .swiper-pagination {
         display: none !important;
-    }
+    } */
     .header-right {
         padding-right: 0 !important;
         padding-left: 15px !important;
