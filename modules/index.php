@@ -1,17 +1,17 @@
 <!-- page-title -->
 <div class="page-title home-2">
-    <div class="swiper relative slider-page-title">
-        <div class="swiper-wrapper">
+    <div class="swiper relative slider-page-title" >
+        <div class="swiper-wrapper" >
             <div class="swiper-slide">
                 <div class="content text-left">
                     <div class="themesflat-container">
                         <div class="row">
                             <div class="col-12">
                                 <div class="text">Welcome to Mision San Jose restaurant</div>
-                                <div class="heading">Flavors for royalty</div>
-                                <p>Maybe you’re in the mood for a juicy steak? No matter what kind of <br> meal you have
-                                    in mind, Mision San Jose is ready to prepare it for you.</p>
-                                <a class="button-two-line" href="#">DISCOVERY MENU</a>
+                                <div class="heading">Signature cocktails</div>
+                                <p>Discover the best signature cocktails with a beautiful view on the terrace at Mission
+                                    San José.</p>
+                                <a class="button-two-line" href="#menu">DISCOVERY MENU</a>
                             </div>
                         </div>
                     </div>
@@ -24,10 +24,11 @@
                             <div class="col-12">
                                 <div class="text">Bringing Class To Cuisine</div>
                                 <div class="heading">Where every flavor tells a story</div>
-                                <p>Maybe you’re in the mood for a juicy steak? No matter what kind of meal you have in
-                                    <br> mind, Mision San Jose is ready to prepare it for you.
+                                <p>
+                                    Discover the charm of one of the oldest buildings in San José del Cabo and immerse
+                                    yourself in history while enjoying unforgettable culinary experiences.
                                 </p>
-                                <a class="button-two-line" href="#">DISCOVERY MENU</a>
+                                <a class="button-two-line" href="#menu">DISCOVERY MENU</a>
                             </div>
                         </div>
                     </div>
@@ -38,12 +39,13 @@
                     <div class="themesflat-container">
                         <div class="row">
                             <div class="col-12">
-                                <div class="text">Bringing Class To Cuisine</div>
-                                <div class="heading">Where every flavor tells a story</div>
-                                <p>Maybe you’re in the mood for a juicy steak? No matter what kind of meal you have in
-                                    <br> mind, Mision San Jose is ready to prepare it for you.
+                                <div class="text">Counting stories through experiences</div>
+                                <div class="heading">The best culinary experience</div>
+                                <p>
+                                    Located downtown in San José, with an incredible view and featuring our exquisite
+                                    dishes.
                                 </p>
-                                <a class="button-two-line" href="index.php#menu">DISCOVERY MENU</a>
+                                <a class="button-two-line" href="#menu">DISCOVERY MENU</a>
                             </div>
                         </div>
                     </div>
@@ -76,7 +78,8 @@
                 <p class="wow fadeInUp">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, necessitatibus
                     repellat quibusdam ea numquam adipisci doloribus sequi id? Sit, libero.</p>
                 <!-- <img class="wow fadeInUp" src="assets/images/item-background/signature.png" alt=""> -->
-                <div class="author wow fadeInUp"><a href="#">Mision San Jose</a></div>
+                <div class="author wow fadeInUp"><a href="https://www.facebook.com/misionsanjoserest"
+                        target="_blank">Mision San José</a></div>
             </div>
         </div>
         <div class="center">
@@ -100,23 +103,15 @@
                         <p class="text">Opening Hour:</p>
                     </li>
                     <li class="wow fadeInUp">
-                        <p>Monday - Friday : 9.00am - 22.00pm</p>
+                        <p>Thusday - Sunday : 5.00pm - 11.00pm</p>
                     </li>
                     <li class="wow fadeInUp">
-                        <p>Saturday: 10.00am - 23.00pm</p>
+                        <p>Monday: Closed</p>
                     </li>
-                    <li class="wow fadeInUp">
-                        <p>Sunday: 5.00pm - 23.00pm</p>
-                    </li>
-                    <!-- <li class="wow fadeInUp">
-                        <p>Holidays: Closed</p>
-                    </li> -->
-                    <li class="wow fadeInUp">
-                        <p>Happy Hour: 18.00pm - 20.00pm</p>
-                    </li>
+
                 </ul>
-                <p class="wow fadeInUp">“ On holidays is a special day, we will open and with special offer, we will
-                    announce ”</p>
+                <!-- <p class="wow fadeInUp">“ On holidays is a special day, we will open and with special offer, we will
+                    announce ”</p> -->
             </div>
         </div>
     </div>
@@ -146,9 +141,11 @@
                             <div></div>
                         </div>
                     </div>
-                    <p class="wow fadeInUp">Whether you're hosting a corporate event, cocktail party, luncheon, dinner,
-                        meeting, shower, wedding reception, bat/bar mitzvah or rehearsal dinner, we know we can offer
-                        you and your guests a truly memorable event.
+                    <p class="wow fadeInUp">
+                        Explore the exquisiteness of exclusivity by reserving our space for private events. In the heart
+                        of San José del Cabo, we invite you to elevate your celebrations to new heights. From elegant
+                        intimate dinners to grand gatherings, our sophisticated ambiance and impeccable service are
+                        crafted to bring your dreams to life.
                     </p>
                     <a class="button-two-line wow fadeInUp" href="contact.php">GET STARTED FOR YOUR EVENT</a>
                 </div>
@@ -202,9 +199,9 @@
                 <div class="heading-section text-center">
                     <div class="sub wow fadeInUp">What food do we have in our restaurant?</div>
                     <div class="main wow fadeInUp">FROM OUR MENU</div>
-                    <div class="text wow fadeInUp">We always give our customers a feeling of peace of mind and comfort
-                        when dining at our restaurant <br> Sed ut perspiciatis unde omnis iste natus error voluptate
-                        accusantium</div>
+                    <div class="text wow fadeInUp">
+                        From exquisite dishes to signature cocktails, we have everything to pamper your palate.
+                    </div>
                     <div class="divider wow fadeInUp">
                         <div></div>
                     </div>
@@ -270,28 +267,7 @@
 </div>
 <!-- /our-menu -->
 
-<!-- wg-chef -->
-<!-- <div class="wg-chef">
-    <div class="top">
-        <div class="image">
-            <img src="assets/images/box-item/Quality-%26-Balance.jpg" alt="">
-        </div>
-        <div class="content">
-            <div class="heading-section">
-                <div class="sub wow fadeInUp">Quality & Balance</div>
-                <div class="main wow fadeInUp">Our food PHILOSOPHY</div>
-                <div class="divider wow fadeInUp">
-                    <div></div>
-                </div>
-            </div>
-            <p class="wow fadeInUp">Simple and balanced. Alexander Petillo brings together flavors and specialties from
-                Italy and beyond to create his own culinary world, full of surprising artistry. Vestibulum mollis dolor
-                vel imperdiet lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            <a class="button-two-line wow fadeInUp" href="chef.html">VIEW ALL THE CHEF</a>
-        </div>
-    </div>
-</div> -->
-<!-- /wg-chef -->
+
 
 <!-- wg-testimonial -->
 <div class="wg-testimonial style-1 snare-before snare-after relative over-hidden">
@@ -309,11 +285,16 @@
             <div class="swiper-slide">
                 <div class="testimonial-item">
                     <img class="wow fadeInUp" src="assets/images/item-background/icon-quote.png" alt="">
-                    <div class="title wow fadeInUp"><a href="#">Good restaurant, delicious food, classy atmosphere</a>
+                    <div class="title wow fadeInUp">
+                        <h2>Good restaurant, delicious food</h2>
                     </div>
-                    <p class="wow fadeInUp">Please thank your team for their professional, efficient and friendly
-                        service on Sat night. The chefs smashed it and the drinks flowed freely! Everyone was impressed
-                        and were quite taken with how cost effective it was to have Ochre do what you did.</p>
+                    <p class="wow fadeInUp">
+                        This gem of a restaurant has an amazing view of the plaza from its upstairs seating area. The
+                        excellence of the staff was eclipsed only by the food and the drinks. The food was extremely
+                        good and unique. I have not had a better drink experience! Do yourself a favor and try this
+                        spot. Come on Thursdays to enjoy the artist market from the best vantage point in the area.
+                        Jonathan was absolutely amazing!
+                    </p>
                     <div class="rating wow fadeInUp">
                         <i class="icon-star"></i>
                         <i class="icon-star"></i>
@@ -321,16 +302,21 @@
                         <i class="icon-star"></i>
                         <i class="icon-star"></i>
                     </div>
-                    <div class="author wow fadeInUp"><a href="#">Margaret - Food critic</a></div>
+                    <div class="author wow fadeInUp">
+                        <h4>Mike Park</h4>
+                    </div>
                 </div>
             </div>
             <div class="swiper-slide">
                 <div class="testimonial-item">
                     <img src="assets/images/item-background/icon-quote.png" alt="">
-                    <div class="title"><a href="#">Good restaurant, delicious food, classy atmosphere</a></div>
-                    <p>Please thank your team for their professional, efficient and friendly service on Sat night. The
-                        chefs smashed it and the drinks flowed freely! Everyone was impressed and were quite taken with
-                        how cost effective it was to have Ochre do what you did.</p>
+                    <div class="title">
+                        <h2>The best restaurant</h2>
+                    </div>
+                    <p>
+                        One of the best places in town if not THE BEST a must if you are in town with a great view. Food
+                        and service was great and I will definitely be coming back. 100% recommended!
+                    </p>
                     <div class="rating">
                         <i class="icon-star"></i>
                         <i class="icon-star"></i>
@@ -338,16 +324,23 @@
                         <i class="icon-star"></i>
                         <i class="icon-star"></i>
                     </div>
-                    <div class="author"><a href="#">Margaret - Food critic</a></div>
+                    <div class="author">
+                        <h4>Lorenzo Carreon</h4>
+                    </div>
                 </div>
             </div>
             <div class="swiper-slide">
                 <div class="testimonial-item">
                     <img src="assets/images/item-background/icon-quote.png" alt="">
-                    <div class="title"><a href="#">Good restaurant, delicious food, classy atmosphere</a></div>
-                    <p>Please thank your team for their professional, efficient and friendly service on Sat night. The
-                        chefs smashed it and the drinks flowed freely! Everyone was impressed and were quite taken with
-                        how cost effective it was to have Ochre do what you did.</p>
+                    <div class="title">
+                        <h2>Great terrace overlooking Plaza Mijares</h2>
+                    </div>
+                    <p>
+                        Amazing service by Jonathan and others! The watermelon margarita he recommended was the best
+                        we’ve ever had, very fresh and flavorful. Great terrace above the plaza to watch the sunset
+                        light up the sky behind the mountains and watch locals and tourists enjoy their evening. Tasty
+                        food and drinks!
+                    </p>
                     <div class="rating">
                         <i class="icon-star"></i>
                         <i class="icon-star"></i>
@@ -355,7 +348,9 @@
                         <i class="icon-star"></i>
                         <i class="icon-star"></i>
                     </div>
-                    <div class="author"><a href="#">Margaret - Food critic</a></div>
+                    <div class="author">
+                        <h4>Amanda W</h4>
+                    </div>
                 </div>
             </div>
         </div>
@@ -417,8 +412,10 @@
             </div>
             <div class="col-xl-4" style="padding-top:3rem">
                 <div class="relative h-full">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1297.8794915968108!2d-109.69518677413483!3d23.06201750581786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51a292fe8185%3A0x3aa0d0dbca3c12e1!2zTWlzacOzbiBE4oCZIFNhbiBKb3PDqQ!5e0!3m2!1ses-419!2smx!4v1707109877499!5m2!1ses-419!2smx" 
-                            width="100%" height="450" style="border:0;border-radius:30px; filter: grayscale(5);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1297.8794915968108!2d-109.69518677413483!3d23.06201750581786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51a292fe8185%3A0x3aa0d0dbca3c12e1!2zTWlzacOzbiBE4oCZIFNhbiBKb3PDqQ!5e0!3m2!1ses-419!2smx!4v1707109877499!5m2!1ses-419!2smx"
+                        width="100%" height="450" style="border:0;border-radius:30px; filter: grayscale(5);"
+                        allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
             <div class="col-xl-4">
@@ -435,19 +432,23 @@
                         </div>
                         <div class="title wow fadeInUp">book a table & address:</div>
                         <div class="number wow fadeInUp">
-                            <a href="tel:+521234567890">
-                                +52 123 456 7890
+                            <a href="tel:+526241232842">
+                                +52 624 123 2842
                             </a>
                         </div>
-                        <p class="wow fadeInUp">San José del Cabo <a href="#" class="__cf_email__">email@algo.com</a>
+                        <p class="wow fadeInUp">San José del Cabo <br><a href="misiondsanjose@gmail.com"
+                                target="_blank">misiondsanjose@gmail.com</a>
                         </p>
                         <div class="title wow fadeInUp">Opening Hours:</div>
-                        <p class="text wow fadeInUp">Mon - Fri : 9.00am - 22.00pm, Holidays : Close</p>
+                        <p class="text wow fadeInUp">Thu - Sun : 5.00pm - 11.00pm, Monday : Closed</p>
                         <div class="widget-social style-big justify-center wow fadeInUp">
                             <ul class="">
-                                <li><a target="_blank" href="https://www.facebook.com/misionsanjoserest" class="icon-fb"></a></li>
-                                <li><a href="#" class="icon-trip"></a></li>
-                                <li><a target="_blank" href="https://www.instagram.com/misionsanjose_" class="icon-instagram2"></a></li>
+                                <li><a target="_blank" href="https://www.facebook.com/misionsanjoserest"
+                                        class="icon-fb"></a></li>
+                                <li><a target="_blank" href="https://www.tripadvisor.com/Restaurant_Review-g152516-d26530596-Reviews-Mision_San_Jose-San_Jose_del_Cabo_Los_Cabos_Baja_California.html#REVIEWS"
+                                        class="icon-trip"></a></li>
+                                <li><a target="_blank" href="https://www.instagram.com/misionsanjose_"
+                                        class="icon-instagram2"></a></li>
                             </ul>
                         </div>
                     </div>
