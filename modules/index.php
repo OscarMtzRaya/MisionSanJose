@@ -277,12 +277,9 @@
                     "slidesPerView": 1,
                     "pagination": {
                         "el": ".page-title-pagination",
-                        "clickable": true
-                    },
-                    "navigation": {
-                        "nextEl": ".about-next",
-                        "prevEl": ".about-prev"
-                    },
+                        "clickable": true,
+                        "dynamicBullets": true
+                    }
                 }'>
         <div class="swiper-wrapper">
             <div class="swiper-slide">
@@ -357,8 +354,6 @@
                 </div>
             </div>
         </div>
-        <div class="swiper-button-next button-style-arrow about-next"></div>
-        <div class="swiper-button-prev button-style-arrow about-prev"></div>
         <div class="swiper-pagination style-dot page-title-pagination"></div>
     </div>
 </div>
