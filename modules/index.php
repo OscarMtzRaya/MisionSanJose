@@ -277,8 +277,7 @@
                     "slidesPerView": 1,
                     "pagination": {
                         "el": ".page-title-pagination",
-                        "clickable": true,
-                        "dynamicBullets": true,
+                        "clickable": true
                     },
                     "navigation": {
                         "nextEl": ".about-next",
