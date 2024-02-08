@@ -47,11 +47,6 @@
                     "navigation": {
                         "nextEl": ".about-next",
                         "prevEl": ".about-prev"
-                    },
-                    "pagination": {
-                        "el": ".wg-pagination",
-                        "clickable": true,
-                        "dynamicBullets": true,
                     }
                 }'>
         <div class="swiper-wrapper popup-gallery">
@@ -73,7 +68,6 @@
         </div>
         <div class="swiper-button-next button-style-arrow about-next"></div>
         <div class="swiper-button-prev button-style-arrow about-prev"></div>
-        <div class="swiper-pagination style-dot wg-pagination"></div>
     </div>
 </div>
 <!-- /wg-about-slider -->
