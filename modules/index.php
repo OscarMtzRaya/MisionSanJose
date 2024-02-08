@@ -301,7 +301,8 @@
                     "slidesPerView": 1,
                     "pagination": {
                         "el": ".page-title-pagination",
-                        "clickable": true
+                        "clickable": true,
+                        "dynamicBullets": true,
                     }
                 }'>
         <div class="swiper-wrapper">
