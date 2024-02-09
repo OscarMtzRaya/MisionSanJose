@@ -435,7 +435,7 @@
                         </div>
                         <div class="title wow fadeInUp">Book by WhatsApp</div>
                         <div class="number wow fadeInUp">
-                            <a href="https://wa.me/+526241096522?text=Hola%20me%20gustaría%20más%20información.">
+                            <a href="https://wa.me/+526241096522?text=Hello,%20I%20would%20like%20make%20a%20reservation.">
                                 +52 624 109 6522
                             </a>
                         </div>

@@ -7,7 +7,7 @@
                      <p>San José del Cabo</p>
                  </li>
                  <li>
-                     <p><a href="#" class="__cf_email__">Email</a></p>
+                     <p><a href="mailto:misiondsanjose@gmail.com" class="__cf_email__">misiondsanjose@gmail.com</a></p>
                  </li>
              </ul>
          </div>
@@ -24,7 +24,7 @@
                  </span>
              </div>
              <div class="button-right">
-                 <a target="ref" href="https://wa.me/+521234567890?text=Hello,%20I%20would%20like%20more%20information." class="button-default mt-0">BOOK A TABLE</a>
+                 <a target="ref" href="https://wa.me/+526241096522?text=Hello,%20I%20would%20like%20make%20a%20reservation." class="button-default mt-0">BOOK A TABLE</a>
              </div>
          </div>
      </div>
@@ -118,7 +118,7 @@
                      </div>
                      <div class="content">
                          <p class="tf-color">Contact Us</p>
-                         <a href="tel:+521234567890"><p class="number-phone">+52 123 456 7890</p></a>
+                         <a href="tel:+526241232842"><p class="number-phone">+52 624 123 2842</p></a>
                      </div>
                  </div>
                  <div class="mobile-button ">
