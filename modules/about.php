@@ -193,11 +193,15 @@
             <div class="swiper-slide">
                 <div class="testimonial-item">
                     <img class="wow fadeInUp" src="assets/images/item-background/icon-quote.png" alt="">
-                    <div class="title wow fadeInUp"><a href="#">Good restaurant, delicious food, classy atmosphere</a>
+                    <div class="title wow fadeInUp"><a href="#">Good restaurant, delicious food</a>
                     </div>
-                    <p class="wow fadeInUp">Please thank your team for their professional, efficient and friendly
-                        service on Sat night. The chefs smashed it and the drinks flowed freely! Everyone was impressed
-                        and were quite taken with how cost effective it was to have Ochre do what you did.</p>
+                    <p class="wow fadeInUp">
+                        This gem of a restaurant has an amazing view of the plaza from its upstairs seating area. The
+                        excellence of the staff was eclipsed only by the food and the drinks. The food was extremely
+                        good and unique. I have not had a better drink experience! Do yourself a favor and try this
+                        spot. Come on Thursdays to enjoy the artist market from the best vantage point in the area.
+                        Jonathan was absolutely amazing!
+                    </p>
                     <div class="rating wow fadeInUp">
                         <i class="icon-star"></i>
                         <i class="icon-star"></i>
@@ -205,16 +209,17 @@
                         <i class="icon-star"></i>
                         <i class="icon-star"></i>
                     </div>
-                    <div class="author wow fadeInUp"><a href="#">Margaret - Food critic</a></div>
+                    <div class="author wow fadeInUp"><a href="#">Mike Park</a></div>
                 </div>
             </div>
             <div class="swiper-slide">
                 <div class="testimonial-item">
                     <img src="assets/images/item-background/icon-quote.png" alt="">
-                    <div class="title"><a href="#">Good restaurant, delicious food, classy atmosphere</a></div>
-                    <p>Please thank your team for their professional, efficient and friendly service on Sat night. The
-                        chefs smashed it and the drinks flowed freely! Everyone was impressed and were quite taken with
-                        how cost effective it was to have Ochre do what you did.</p>
+                    <div class="title"><a href="#">The best restaurant</a></div>
+                    <p>
+                        One of the best places in town if not THE BEST a must if you are in town with a great view. Food
+                        and service was great and I will definitely be coming back. 100% recommended!
+                    </p>
                     <div class="rating">
                         <i class="icon-star"></i>
                         <i class="icon-star"></i>
@@ -222,16 +227,17 @@
                         <i class="icon-star"></i>
                         <i class="icon-star"></i>
                     </div>
-                    <div class="author"><a href="#">Margaret - Food critic</a></div>
+                    <div class="author"><a href="#">Lorenzo Carreon</a></div>
                 </div>
             </div>
             <div class="swiper-slide">
                 <div class="testimonial-item">
                     <img src="assets/images/item-background/icon-quote.png" alt="">
-                    <div class="title"><a href="#">Good restaurant, delicious food, classy atmosphere</a></div>
-                    <p>Please thank your team for their professional, efficient and friendly service on Sat night. The
-                        chefs smashed it and the drinks flowed freely! Everyone was impressed and were quite taken with
-                        how cost effective it was to have Ochre do what you did.</p>
+                    <div class="title"><a href="#">Great terrace overlooking Plaza Mijares</a></div>
+                    <p>Amazing service by Jonathan and others! The watermelon margarita he recommended was the best
+                        we’ve ever had, very fresh and flavorful. Great terrace above the plaza to watch the sunset
+                        light up the sky behind the mountains and watch locals and tourists enjoy their evening. Tasty
+                        food and drinks!</p>
                     <div class="rating">
                         <i class="icon-star"></i>
                         <i class="icon-star"></i>
@@ -239,7 +245,7 @@
                         <i class="icon-star"></i>
                         <i class="icon-star"></i>
                     </div>
-                    <div class="author"><a href="#">Margaret - Food critic</a></div>
+                    <div class="author"><a href="#">Amanda W</a></div>
                 </div>
             </div>
         </div>
