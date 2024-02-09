@@ -17,18 +17,22 @@
             <div class="col-12">
                 <div class="top-content">
                     <div class="heading-section text-center">
-                        <div class="sub wow fadeInUp">About Mision San José</div>
+                        <div class="sub wow fadeInUp">About Mision D San José</div>
                         <div class="main wow fadeInUp">Luxury <br> restaurant in San José del Cabo</div>
                         <div class="divider wow fadeInUp">
                             <div></div>
                         </div>
                     </div>
-                    <p class="wow fadeInUp">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima aliquid in
-                        dolor. Aspernatur illum voluptate reprehenderit minima, autem quia porro, quidem numquam eos
-                        neque obcaecati inventore vero fugiat. Quis, eligendi?</p>
-                    <p class="wow fadeInUp">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet officia, modi
-                        perferendis exercitationem, enim natus sit, rem aut earum atque cumque dolore! Culpa ex deleniti
-                        impedit, nemo repellat consectetur iste.</p>
+                    <p class="wow fadeInUp">
+                        Misión D San José is a restaurant-bar located in the heart of city, known for the best view of
+                        the won center in one of
+                        the most emblematic buildings with great history.
+                    </p>
+                    <p class="wow fadeInUp">
+                        Great terrace above the plaza to watch the sunset light up the sky behind the
+                        mountains and
+                        watch local and tourist enjoy their evening.
+                    </p>
                     <a class="button-two-line wow fadeInUp" href="#">BOOK A TABLE</a>
                 </div>
             </div>
@@ -80,8 +84,8 @@
             <div class="col-md-7">
                 <div class="images">
                     <!-- <img class="img1 wow fadeInLeft" src="assets/images/box-item/about-2.jpg" alt=""> -->
-                    <img class="img2 wow fadeInLeft" style"width:45rem;" data-wow-delay="0.2s" src="assets/images/box-item/about-3.jpg"
-                        alt="">
+                    <img class="img2 wow fadeInLeft" style="width: 45rem;" data-wow-delay="0.2s"
+                        src="assets/images/box-item/about-3.jpg" alt="">
                 </div>
             </div>
             <div class="col-md-5">
@@ -254,4 +258,3 @@
         </a>
     </div>
 </div>
-

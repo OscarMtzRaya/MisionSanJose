@@ -17,20 +17,20 @@
                          <div class="image"><img src="assets/images/item-background/call.png" alt=""></div>
                          <div class="title">Contact Us</div>
                          <p>
-                             <a href="tel:+521234567890">
-                                 Phone: +52 123-456-7890
+                             <a href="tel:+526241232842">
+                                 Phone: +52 624 123 2842
                              </a><br>
-                             Email: <a href="#" class="__cf_email__">
-                                 email@algo.com</a>
+                             Email: <a href="mailto:misiondsanjose@gmail.com" class="__cf_email__">
+                                 misiondsanjose@gmail.com</a>
                          </p>
                      </div>
                  </div>
                  <div class="col-md-4">
                      <div class="contact-item wow fadeInUp line-right" data-wow-delay="0.1s">
                          <div class="image"><img src="assets/images/item-background/address.png" alt=""></div>
-                         <div class="title">Address here</div>
+                         <div class="title">Address</div>
                          <p>
-                             Miguel Hidalgo S/N, Gallery District <br> Centro, San José del Cabo
+                             Blv. Antonio Mijares 17, <br> Centro 23400, San José del Cabo BCS.
                          </p>
                      </div>
                  </div>
@@ -39,8 +39,8 @@
                          <div class="image"><img src="assets/images/item-background/time.png" alt=""></div>
                          <div class="title">open time</div>
                          <p>
-                             Mon - Fri : 9.00am - 22.00pm <br>
-                             Saturday : 11.00 - 23.00 Sunday : Close
+                             Mon - Sun : 5.00pm - 11.00pm <br>
+                             Monday : Closed
                          </p>
                      </div>
                  </div>
@@ -101,8 +101,10 @@
              <div class="row">
                  <div class="col-12">
                      <div class="top">
-                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1297.8794915968108!2d-109.69518677413483!3d23.06201750581786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51a292fe8185%3A0x3aa0d0dbca3c12e1!2zTWlzacOzbiBE4oCZIFNhbiBKb3PDqQ!5e0!3m2!1ses-419!2smx!4v1707109877499!5m2!1ses-419!2smx"
-                                height="640" width="100%" style="border:0;filter: grayscale(1);" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                         <iframe
+                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1297.8794915968108!2d-109.69518677413483!3d23.06201750581786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51a292fe8185%3A0x3aa0d0dbca3c12e1!2zTWlzacOzbiBE4oCZIFNhbiBKb3PDqQ!5e0!3m2!1ses-419!2smx!4v1707109877499!5m2!1ses-419!2smx"
+                             height="640" width="100%" style="border:0;filter: grayscale(1);" allowfullscreen=""
+                             loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                      </div>
                  </div>
              </div>
