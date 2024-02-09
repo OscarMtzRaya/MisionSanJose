@@ -1,16 +1,17 @@
 <!-- page-title -->
 <div class="page-title home-2">
-    <div class="swiper relative slider-page-title" >
-        <div class="swiper-wrapper" >
+    <div class="swiper relative slider-page-title">
+        <div class="swiper-wrapper">
             <div class="swiper-slide">
                 <div class="content text-left">
                     <div class="themesflat-container">
                         <div class="row">
                             <div class="col-12">
-                                <div class="text">Welcome to Mision San Jose restaurant</div>
-                                <div class="heading">Signature cocktails</div>
-                                <p>Discover the best signature cocktails with a beautiful view on the terrace at Mission
-                                    San José.</p>
+                                <div class="text">Welcome to Mision San Jose</div>
+                                <div class="heading">FLAVORS FOR ROYALTY</div>
+                                <p>
+                                    The best place to get to know San Jose del Cabo
+                                </p>
                                 <a class="button-two-line" href="#menu">DISCOVERY MENU</a>
                             </div>
                         </div>
@@ -22,11 +23,10 @@
                     <div class="themesflat-container">
                         <div class="row">
                             <div class="col-12">
-                                <div class="text">Bringing Class To Cuisine</div>
-                                <div class="heading">Where every flavor tells a story</div>
+                                <div class="text">Welcome to Mision San Jose</div>
+                                <div class="heading">FLAVORS FOR ROYALTY</div>
                                 <p>
-                                    Discover the charm of one of the oldest buildings in San José del Cabo and immerse
-                                    yourself in history while enjoying unforgettable culinary experiences.
+                                    The best place to get to know San Jose del Cabo
                                 </p>
                                 <a class="button-two-line" href="#menu">DISCOVERY MENU</a>
                             </div>
@@ -39,11 +39,10 @@
                     <div class="themesflat-container">
                         <div class="row">
                             <div class="col-12">
-                                <div class="text">Counting stories through experiences</div>
-                                <div class="heading">The best culinary experience</div>
+                                <div class="text">Welcome to Mision San Jose</div>
+                                <div class="heading">FLAVORS FOR ROYALTY</div>
                                 <p>
-                                    Located downtown in San José, with an incredible view and featuring our exquisite
-                                    dishes.
+                                    The best place to get to know San Jose del Cabo
                                 </p>
                                 <a class="button-two-line" href="#menu">DISCOVERY MENU</a>
                             </div>
@@ -64,22 +63,25 @@
             <div class="content">
                 <div class="heading-section text-center">
                     <div class="sub wow fadeInUp">About Restaurant</div>
-                    <div class="main wow fadeInUp">Mision San Jose</div>
+                    <div class="main wow fadeInUp">Mision D San José</div>
                     <div class="divider wow fadeInUp">
                         <div></div>
                     </div>
                     <div class="description wow fadeInUp">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium error hic sit rerum fuga
-                        odit facere in accusamus eveniet sed reiciendis sapiente tempora debitis
+                        Misión D San José is a restaurant-bar located in the heart of city, known for the best view of
+                        the won center in one of
+                        the most emblematic buildings with great history. <br>
+
                     </div>
                 </div>
-                <p class="wow fadeInUp">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, dolore?
-                    Mollitia quaerat in recusandae voluptatum placeat nihil, temporibus neque? Cumque?</p>
-                <p class="wow fadeInUp">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, necessitatibus
-                    repellat quibusdam ea numquam adipisci doloribus sequi id? Sit, libero.</p>
+                <p class="wow fadeInUp">
+                    Great terrace above the plaza to watch the sunset light up the sky behind the
+                    mountains and
+                    watch local and tourist enjoy their evening.
+                </p>
                 <!-- <img class="wow fadeInUp" src="assets/images/item-background/signature.png" alt=""> -->
                 <div class="author wow fadeInUp"><a href="https://www.facebook.com/misionsanjoserest"
-                        target="_blank">Mision San José</a></div>
+                        target="_blank">Mision D San José</a></div>
             </div>
         </div>
         <div class="center">
@@ -142,10 +144,10 @@
                         </div>
                     </div>
                     <p class="wow fadeInUp">
-                        Explore the exquisiteness of exclusivity by reserving our space for private events. In the heart
-                        of San José del Cabo, we invite you to elevate your celebrations to new heights. From elegant
-                        intimate dinners to grand gatherings, our sophisticated ambiance and impeccable service are
-                        crafted to bring your dreams to life.
+                        Mision D San José is one excellent option for you social or business event. We have menu options
+                        for group functions and we adjust it to your preferences and needs. <br>
+
+                        Romantic dinners, weddings, birthdays and special events.
                     </p>
                     <a class="button-two-line wow fadeInUp" href="contact.php">GET STARTED FOR YOUR EVENT</a>
                 </div>
@@ -200,7 +202,8 @@
                     <div class="sub wow fadeInUp">What food do we have in our restaurant?</div>
                     <div class="main wow fadeInUp">FROM OUR MENU</div>
                     <div class="text wow fadeInUp">
-                        From exquisite dishes to signature cocktails, we have everything to pamper your palate.
+                        Specialized in cocktails and wines from different parts of the world, exploiting the palate with
+                        the combination of Mexican-Italian food.
                     </div>
                     <div class="divider wow fadeInUp">
                         <div></div>
@@ -423,13 +426,20 @@
                         <div class="heading-section text-center">
                             <div class="sub wow fadeInUp">Location</div>
                             <div class="main wow fadeInUp">how to find us</div>
-                            <div class="text wow fadeInUp">Below is the <br>
-                                address and contact of the restaurant</div>
+                            <div class="text wow fadeInUp">
+                                Blv. Antonio Mijares 17, <br> Centro 23400, San José del Cabo BCS.
+                            </div>
                             <div class="divider wow fadeInUp">
                                 <div></div>
                             </div>
                         </div>
-                        <div class="title wow fadeInUp">book a table & address:</div>
+                        <div class="title wow fadeInUp">Book by WhatsApp</div>
+                        <div class="number wow fadeInUp">
+                            <a href="https://wa.me/+526241096522?text=Hola%20me%20gustaría%20más%20información.">
+                                +52 624 109 6522
+                            </a>
+                        </div>
+                        <div class="title wow fadeInUp">Book by telephone</div>
                         <div class="number wow fadeInUp">
                             <a href="tel:+526241232842">
                                 +52 624 123 2842
@@ -444,7 +454,8 @@
                             <ul class="">
                                 <li><a target="_blank" href="https://www.facebook.com/misionsanjoserest"
                                         class="icon-fb"></a></li>
-                                <li><a target="_blank" href="https://www.tripadvisor.com/Restaurant_Review-g152516-d26530596-Reviews-Mision_San_Jose-San_Jose_del_Cabo_Los_Cabos_Baja_California.html#REVIEWS"
+                                <li><a target="_blank"
+                                        href="https://www.tripadvisor.com.mx/Restaurant_Review-g152516-d26530596-Reviews-Mision_San_Jose-San_Jose_del_Cabo_Los_Cabos_Baja_California.html"
                                         class="icon-trip"></a></li>
                                 <li><a target="_blank" href="https://www.instagram.com/misionsanjose_"
                                         class="icon-instagram2"></a></li>
