@@ -24,14 +24,14 @@
                         </div>
                     </div>
                     <p class="wow fadeInUp">
-                        Misión D San José is a restaurant-bar located in the heart of city, known for the best view of
-                        the won center in one of
-                        the most emblematic buildings with great history.
+                        Misión D San José is a restaurant-bar located in the heart of the city, renowned for offering
+                        the best view of the downtown area from one of San José's most emblematic buildings, steeped in
+                        rich history.
                     </p>
                     <p class="wow fadeInUp">
-                        Great terrace above the plaza to watch the sunset light up the sky behind the
-                        mountains and
-                        watch local and tourist enjoy their evening.
+                        Enjoy a great terrace above the plaza where you can watch the sunset illuminate the sky behind
+                        the
+                        mountains while observing locals and tourists enjoy their evening.
                     </p>
                     <a class="button-two-line wow fadeInUp" href="#">BOOK A TABLE</a>
                 </div>

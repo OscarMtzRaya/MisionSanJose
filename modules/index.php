@@ -7,10 +7,10 @@
                     <div class="themesflat-container">
                         <div class="row">
                             <div class="col-12">
-                                <div class="text">Welcome to Mision San Jose</div>
+                                <div class="text">Welcome to Misión D San José</div>
                                 <div class="heading">FLAVORS FOR ROYALTY</div>
                                 <p>
-                                    The best place to get to know San Jose del Cabo
+                                    Discover the essence of San Jose del Cabo at its finest
                                 </p>
                                 <a class="button-two-line" href="#menu">DISCOVERY MENU</a>
                             </div>
@@ -23,10 +23,10 @@
                     <div class="themesflat-container">
                         <div class="row">
                             <div class="col-12">
-                                <div class="text">Welcome to Mision San Jose</div>
+                                <div class="text">Welcome to Misión D San José</div>
                                 <div class="heading">FLAVORS FOR ROYALTY</div>
                                 <p>
-                                    The best place to get to know San Jose del Cabo
+                                    Discover the essence of San Jose del Cabo at its finest
                                 </p>
                                 <a class="button-two-line" href="#menu">DISCOVERY MENU</a>
                             </div>
@@ -39,10 +39,10 @@
                     <div class="themesflat-container">
                         <div class="row">
                             <div class="col-12">
-                                <div class="text">Welcome to Mision San Jose</div>
+                                <div class="text">Welcome to Misión D San José</div>
                                 <div class="heading">FLAVORS FOR ROYALTY</div>
                                 <p>
-                                    The best place to get to know San Jose del Cabo
+                                    Discover the essence of San Jose del Cabo at its finest
                                 </p>
                                 <a class="button-two-line" href="#menu">DISCOVERY MENU</a>
                             </div>
@@ -68,16 +68,15 @@
                         <div></div>
                     </div>
                     <div class="description wow fadeInUp">
-                        Misión D San José is a restaurant-bar located in the heart of city, known for the best view of
-                        the won center in one of
-                        the most emblematic buildings with great history. <br>
+                        Misión D San José is a restaurant-bar located in the heart of the city, renowned for offering
+                        the best view of the downtown area from one of San José's most emblematic buildings, steeped in
+                        rich history. <br>
 
                     </div>
                 </div>
                 <p class="wow fadeInUp">
-                    Great terrace above the plaza to watch the sunset light up the sky behind the
-                    mountains and
-                    watch local and tourist enjoy their evening.
+                    Enjoy a great terrace above the plaza where you can watch the sunset illuminate the sky behind the
+                    mountains while observing locals and tourists enjoy their evening.
                 </p>
                 <!-- <img class="wow fadeInUp" src="assets/images/item-background/signature.png" alt=""> -->
                 <div class="author wow fadeInUp"><a href="https://www.facebook.com/misionsanjoserest"
@@ -144,8 +143,8 @@
                         </div>
                     </div>
                     <p class="wow fadeInUp">
-                        Mision D San José is one excellent option for you social or business event. We have menu options
-                        for group functions and we adjust it to your preferences and needs. <br>
+                        Misión D San José is an excellent option for your social or business event. We offer menu
+                        options tailored for group functions, customized to your preferences and needs. <br>
 
                         Romantic dinners, weddings, birthdays and special events.
                     </p>
@@ -202,8 +201,8 @@
                     <div class="sub wow fadeInUp">What food do we have in our restaurant?</div>
                     <div class="main wow fadeInUp">FROM OUR MENU</div>
                     <div class="text wow fadeInUp">
-                        Specialized in cocktails and wines from different parts of the world, exploiting the palate with
-                        the combination of Mexican-Italian food.
+                        Specializing in cocktails and wines from around the world, we tantalize the palate with a fusion
+                        of Mexican and Italian cuisine
                     </div>
                     <div class="divider wow fadeInUp">
                         <div></div>
@@ -435,7 +434,8 @@
                         </div>
                         <div class="title wow fadeInUp">Book by WhatsApp</div>
                         <div class="number wow fadeInUp">
-                            <a href="https://wa.me/+526241096522?text=Hello,%20I%20would%20like%20make%20a%20reservation.">
+                            <a
+                                href="https://wa.me/+526241096522?text=Hello,%20I%20would%20like%20make%20a%20reservation.">
                                 +52 624 109 6522
                             </a>
                         </div>
