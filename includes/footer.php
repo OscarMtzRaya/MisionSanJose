@@ -21,7 +21,7 @@
                     <ul class="">
                         <li><a target="_blank" href="https://www.facebook.com/misionsanjoserest" class="icon-fb"></a>
                         </li>
-                        <li><a href="#" class="icon-trip"></a></li>
+                        <li><a target="_blank" href="https://www.tripadvisor.com.mx/Restaurant_Review-g152516-d26530596-Reviews-Mision_San_Jose-San_Jose_del_Cabo_Los_Cabos_Baja_California.html" class="icon-trip"></a></li>
                         <li><a target="_blank" href="https://www.instagram.com/misionsanjose_"
                                 class="icon-instagram2"></a></li>
                     </ul>
