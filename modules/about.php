@@ -33,7 +33,7 @@
                         the
                         mountains while observing locals and tourists enjoy their evening.
                     </p>
-                    <a class="button-two-line wow fadeInUp" href="#">BOOK A TABLE</a>
+                    <a class="button-two-line wow fadeInUp" target="_blank" href="https://wa.me/+526241096522?text=Hello,%20I%20would%20like%20make%20a%20reservation.">BOOK A TABLE</a>
                 </div>
             </div>
         </div>
@@ -55,18 +55,18 @@
                 }'>
         <div class="swiper-wrapper popup-gallery">
             <div class="swiper-slide">
-                <a href="assets/images/box-item/about-slider-1.jpg">
-                    <img src="assets/images/box-item/about-slider-1.jpg" alt="">
+                <a href="assets/images/fotos12feb/5.webp">
+                    <img src="assets/images/fotos12feb/5.webp" alt="">
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="assets/images/box-item/about-slider-2.jpg">
-                    <img src="assets/images/box-item/about-slider-2.jpg" alt="">
+                <a href="assets/images/fotos12feb/1.webp">
+                    <img src="assets/images/fotos12feb/1.webp" alt="">
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="assets/images/box-item/about-slider-3.jpg">
-                    <img src="assets/images/box-item/about-slider-3.jpg" alt="">
+                <a href="assets/images/fotos12feb/3.webp">
+                    <img src="assets/images/fotos12feb/3.webp" alt="">
                 </a>
             </div>
         </div>
