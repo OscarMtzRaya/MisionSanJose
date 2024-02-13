@@ -98,11 +98,11 @@
                         </div>
                     </div>
                     <p class="wow fadeInUp">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda repudiandae optio eum
-                        laudantium sed ex laboriosam, repellat dicta reiciendis unde.
+                    Welcome to our philosophical corner, where each experience is more than just a combination of flavors and colors. In our gastronomic universe, we firmly believe that each dish is a unique narrative, a story that unfolds in every bite, captivating the senses and evoking emotions.
                     </p>
-                    <p class="wow fadeInUp">loren proident, sunt in culpa qui cia deserunt mollit anim id est
-                        laborum. Sed utsa tat monullamco</p>
+                    <p class="wow fadeInUp">
+                    Our signature cocktails are like pages of a book, each with its own story to discover. From reinvented classics to original creations, each sip is a sensory adventure that will transport you to unexpected places.
+                    </p>
                     <a class="button-two-line wow fadeInUp" href="index.php#menu">VIEW MENU</a>
                 </div>
             </div>
