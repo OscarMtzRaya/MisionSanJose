@@ -180,12 +180,12 @@
         </a>
     </div>
     <div class="portfolio-item">
-        <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/fotos12feb/4.webp>
+        <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/fotos12feb/4.webp">
             <img src="assets/images/box-item/portfolio-4.jpg" alt="">
         </a>
     </div>
     <div class="portfolio-item">
-        <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/fotos12feb/4.webp>
+        <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/fotos12feb/4.webp">
             <img src="assets/images/box-item/portfolio-5.jpg" alt="">
         </a>
     </div>
