@@ -60,8 +60,8 @@
                 </a>
             </div>
             <div class="swiper-slide">
-                <a href="assets/images/fotos12feb/1.webp">
-                    <img src="assets/images/fotos12feb/1.webp" alt="">
+                <a href="assets/images/box-item/portfolio-mansonry-1.jpg">
+                    <img src="assets/images/box-item/portfolio-mansonry-1.jpg" alt="">
                 </a>
             </div>
             <div class="swiper-slide">
