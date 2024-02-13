@@ -23,7 +23,7 @@
                 <div class="portfolio-item style-mansory">
                     <a class="gallery-plus-fix" title="Exquisite food"
                         href="assets/images/box-item/portfolio-mansonry-2.jpg">
-                        <img src="assets/images/box-item/portfolio-mansonry-2.jpg" alt="">
+                        <img src="assets/images/fotos12feb/8.webp" alt="">
                     </a>
                 </div>
             </div>
@@ -45,15 +45,15 @@
                 <div class="portfolio-item style-mansory">
                     <a class="gallery-plus-fix" title="Exquisite food"
                         href="assets/images/box-item/portfolio-mansonry-5.jpg">
-                        <img src="assets/images/box-item/portfolio-mansonry-5.jpg" alt="">
+                        <img src="assets/images/fotos12feb/11.webp" alt="">
                     </a>
                 </div>
             </div>
             <div class="col-md-8">
                 <div class="portfolio-item style-mansory">
                     <a class="gallery-plus-fix" title="Exquisite food"
-                        href="assets/images/box-item/portfolio-mansonry-3.jpg">
-                        <img src="assets/images/box-item/portfolio-mansonry-3.jpg" alt="">
+                        href="assets/images/fotos12feb/5.webp">
+                        <img src="assets/images/fotos12feb/5.webp" alt="">
                     </a>
                 </div>
             </div>
