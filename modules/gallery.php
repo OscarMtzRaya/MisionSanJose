@@ -2,7 +2,7 @@
 <div class="banner-page inner-page portfolio-page">
     <div class="content">
         <div class="banner-text">Our Gallery</div>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fuga, repudiandae!</p>
+        <p></p>
     </div>
 </div>
 <!-- /banner-page -->
@@ -22,7 +22,7 @@
             <div class="col-md-6">
                 <div class="portfolio-item style-mansory">
                     <a class="gallery-plus-fix" title="Exquisite food"
-                        href="assets/images/box-item/portfolio-mansonry-2.jpg">
+                        href="assets/images/fotos12feb/8.webp">
                         <img src="assets/images/fotos12feb/8.webp" alt="">
                     </a>
                 </div>
@@ -44,7 +44,7 @@
             <div class="col-md-4">
                 <div class="portfolio-item style-mansory">
                     <a class="gallery-plus-fix" title="Exquisite food"
-                        href="assets/images/box-item/portfolio-mansonry-5.jpg">
+                        href="assets/images/fotos12feb/11.webp">
                         <img src="assets/images/fotos12feb/11.webp" alt="">
                     </a>
                 </div>

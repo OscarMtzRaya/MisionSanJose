@@ -2424,7 +2424,7 @@ ul.list-content li p.text {
     z-index: 999999999999999;
     height: 100%;
     width: 100%;
-    background-color: #fff;
+    background-color: #000;
 }
 
 .preload-container .middle {
@@ -2436,7 +2436,7 @@ ul.list-content li p.text {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
-    content: url(../images/preload.png);
+    content: url(../images/newpreload.png);
     animation: preload 1.2s linear infinite alternate;
 }
 

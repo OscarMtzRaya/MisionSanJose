@@ -12,7 +12,7 @@
                                 <p>
                                     Discover the essence of San Jose del Cabo at its finest
                                 </p>
-                                <a class="button-two-line" href="#menu">DISCOVERY MENU</a>
+                                <a class="button-two-line" href="#menu">Discover our MENU</a>
                             </div>
                         </div>
                     </div>
@@ -28,7 +28,7 @@
                                 <p>
                                     Discover the essence of San Jose del Cabo at its finest
                                 </p>
-                                <a class="button-two-line" href="#menu">DISCOVERY MENU</a>
+                                <a class="button-two-line" href="#menu">Discover our MENU</a>
                             </div>
                         </div>
                     </div>
@@ -44,7 +44,7 @@
                                 <p>
                                     Discover the essence of San Jose del Cabo at its finest
                                 </p>
-                                <a class="button-two-line" href="#menu">DISCOVERY MENU</a>
+                                <a class="button-two-line" href="#menu">Discover our MENU</a>
                             </div>
                         </div>
                     </div>
@@ -92,7 +92,7 @@
             <div class="content">
                 <div class="heading-section text-center">
                     <div class="sub wow fadeInUp">Time of Luxury</div>
-                    <div class="main wow fadeInUp">open hour time</div>
+                    <div class="main wow fadeInUp">Open Hours</div>
                     <div class="divider wow fadeInUp">
                         <div></div>
                     </div>
@@ -101,7 +101,7 @@
                 </div>
                 <ul class="list-content">
                     <li class="wow fadeInUp">
-                        <p class="text">Opening Hour:</p>
+                        <p class="text">Open Hours:</p>
                     </li>
                     <li class="wow fadeInUp">
                         <p>Thusday - Sunday : 5.00pm - 11.00pm</p>
@@ -148,7 +148,7 @@
 
                         Romantic dinners, weddings, birthdays and special events.
                     </p>
-                    <a class="button-two-line wow fadeInUp" href="contact.php">GET STARTED FOR YOUR EVENT</a>
+                    <a class="button-two-line wow fadeInUp" href="contact.php">We're ready for your events</a>
                 </div>
             </div>
             <div class="col-md-6">
@@ -198,7 +198,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="heading-section text-center">
-                    <div class="sub wow fadeInUp">What food do we have in our restaurant?</div>
+                    <div class="sub wow fadeInUp">Each bite, a story</div>
                     <div class="main wow fadeInUp">FROM OUR MENU</div>
                     <div class="text wow fadeInUp">
                         Specializing in cocktails and wines from around the world, we tantalize the palate with a fusion
