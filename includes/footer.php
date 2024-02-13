@@ -5,8 +5,8 @@
             <div class="col-lg-3 col-md-6 col-12">
                 <div class="logo-footer" id="logo-footer">
                     <a href="index.html">
-                        <img id="logo_footer" alt="" src="assets/images/logo_ms.png"
-                            data-retina="assets/images/logo_ms.png">
+                        <img id="logo_footer" alt="" src="assets/images/logo_ms2.png"
+                            data-retina="assets/images/logo_ms2.png">
                     </a>
                 </div>
             </div>
