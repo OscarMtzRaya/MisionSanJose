@@ -63,7 +63,7 @@
             <div class="content">
                 <div class="heading-section text-center">
                     <div class="sub wow fadeInUp">About Restaurant</div>
-                    <div class="main wow fadeInUp">Mision D San José</div>
+                    <div class="main wow fadeInUp">Misión D San José</div>
                     <div class="divider wow fadeInUp">
                         <div></div>
                     </div>
@@ -80,7 +80,7 @@
                 </p>
                 <!-- <img class="wow fadeInUp" src="assets/images/item-background/signature.png" alt=""> -->
                 <div class="author wow fadeInUp"><a href="https://www.facebook.com/misionsanjoserest"
-                        target="_blank">Mision D San José</a></div>
+                        target="_blank">Misión D San José</a></div>
             </div>
         </div>
         <div class="center">

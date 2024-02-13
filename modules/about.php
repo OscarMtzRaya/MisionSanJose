@@ -17,7 +17,7 @@
             <div class="col-12">
                 <div class="top-content">
                     <div class="heading-section text-center">
-                        <div class="sub wow fadeInUp">About Mision D San José</div>
+                        <div class="sub wow fadeInUp">About Misión D San José</div>
                         <div class="main wow fadeInUp">Luxury <br> restaurant in San José del Cabo</div>
                         <div class="divider wow fadeInUp">
                             <div></div>
