@@ -2436,7 +2436,7 @@ ul.list-content li p.text {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain;
-    content: url(../images/newpreload.png);
+    content: url(../images/newpreload2.png);
     animation: preload 1.2s linear infinite alternate;
 }
 
