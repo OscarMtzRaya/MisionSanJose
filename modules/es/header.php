@@ -15,16 +15,18 @@
              <div class="header-language">
                  <span class="dropdown" id="select-language">
                      <span class="btn-selector select">
-                         <span>ENG</span>
+                         <a style="color: #fff;" href="?lang=es">ESP</a>
                      </span>
                      <ul>
-                         <li><span>ENG</span></li>
-                         <li><span>ESP</span></li>
+                         <li><a style="color: #000;" href="?lang=en"><span>ENG</span></a></li>
+                         <li><a style="color: #000;" href="?lang=es"><span>ESP</span></a></li>
                      </ul>
                  </span>
              </div>
              <div class="button-right">
-                 <a target="ref" href="https://wa.me/+526241096522?text=Hola,%20me%20gustaría%20hacer%20una%20reservación." class="button-default mt-0">BOOK A TABLE</a>
+                 <a target="ref"
+                     href="https://wa.me/+526241096522?text=Hola,%20me%20gustaría%20hacer%20una%20reservación."
+                     class="button-default mt-0">BOOK A TABLE</a>
              </div>
          </div>
      </div>
@@ -69,7 +71,9 @@
                      </div>
                      <div class="content">
                          <p class="tf-color">Contáctanos</p>
-                         <a href="tel:+526241232842"><p class="number-phone">+52 624 123 2842</p></a>
+                         <a href="tel:+526241232842">
+                             <p class="number-phone">+52 624 123 2842</p>
+                         </a>
                      </div>
                  </div>
                  <div class="mobile-button ">
@@ -100,7 +104,7 @@
              </div>
              <nav id="mobile-main-nav" class="mobile-main-nav">
                  <ul id="menu-mobile-menu" class="menu">
-                 <li class="menu-item">
+                     <li class="menu-item">
                          <a href="index.php">Inicio</a>
                      </li>
                      <li class="menu-item">
@@ -118,8 +122,8 @@
                      <li class="menu-item menu-item-has-children-mobile">
                          <a class="item-menu-mobile" href="#">Idioma</a>
                          <ul class="sub-menu-mobile">
-                             <li class="menu-item"><a href="#">Inglés</a></li>
-                             <li class="menu-item"><a href="#">Español</a></li>
+                             <li class="menu-item"><a href="?lang=en">Inglés</a></li>
+                             <li class="menu-item"><a href="?lang=es">Español</a></li>
                          </ul>
                      </li>
                  </ul>
