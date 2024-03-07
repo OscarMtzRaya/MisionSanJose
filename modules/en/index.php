@@ -62,8 +62,8 @@
         <div class="left">
             <div class="content">
                 <div class="heading-section text-center">
-                    <div class="sub wow fadeInUp">About Restaurant</div>
-                    <div class="main wow fadeInUp">Misión D San José</div>
+                    <div class="sub wow fadeInUp">About us</div>
+                    <div class="main wow fadeInUp">Misión San José</div>
                     <div class="divider wow fadeInUp">
                         <div></div>
                     </div>

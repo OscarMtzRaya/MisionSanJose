@@ -24,7 +24,7 @@
                  </span>
              </div>
              <div class="button-right">
-                 <a target="ref" href="https://wa.me/+526241096522?text=Hello,%20I%20would%20like%20make%20a%20reservation." class="button-default mt-0">BOOK A TABLE</a>
+                 <a target="ref" href="https://wa.me/+526241096522?text=Hola,%20me%20gustaría%20hacer%20una%20reservación." class="button-default mt-0">BOOK A TABLE</a>
              </div>
          </div>
      </div>

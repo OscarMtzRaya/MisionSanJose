@@ -80,7 +80,7 @@
                 </p>
                 <!-- <img class="wow fadeInUp" src="assets/images/item-background/signature.png" alt=""> -->
                 <div class="author wow fadeInUp"><a href="https://www.facebook.com/misionsanjoserest"
-                        target="_blank">Misión D San José</a></div>
+                        target="_blank">Misión San José</a></div>
             </div>
         </div>
         <div class="center">
@@ -241,24 +241,24 @@
                         </div>
                         <div class="widget-content-tab">
                             <div class="widget-content-inner active popup-gallery">
-                                <a href="assets/images/menuEng/01.jpg">
-                                    <img src="assets/images/menuEng/01.jpg" alt="Menú Mision San José">
+                                <a href="assets/images/menuEsp/01.jpg">
+                                    <img src="assets/images/menuEsp/01.jpg" alt="Menú Mision San José">
                                 </a>
                             </div>
 
                             <div class="widget-content-inner popup-gallery">
-                                <a href="assets/images/menuEng/02.jpg">
-                                    <img src="assets/images/menuEng/02.jpg" alt="Menú Mision San José">
+                                <a href="assets/images/menuEsp/02.jpg">
+                                    <img src="assets/images/menuEsp/02.jpg" alt="Menú Mision San José">
                                 </a>
                             </div>
                             <div class="widget-content-inner popup-gallery">
-                                <a href="assets/images/menuEng/03.jpg">
-                                    <img src="assets/images/menuEng/03.jpg" alt="Menú Mision San José">
+                                <a href="assets/images/menuEsp/03.jpg">
+                                    <img src="assets/images/menuEsp/03.jpg" alt="Menú Mision San José">
                                 </a>
                             </div>
                             <div class="widget-content-inner popup-gallery">
-                                <a href="assets/images/menuEng/04.jpg">
-                                    <img src="assets/images/menuEng/04.jpg" alt="Menú Mision San José">
+                                <a href="assets/images/menuEsp/04.jpg">
+                                    <img src="assets/images/menuEsp/04.jpg" alt="Menú Mision San José">
                                 </a>
                             </div>
                         </div>
@@ -443,7 +443,7 @@
                         <div class="title wow fadeInUp">Reserva a través de WhatsApp</div>
                         <div class="number wow fadeInUp">
                             <a
-                                href="https://wa.me/+526241096522?text=Hello,%20I%20would%20like%20make%20a%20reservation.">
+                                href="https://wa.me/+526241096522?text=Hola,%20me%20gustaría%20hacer%20una%20reservación.">
                                 +52 624 109 6522
                             </a>
                         </div>
