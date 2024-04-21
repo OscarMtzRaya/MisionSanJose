@@ -25,4 +25,6 @@
     <link rel="shortcut icon" href="assets/images/favicon.png">
     <link rel="apple-touch-icon-precomposed" href="assets/images/favicon.png">
 
+    <link rel="stylesheet" href="assets/css/photoswipe.css">
+
 </head>

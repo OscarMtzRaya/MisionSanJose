@@ -239,25 +239,29 @@
                                 <img src="assets/images/box-item/our-menu-1.jpg" alt="Menú Mision San José">
                             </div>
                         </div>
-                        <div class="widget-content-tab">
-                            <div class="widget-content-inner active popup-gallery">
-                                <a href="assets/images/menuEsp/01.jpg">
+                        <div class="widget-content-tab pswp-gallery pswp-gallery--single-column" id="gallery--none-transition">
+                            <div class="widget-content-inner active">
+                                <a href="assets/images/menuEsp/01.jpg" data-pswp-width="1669" data-pswp-height="2500"
+                                    target="_blank">
                                     <img src="assets/images/menuEsp/01.jpg" alt="Menú Mision San José">
                                 </a>
                             </div>
 
-                            <div class="widget-content-inner popup-gallery">
-                                <a href="assets/images/menuEsp/02.jpg">
+                            <div class="widget-content-inner">
+                                <a href="assets/images/menuEsp/02.jpg" data-pswp-width="1669" data-pswp-height="2500"
+                                    target="_blank">
                                     <img src="assets/images/menuEsp/02.jpg" alt="Menú Mision San José">
                                 </a>
                             </div>
-                            <div class="widget-content-inner popup-gallery">
-                                <a href="assets/images/menuEsp/03.jpg">
+                            <div class="widget-content-inner">
+                                <a href="assets/images/menuEsp/03.jpg" data-pswp-width="1669" data-pswp-height="2500"
+                                    target="_blank">
                                     <img src="assets/images/menuEsp/03.jpg" alt="Menú Mision San José">
                                 </a>
                             </div>
-                            <div class="widget-content-inner popup-gallery">
-                                <a href="assets/images/menuEsp/04.jpg">
+                            <div class="widget-content-inner">
+                                <a href="assets/images/menuEsp/04.jpg" data-pswp-width="1669" data-pswp-height="2500"
+                                    target="_blank">
                                     <img src="assets/images/menuEsp/04.jpg" alt="Menú Mision San José">
                                 </a>
                             </div>

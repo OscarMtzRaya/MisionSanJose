@@ -227,31 +227,35 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="bottom">
+                    <div class="bottom pswp-gallery pswp-gallery--single-column" id="gallery--none-transition">
                         <div class="image border-over-column">
                             <div class="wrap">
                                 <img src="assets/images/box-item/our-menu-1.jpg" alt="">
                             </div>
                         </div>
                         <div class="widget-content-tab">
-                            <div class="widget-content-inner active popup-gallery">
-                                <a href="assets/images/menuEng/01.jpg">
+                            <div class="widget-content-inner active">
+                                <a href="assets/images/menuEng/01.jpg" data-pswp-width="1669" data-pswp-height="2500"
+                                    target="_blank">
                                     <img src="assets/images/menuEng/01.jpg" alt="">
                                 </a>
                             </div>
 
-                            <div class="widget-content-inner popup-gallery">
-                                <a href="assets/images/menuEng/02.jpg">
+                            <div class="widget-content-inner">
+                                <a href="assets/images/menuEng/02.jpg" data-pswp-width="1669" data-pswp-height="2500"
+                                    target="_blank">
                                     <img src="assets/images/menuEng/02.jpg" alt="">
                                 </a>
                             </div>
-                            <div class="widget-content-inner popup-gallery">
-                                <a href="assets/images/menuEng/03.jpg">
+                            <div class="widget-content-inner">
+                                <a href="assets/images/menuEng/03.jpg" data-pswp-width="1669" data-pswp-height="2500"
+                                    target="_blank">
                                     <img src="assets/images/menuEng/03.jpg" alt="">
                                 </a>
                             </div>
-                            <div class="widget-content-inner popup-gallery">
-                                <a href="assets/images/menuEng/04.jpg">
+                            <div class="widget-content-inner">
+                                <a href="assets/images/menuEng/04.jpg" data-pswp-width="1669" data-pswp-height="2500"
+                                    target="_blank">
                                     <img src="assets/images/menuEng/04.jpg" alt="">
                                 </a>
                             </div>
