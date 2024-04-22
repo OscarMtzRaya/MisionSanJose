@@ -119,7 +119,7 @@ try {
           
                       <div style="margin: 20px 50px 50px 50px;">
                           <div>
-                              <img style="max-width: 200px;" src="https://misiondsanjose.com/assets/images/logo/logo.png" alt="">
+                              <img style="max-width: 200px;" src="https://misiondsanjose.com/assets/images/logo_ms.png" alt="">
                           </div>
           
                           <div class="conteiner">                    
