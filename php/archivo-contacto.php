@@ -5,9 +5,6 @@ error_reporting(E_ALL);
 
 extract($_REQUEST);
 
-var_dump($_REQUEST);
-exit;
-
 // 0 -> PHP
 // 1 -> AJAX
 $tipo_de_procesamiento = 0;
@@ -259,7 +256,7 @@ class Correo
     $this->cabeceras  = 'MIME-Version: 1.0' . "\r\n";
     $this->cabeceras .= 'Content-type: text/html; charset=UTF-8' . "\r\n";
     // Cabeceras adicionales
-    $this->cabeceras .= 'From: Banana Team<info@bananagroup.mx>' . "\r\n";
+    $this->cabeceras .= 'From: Mkt Ad Group' . "\r\n";
   }
 
   private function construirEmail()
