@@ -28,19 +28,19 @@ $tipo_de_procesamiento = 0;
 
 try {
     // Configuración del servidor SMTP
-    $mail->SMTPDebug = 1;
+    $mail->SMTPDebug = 0;
     $mail->isSMTP();
-    $mail->Host       = 'smtp.gmail.com';
+    $mail->Host       = 'mail.grupoteso.com';
     $mail->SMTPAuth   = true;
-    $mail->Username   = 'ivonne.mtz.manzo@gmail.com';
-    $mail->Password   = 'qcfh rdmb pkno brar';
+    $mail->Username   = 'info@grupoteso.com';
+    $mail->Password   = 'Grupoteso2024!';
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-    $mail->Port       = 587;
+    $mail->Port       = 465;
 
     // Configuración de remitente y destinatarios
-    $mail->setFrom('ivonne.mtz.manzo@gmail.com', 'Formulario de reservaciones');
-    $mail->addAddress('ivonne.mtz.manzo@gmail.com', 'Formulario de reservaciones');
-    $mail->addBCC('ivonne.mtz.manzo@gmail.com');
+    $mail->setFrom('info@grupoteso.com', 'Formulario de reservaciones');
+    $mail->addAddress('info@grupoteso.com', 'Formulario de reservaciones');
+    $mail->addBCC('info@grupoteso.com');
 
     // Contenido del correo en formato HTML
     $mail->isHTML(true);
