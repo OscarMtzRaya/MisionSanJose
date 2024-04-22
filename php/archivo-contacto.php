@@ -27,7 +27,7 @@ if (!validarVariable($nombre)|| !validarVariable($tel)|| !validarVariable($mail)
   mandarError("1");
 }
 
-$correo_nuevo = new Correo("info@grupoteso.com", $nombre.' ha enviado un nuevo mensaje');
+$correo_nuevo = new Correo("ivonne.mtz.manzo@gmail.com", $nombre.' ha enviado un nuevo mensaje');
 $correo_nuevo->agregarCampos("Nombre: ", $nombre);
 $correo_nuevo->agregarCampos("Teléfono: ", $tel);
 $correo_nuevo->agregarCampos("Correo: ", $mail);
