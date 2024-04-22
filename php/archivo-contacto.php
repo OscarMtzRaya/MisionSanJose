@@ -188,7 +188,7 @@ try {
      exit;
 } catch (Exception $e) {
     $codigo_de_error = "2";
-    header('location: /index.php?msj='. $codigo_de_error.$e);
+    header('location: /index.php?msj='. $codigo_de_error);
     if (isset($_GET)) {
       include_once("php/msg.php");
     }
