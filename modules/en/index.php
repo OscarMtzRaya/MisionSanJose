@@ -1,3 +1,8 @@
+<?php
+if (isset($_GET)) {
+    include_once("php/msg.php");
+}
+?>
 <!-- page-title -->
 <div class="page-title home-2">
     <div class="swiper relative slider-page-title">
@@ -380,36 +385,43 @@
                                 <div></div>
                             </div>
                         </div>
-                        <form class="book-form">
+                        <form class="book-form" method="POST" action="/php/">
                             <fieldset class="name">
-                                <input type="text" placeholder="Name*" class="" name="name" tabindex="2" value=""
+                                <input type="text" placeholder="Name*" class="" name="nombre" tabindex="2" value=""
+                                    aria-required="true" required="">
+                            </fieldset>
+                            <fieldset class="name">
+                                <input type="text" placeholder="Email*" class="" name="mail" tabindex="2" value=""
                                     aria-required="true" required="">
                             </fieldset>
                             <div class="columns">
                                 <fieldset class="phone">
-                                    <input type="text" placeholder="Phone*" class="" name="text" tabindex="2" value=""
+                                    <input type="text" placeholder="Phone*" class="" name="tel" tabindex="2" value=""
                                         aria-required="true" required="">
                                 </fieldset>
                                 <fieldset class="hour select">
-                                    <input type="time" class="" name="time" tabindex="2" value="19:00"
-                                        aria-required="true" required="">
+                                    <input type="time" class="" name="hora" tabindex="2" value="" aria-required="true"
+                                        required="">
                                 </fieldset>
                             </div>
                             <div class="columns">
-                                <fieldset class="select event-number">
-                                    <select class="">
-                                        <option value="Subject" selected="">People</option>
-                                        <option value="Subject">5</option>
-                                        <option value="Subject">10</option>
-                                    </select>
+                            <fieldset class="phone">
+                                    <input type="text" placeholder="Pax*" class="" name="pax" tabindex="2" value=""
+                                        aria-required="true" required="">
                                 </fieldset>
                                 <fieldset class="time select">
                                     <input type="date" class="" name="date" tabindex="2" value="2023-06-18"
                                         aria-required="true" required="">
                                 </fieldset>
                             </div>
+                            <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">
+                                <div class="col-12 col-md-12">
+                                    <div class="g-recaptcha" data-sitekey="6LdJbr8fAAAAACTrH_tQBzWfqtoU9j8r5WqpMaNI"
+                                        required></div>
+                                </div>
+                            </div>
                             <div class="bot">
-                                <a href="" class="button-two-line w-full " type="submit">BOOK NOW</a>
+                                <a href="" class="button-two-line w-full" name="submit" type="submit">BOOK NOW</a>
                             </div>
                         </form>
                     </div>
