@@ -13,7 +13,7 @@
             <div class="col-lg-3 col-md-6 col-12">
                 <div class="footer-title">About us</div>
                 <p>
-                    Misión D San José is a restaurant-bar located in the heart of city, known for the best view of
+                    Misión San José is a restaurant-bar located in the heart of city, known for the best view of
                     the won center in one of
                     the most emblematic buildings with great history.
                 </p>
@@ -48,7 +48,7 @@
                     </li>
                     <li>
                         <p class="tf-color">Email Address:</p>
-                        <p><a href="mailto:misiondsanjose@gmail.com" class="__cf_email__">misiondsanjose@gmail.com</a></p>
+                        <p><a href="mailto:info@grupoteso.com" class="__cf_email__">info@grupoteso.com</a></p>
                     </li>
                     <li>
                         <p class="tf-color">Phone & Book table:</p>

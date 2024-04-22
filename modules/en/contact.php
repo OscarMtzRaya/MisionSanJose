@@ -20,8 +20,8 @@
                              <a href="tel:+526241232842">
                                  Phone: +52 624 123 2842
                              </a><br>
-                             Email: <a href="mailto:misiondsanjose@gmail.com" class="__cf_email__">
-                                 misiondsanjose@gmail.com</a>
+                             Email: <a href="mailto:info@grupoteso.com" class="__cf_email__">
+                                 info@grupoteso.com</a>
                          </p>
                      </div>
                  </div>

@@ -19,14 +19,14 @@
             <div class="col-12">
                 <div class="top-content">
                     <div class="heading-section text-center">
-                        <div class="sub wow fadeInUp">Sobre Misión D San José</div>
+                        <div class="sub wow fadeInUp">Sobre Misión San José</div>
                         <div class="main wow fadeInUp">Restaurante de <br> lujo en San José del Cabo</div>
                         <div class="divider wow fadeInUp">
                             <div></div>
                         </div>
                     </div>
                     <p class="wow fadeInUp">
-                        Misión D San José es un restaurante-bar ubicado en el corazón de la ciudad, famoso por ofrecer
+                        Misión San José es un restaurante-bar ubicado en el corazón de la ciudad, famoso por ofrecer
                         la mejor vista del centro desde uno de los edificios más emblemáticos de San José, impregnado de
                         una rica historia.
                     </p>

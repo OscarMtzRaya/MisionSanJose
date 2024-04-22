@@ -7,7 +7,7 @@
                      <p>San José del Cabo</p>
                  </li>
                  <li>
-                     <p><a href="mailto:misiondsanjose@gmail.com" class="__cf_email__">misiondsanjose@gmail.com</a></p>
+                     <p><a href="mailto:info@grupoteso.com" class="__cf_email__">info@grupoteso.com</a></p>
                  </li>
              </ul>
          </div>

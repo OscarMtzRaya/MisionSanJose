@@ -15,7 +15,7 @@
                 <div class="portfolio-item style-mansory">
                 <a class="gallery-plus-fix" title="Exquisite food"
                         href="assets/images/box-item/portfolio-mansonry-1.jpg?=1">
-                        <img src="assets/images/box-item/portfolio-mansonry-1.jpg?=1" style="height: 40rem;" alt="Misión d San José">
+                        <img src="assets/images/box-item/portfolio-mansonry-1.jpg?=1" style="height: 40rem;" alt="Misión San José">
                     </a>
                 </div>
             </div>
@@ -23,7 +23,7 @@
                 <div class="portfolio-item style-mansory">
                     <a class="gallery-plus-fix" title="Exquisite food"
                         href="assets/images/fotos12feb/8.webp">
-                        <img src="assets/images/fotos12feb/8.webp" alt="Misión d San José">
+                        <img src="assets/images/fotos12feb/8.webp" alt="Misión San José">
                     </a>
                 </div>
             </div>
@@ -31,13 +31,13 @@
                 <div class="portfolio-item style-mansory">
                     <a class="gallery-plus-fix" title="Exquisite food"
                         href="assets/images/box-item/portfolio-mansonry-6.jpg">
-                        <img src="assets/images/box-item/portfolio-mansonry-6.jpg" alt="Misión d San José">
+                        <img src="assets/images/box-item/portfolio-mansonry-6.jpg" alt="Misión San José">
                     </a>
                 </div>
                 <div class="portfolio-item style-mansory">
                     <a class="gallery-plus-fix" title="Exquisite food"
                         href="assets/images/box-item/portfolio-mansonry-4.jpg">
-                        <img src="assets/images/box-item/portfolio-mansonry-4.jpg" alt="Misión d San José">
+                        <img src="assets/images/box-item/portfolio-mansonry-4.jpg" alt="Misión San José">
                     </a>
                 </div>
             </div>
@@ -45,7 +45,7 @@
                 <div class="portfolio-item style-mansory">
                     <a class="gallery-plus-fix" title="Exquisite food"
                         href="assets/images/fotos12feb/11.webp">
-                        <img src="assets/images/fotos12feb/11.webp" alt="Misión d San José">
+                        <img src="assets/images/fotos12feb/11.webp" alt="Misión San José">
                     </a>
                 </div>
             </div>
@@ -53,7 +53,7 @@
                 <div class="portfolio-item style-mansory">
                     <a class="gallery-plus-fix" title="Exquisite food"
                         href="assets/images/fotos12feb/5.webp">
-                        <img src="assets/images/fotos12feb/5.webp" alt="Misión d San José">
+                        <img src="assets/images/fotos12feb/5.webp" alt="Misión San José">
                     </a>
                 </div>
             </div>

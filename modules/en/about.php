@@ -17,14 +17,14 @@
             <div class="col-12">
                 <div class="top-content">
                     <div class="heading-section text-center">
-                        <div class="sub wow fadeInUp">About Misión D San José</div>
+                        <div class="sub wow fadeInUp">About Misión San José</div>
                         <div class="main wow fadeInUp">Luxury <br> restaurant in San José del Cabo</div>
                         <div class="divider wow fadeInUp">
                             <div></div>
                         </div>
                     </div>
                     <p class="wow fadeInUp">
-                        Misión D San José is a restaurant-bar located in the heart of the city, renowned for offering
+                        Misión San José is a restaurant-bar located in the heart of the city, renowned for offering
                         the best view of the downtown area from one of San José's most emblematic buildings, steeped in
                         rich history.
                     </p>
