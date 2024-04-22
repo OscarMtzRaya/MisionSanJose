@@ -5,6 +5,9 @@ error_reporting(E_ALL);
 
 extract($_REQUEST);
 
+var_dump($_REQUEST);
+exit;
+
 // 0 -> PHP
 // 1 -> AJAX
 $tipo_de_procesamiento = 0;
