@@ -1,8 +1,3 @@
-<?php
-if (isset($_GET)) {
-    include_once("php/msg.php");
-}
-?>
 <!-- page-title -->
 <div class="page-title home-2">
     <div class="swiper relative slider-page-title">

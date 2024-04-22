@@ -1,5 +1,4 @@
 <body class="body counter-scroll">
-
     <!-- preload -->
     <div class="preload preload-container">
         <div class="middle"></div>
