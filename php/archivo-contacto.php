@@ -35,7 +35,7 @@ if (!$captcha_es_valido) {
 } else {
 try {
     //Server settings
-    $mail->SMTPDebug = 2;                                       //Enable verbose debug output
+    $mail->SMTPDebug = 0;                                       //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
     $mail->Host       = 'smtp.hostinger.com';                   //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
