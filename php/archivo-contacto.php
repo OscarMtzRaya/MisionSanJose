@@ -35,7 +35,7 @@ if (!$captcha_es_valido) {
 } else {
 try {
     //Server settings
-    $mail->SMTPDebug = 0;                                       //Enable verbose debug output
+    $mail->SMTPDebug = 2;                                       //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
     $mail->Host       = 'mail.grupoteso.com';                   //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
@@ -181,14 +181,14 @@ try {
 
     $mail->send();
     $codigo_de_error = "0";
-    header('location: /?msj='. $codigo_de_error);
+    header('location: /index.php?msj='. $codigo_de_error);
     if (isset($_GET)) {
       include_once("php/msg.php");
     }
      exit;
 } catch (Exception $e) {
     $codigo_de_error = "2";
-    header('location: /?msj='. $codigo_de_error);
+    header('location: /index.php?msj='. $codigo_de_error);
     if (isset($_GET)) {
       include_once("php/msg.php");
     }
