@@ -12,12 +12,12 @@ if (isset($_GET)) {
                     <div class="themesflat-container">
                         <div class="row">
                             <div class="col-12">
-                                <div class="text">Welcome to Misión D San José</div>
+                                <div class="text">Welcome to Misión San José</div>
                                 <div class="heading">FLAVORS FOR ROYALTY</div>
                                 <p>
                                     Discover the essence of San Jose del Cabo at its finest
                                 </p>
-                                <a class="button-two-line" href="#menu">Discover our MENU</a>
+                                <a class="button-two-line" href="#menu">Discover our Menu</a>
                             </div>
                         </div>
                     </div>
@@ -28,12 +28,12 @@ if (isset($_GET)) {
                     <div class="themesflat-container">
                         <div class="row">
                             <div class="col-12">
-                                <div class="text">Welcome to Misión D San José</div>
+                                <div class="text">Welcome to Misión San José</div>
                                 <div class="heading">FLAVORS FOR ROYALTY</div>
                                 <p>
                                     Discover the essence of San Jose del Cabo at its finest
                                 </p>
-                                <a class="button-two-line" href="#menu">Discover our MENU</a>
+                                <a class="button-two-line" href="#menu">Discover our Menu</a>
                             </div>
                         </div>
                     </div>
@@ -44,12 +44,12 @@ if (isset($_GET)) {
                     <div class="themesflat-container">
                         <div class="row">
                             <div class="col-12">
-                                <div class="text">Welcome to Misión D San José</div>
+                                <div class="text">Welcome to Misión San José</div>
                                 <div class="heading">FLAVORS FOR ROYALTY</div>
                                 <p>
                                     Discover the essence of San Jose del Cabo at its finest
                                 </p>
-                                <a class="button-two-line" href="#menu">Discover our MENU</a>
+                                <a class="button-two-line" href="#menu">Discover our Menu</a>
                             </div>
                         </div>
                     </div>
@@ -73,7 +73,7 @@ if (isset($_GET)) {
                         <div></div>
                     </div>
                     <div class="description wow fadeInUp">
-                        Misión D San José is a restaurant-bar located in the heart of the city, renowned for offering
+                        Misión San José is a restaurant-bar located in the heart of the city, renowned for offering
                         the best view of the downtown area from one of San José's most emblematic buildings, steeped in
                         rich history. <br>
 
@@ -85,7 +85,7 @@ if (isset($_GET)) {
                 </p>
                 <!-- <img class="wow fadeInUp" src="assets/images/item-background/signature.png" alt=""> -->
                 <div class="author wow fadeInUp"><a href="https://www.facebook.com/misionsanjoserest"
-                        target="_blank">Misión D San José</a></div>
+                        target="_blank">Misión San José</a></div>
             </div>
         </div>
         <div class="center">
@@ -148,7 +148,7 @@ if (isset($_GET)) {
                         </div>
                     </div>
                     <p class="wow fadeInUp">
-                        Misión D San José is an excellent option for your social or business event. We offer menu
+                        Misión San José is an excellent option for your social or business event. We offer menu
                         options tailored for group functions, customized to your preferences and needs. <br>
 
                         Romantic dinners, weddings, birthdays and special events.
@@ -461,8 +461,8 @@ if (isset($_GET)) {
                                 +52 624 123 2842
                             </a>
                         </div>
-                        <p class="wow fadeInUp">San José del Cabo <br><a href="misiondsanjose@gmail.com"
-                                target="_blank">misiondsanjose@gmail.com</a>
+                        <p class="wow fadeInUp">San José del Cabo <br><a href="info@grupoteso.com"
+                                target="_blank">info@grupoteso.com</a>
                         </p>
                         <div class="title wow fadeInUp">Opening Hours:</div>
                         <p class="text wow fadeInUp">Thu - Sun : 5.00pm - 11.00pm, Monday : Closed</p>

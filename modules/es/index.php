@@ -7,7 +7,7 @@
                     <div class="themesflat-container">
                         <div class="row">
                             <div class="col-12">
-                                <div class="text">Bienvenidos a Misión D San José</div>
+                                <div class="text">Bienvenidos a Misión San José</div>
                                 <div class="heading">ÍNCREIBLES RECETAS</div>
                                 <p>
                                     Descubre la esencia de San José del Cabo en su máxima expresión.
@@ -23,7 +23,7 @@
                     <div class="themesflat-container">
                         <div class="row">
                             <div class="col-12">
-                                <div class="text">Bienvenidos a Misión D San José</div>
+                                <div class="text">Bienvenidos a Misión San José</div>
                                 <div class="heading">ÍNCREIBLES RECETAS</div>
                                 <p>
                                     Descubre la esencia de San José del Cabo en su máxima expresión.
@@ -39,7 +39,7 @@
                     <div class="themesflat-container">
                         <div class="row">
                             <div class="col-12">
-                                <div class="text">Bienvenidos a Misión D San José</div>
+                                <div class="text">Bienvenidos a Misión San José</div>
                                 <div class="heading">ÍNCREIBLES RECETAS</div>
                                 <p>
                                     Descubre la esencia de San José del Cabo en su máxima expresión.
@@ -63,12 +63,12 @@
             <div class="content">
                 <div class="heading-section text-center">
                     <div class="sub wow fadeInUp">Acerca de</div>
-                    <div class="main wow fadeInUp">Misión D San José</div>
+                    <div class="main wow fadeInUp">Misión San José</div>
                     <div class="divider wow fadeInUp">
                         <div></div>
                     </div>
                     <div class="description wow fadeInUp">
-                        Misión D San José es un restaurante-bar ubicado en el corazón de la ciudad, reconocido por
+                        Misión San José es un restaurante-bar ubicado en el corazón de la ciudad, reconocido por
                         ofrecer la mejor vista del área del centro desde uno de los edificios más emblemáticos de San
                         José, impregnado de una rica historia. <br>
 
@@ -85,7 +85,7 @@
         </div>
         <div class="center">
             <div class="image">
-                <img src="assets/images/fotos12feb/1.webp" alt="Mision D San José">
+                <img src="assets/images/fotos12feb/1.webp" alt="Mision San Jose">
             </div>
         </div>
         <div class="right">
@@ -146,7 +146,7 @@
                         </div>
                     </div>
                     <p class="wow fadeInUp">
-                        Misión D San José es una excelente opción para tu evento social o de negocios. Ofrecemos
+                        Misión San José es una excelente opción para tu evento social o de negocios. Ofrecemos
                         opciones de menú adaptadas para funciones grupales, personalizadas según tus preferencias y
                         necesidades. <br>
 
@@ -170,27 +170,27 @@
 <div class="portfolio-wrap flex popup-gallery">
     <div class="portfolio-item">
         <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/box-item/portfolio-1.jpg">
-            <img src="assets/images/box-item/portfolio-1.jpg" alt="Mision d San José">
+            <img src="assets/images/box-item/portfolio-1.jpg" alt="Mision San Jose">
         </a>
     </div>
     <div class="portfolio-item">
         <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/box-item/portfolio-2.jpg">
-            <img src="assets/images/box-item/portfolio-2.jpg" alt="Mision d San José">
+            <img src="assets/images/box-item/portfolio-2.jpg" alt="Mision San Jose">
         </a>
     </div>
     <div class="portfolio-item">
         <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/box-item/portfolio-3.jpg">
-            <img src="assets/images/box-item/portfolio-3.jpg" alt="Mision d San José">
+            <img src="assets/images/box-item/portfolio-3.jpg" alt="Mision San Jose">
         </a>
     </div>
     <div class="portfolio-item">
         <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/fotos12feb/4.webp">
-            <img src="assets/images/fotos12feb/4.webp" alt="Mision d San José">
+            <img src="assets/images/fotos12feb/4.webp" alt="Mision San Jose">
         </a>
     </div>
     <div class="portfolio-item">
         <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/box-item/portfolio-5.jpg">
-            <img src="assets/images/box-item/portfolio-5.jpg" alt="Mision d San José">
+            <img src="assets/images/box-item/portfolio-5.jpg" alt="Mision San Jose">
         </a>
     </div>
 </div>
@@ -457,8 +457,8 @@
                                 +52 624 123 2842
                             </a>
                         </div>
-                        <p class="wow fadeInUp">San José del Cabo <br><a href="misiondsanjose@gmail.com"
-                                target="_blank">misiondsanjose@gmail.com</a>
+                        <p class="wow fadeInUp">San José del Cabo <br><a href="info@grupoteso.com"
+                                target="_blank">info@grupoteso.com</a>
                         </p>
                         <div class="title wow fadeInUp">Horarios:</div>
                         <p class="text wow fadeInUp">Mart - Sun : 5.00pm - 11.00pm, Lunes : Cerrado</p>
