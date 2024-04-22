@@ -26,14 +26,13 @@ try {
     $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //MANDAMOS EL NOMBRE EN UNA VARIABLE PARA PODER AGREGARLE LAA COMILLA SIMPLE
-    $slh = "Misión San José";
     //Recipients
-    $mail->setFrom('info@grupoteso.com', $slh); //QUIEN MANDA, CON EL NOMBRE
-    $mail->addAddress('info@grupoteso.com', $nombre); //QUIEN RECIB
+    $mail->setFrom('info@grupoteso.com', 'Formulario de reservación'); //QUIEN MANDA, CON EL NOMBRE
+    $mail->addAddress('info@grupoteso.com', 'Formulario de reservación'); //QUIEN RECIB
 
     //Content
     $mail->isHTML(true); //ACEPTAR HTML
-    $mail->Subject = 'Reserva nueva';
+    $mail->Subject = $nombre . ' solicita una reserva';
     $mail->Body    = '<html xmlns="http://www.w3.org/1999/xhtml">
 
           <head>
