@@ -28,7 +28,7 @@ $tipo_de_procesamiento = 0;
 
 try {
     // Configuración del servidor SMTP
-    $mail->SMTPDebug = 2;
+    $mail->SMTPDebug = 1;
     $mail->isSMTP();
     $mail->Host       = 'smtp.gmail.com';
     $mail->SMTPAuth   = true;
