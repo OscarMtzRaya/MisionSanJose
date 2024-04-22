@@ -400,7 +400,7 @@
                                 </fieldset>
                             </div>
                             <div class="columns">
-                            <fieldset class="phone">
+                                <fieldset class="phone">
                                     <input type="text" placeholder="Pax*" class="" name="pax" tabindex="2" value=""
                                         aria-required="true" required="">
                                 </fieldset>
@@ -416,7 +416,9 @@
                                 </div>
                             </div>
                             <div class="bot">
-                                <a href="" class="button-two-line w-full" name="submit" type="submit">BOOK NOW</a>
+                                <button type="submit" class="button-two-line w-full">
+                                    <span>Book Now</span> <i class="icon-arrow-right"></i>
+                                </button>
                             </div>
                         </form>
                     </div>
