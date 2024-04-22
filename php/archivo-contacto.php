@@ -37,7 +37,7 @@ try {
     //Server settings
     $mail->SMTPDebug = 2;                                       //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'mail.hostinger.com';                   //Set the SMTP server to send through
+    $mail->Host       = 'mail.grupoteso.com';                   //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
     $mail->Username   = 'info@grupoteso.com';    //SMTP username
     $mail->Password   = 'Grupoteso2024!';                        //SMTP password
@@ -188,7 +188,8 @@ try {
      exit;
 } catch (Exception $e) {
     $codigo_de_error = "2";
-    header('location: /index.php?msj='. $codigo_de_error.$e);
+    echo($e);
+    header('location: /index.php?msj='. $codigo_de_error);
     if (isset($_GET)) {
       include_once("php/msg.php");
     }
