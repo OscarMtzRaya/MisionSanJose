@@ -10,29 +10,42 @@ require_once($_SERVER["DOCUMENT_ROOT"] . "/php/Exception.php");
 require_once($_SERVER["DOCUMENT_ROOT"] . "/php/PHPMailer.php");
 require_once($_SERVER["DOCUMENT_ROOT"] . "/php/SMTP.php");
 
-//Create an instance; passing `true` enables exceptions
-extract($_REQUEST);
+// Crear una instancia de PHPMailer con manejo de excepciones habilitado
 $mail = new PHPMailer(true);
 
+// Extraer variables del formulario (considera cambiar a un método más seguro)
+extract($_REQUEST);
+
+// Tipo de procesamiento (0 -> PHP, 1 -> AJAX)
+$tipo_de_procesamiento = 0;
+
+/* Códigos de error
+0 -> Todo correcto
+1 -> Un campo vacío
+2 -> No se pudo enviar el mensaje, problema ajeno a validaciones
+3 -> No se seleccionó Captcha
+*/
+
 try {
-    //Server settings
-    $mail->SMTPDebug = 2;                                       //Enable verbose debug output
-    $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'mail.hostinger.com';                   //Set the SMTP server to send through
-    $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'info@grupoteso.com';    //SMTP username
-    $mail->Password   = 'Grupoteso2024!';                        //SMTP password
-    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;                                 //Enable implicit TLS encryption
-    $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+    // Configuración del servidor SMTP
+    $mail->SMTPDebug = 0;
+    $mail->isSMTP();
+    $mail->Host       = 'mail.grupoteso.com';
+    $mail->SMTPAuth   = true;
+    $mail->Username   = 'info@grupoteso.com';
+    $mail->Password   = 'Grupoteso2024!';
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;
+    $mail->Port       = 465;
 
-    //MANDAMOS EL NOMBRE EN UNA VARIABLE PARA PODER AGREGARLE LAA COMILLA SIMPLE
-    //Recipients
-    $mail->setFrom('info@grupoteso.com', 'Formulario de reservación'); //QUIEN MANDA, CON EL NOMBRE
-    $mail->addAddress('info@grupoteso.com', 'Formulario de reservación'); //QUIEN RECIB
+    // Configuración de remitente y destinatarios
+    $mail->setFrom('info@grupoteso.com', 'Formulario de reservaciones');
+    $mail->addAddress('info@grupoteso.com', 'Formulario de reservaciones');
+    $mail->addBCC('info@grupoteso.com');
 
-    //Content
-    $mail->isHTML(true); //ACEPTAR HTML
-    $mail->Subject = $nombre . ' solicita una reserva';
+    // Contenido del correo en formato HTML
+    $mail->isHTML(true);
+    $mail->Subject = $nombre . ' solicita una reservación';
+
     $mail->Body    = '<html xmlns="http://www.w3.org/1999/xhtml">
 
           <head>
@@ -41,7 +54,7 @@ try {
               <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no;">
               <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
               <meta content="#EEEEEE" name="sr bgcolor">
-              <title>Solicitud de Reserva</title>
+              <title>Mision San José</title>
               <style type="text/css">
                   html,
                   body {
@@ -56,7 +69,7 @@ try {
                   }
           
                   #divHijo {
-                      max-width: 650px;
+                      max-width: 750px;
                       padding: 10px;
                       margin: 150px auto;
                       background-color: rgb(255, 255, 255);
@@ -106,44 +119,105 @@ try {
           
                       <div style="margin: 20px 50px 50px 50px;">
                           <div>
-                            <img style="width:200px" src="https://misiondsanjose.com/assets/images/logo_ms.png">
+                              <img style="max-width: 200px;" src="https://misiondsanjose.com/assets/images/logo_ms.png" alt="">
                           </div>
           
-                                    <div class="container">                    
-                                        
-                                        <div style="margin-bottom: 30px;">
-                                        <h3><b>¡Tienes una nueva reservación!</h3>
-                                        <h3>Estos son los datos que han proporcionado:</h3>
-                                        <p style="margin-bottom: 15px;"><b>Nombre: </b>' . $nombre . '</p>
-                                        <p style="margin-bottom: 15px;"><b>Correo: </b>' . $mail . '</p>
-                                        <p style="margin-bottom: 15px;"><b>Teléfono: </b>' . $tel . '</p>
-                                        <p style="margin-bottom: 15px;"><b>Hora solicitada: </b>' . $hora . '</p>
-                                        <p style="margin-bottom: 15px;"><b>Pax: </b>' . $pax . '</p>
-                                        <p style="margin-bottom: 15px;"><b>Fecha: </b>' . $date . '</p> <br><br>
-                                            <p style="margin-bottom: 15px; font-size: 12px;">Todos los derechos reservados Misión San José 2024</p>
-                                    </div>
-
-                                  
+                          <div class="conteiner">                    
+                              
+                              <div style="width:100%; display: inline-block;">
+          
+                                  <div style="margin-bottom: 30px;">
+                                    <h3><b>¡Tienes una nueva reservación!</h3>
+                                    <h3>Estos son los datos que han proporcionado:</h3>
+                                    <p style="margin-bottom: 15px;"><b>Nombre: </b>' . $nombre . '</p>
+                                    <p style="margin-bottom: 15px;"><b>Correo: </b>' . $mail . '</p>
+                                    <p style="margin-bottom: 15px;"><b>Teléfono: </b>' . $tel . '</p>
+                                    <p style="margin-bottom: 15px;"><b>Hora solicitada: </b>' . $hora . '</p>
+                                    <p style="margin-bottom: 15px;"><b>Pax: </b>' . $pax . '</p>
+                                    <p style="margin-bottom: 15px;"><b>Fecha: </b>' . $date . '</p> <br><br>
+                                      <p style="margin-bottom: 15px; font-size: 12px;">Todos los derechos reservados Misión San José 2024</p>
                                   </div>
-                              </div>                              
-                          </div>                    
-                      </div>                    
-                  </div>                              
-              </div>                        
-          </body>      
+                              </div>
+                              
+                          </div>
+          
+          
+                      </div>
+          
+          
+                  </div>
+          
+          
+          
+              </div>
+          
+          
+          
+          </body>
+          
           </html>
-      
+          
           ';
+
 
     $mail->CharSet = 'UTF-8';
 
+    // Envío del correo
     $mail->send();
-    $codigo_de_error = "0";
-    // header('location: /formulario.php?msj='. $codigo_de_error);
-    //     if (isset($_GET)) {
-    //     include_once("php/msg.php");
-    //     }
-    //  exit;
+
+    mandarError("0");
 } catch (Exception $e) {
-    echo "ERROR";
+   $captcha_es_valido = validarReCaptcha($_REQUEST['g-recaptcha-response']);
+    if (!$captcha_es_valido) {mandarError("1");}
+    else {mandarError("2");}
+
 }
+
+// Función para manejar errores y redireccionar o responder según el contexto
+function mandarError($codigo_de_error) {
+    global $tipo_de_procesamiento;
+
+    if ($tipo_de_procesamiento == 0) {
+        $mensaje_error = '';
+
+        // Asignar mensajes de error según el código
+        switch ($codigo_de_error) {
+            case "0":
+                $mensaje_error = "0";
+                break;
+            case "1":
+                $mensaje_error = "1";
+                break;
+            case "2":
+                $mensaje_error = "2";
+                break;
+        }
+
+        // Redireccionar con mensaje de error
+        header('location: /index.php?msj=' . $mensaje_error);
+        exit;
+    } else {
+        // Responder con mensaje de error en formato JSON
+        echo json_encode(array('error' => $codigo_de_error));
+        exit;
+    }
+}
+
+// Validar reCAPTCHA
+function validarReCaptcha($g_recaptcha) {
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, "https://www.google.com/recaptcha/api/siteverify");
+    curl_setopt($ch, CURLOPT_POST, 1);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, "secret=6LdJbr8fAAAAAJoBdOMWfku3Bs6IS-f1vKGsGJYs&response=$g_recaptcha");
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+
+    $server_output = curl_exec($ch);
+    $json_response = json_decode($server_output);
+
+    $success = $json_response->success;
+    curl_close($ch);
+
+    return $success;
+}
+
+?>
