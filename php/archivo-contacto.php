@@ -28,7 +28,7 @@ $tipo_de_procesamiento = 0;
 
 try {
     // Configuración del servidor SMTP
-    $mail->SMTPDebug = 0;
+    $mail->SMTPDebug = 2;
     $mail->isSMTP();
     $mail->Host       = 'mail.grupoteso.com';
     $mail->SMTPAuth   = true;
