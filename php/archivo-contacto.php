@@ -30,7 +30,7 @@ try {
     // Configuración del servidor SMTP
     $mail->SMTPDebug = 0;
     $mail->isSMTP();
-    $mail->Host       = 'mail.misiondsanjose.com';
+    $mail->Host       = 'mail.grupoteso.com';
     $mail->SMTPAuth   = true;
     $mail->Username   = 'info@grupoteso.com';
     $mail->Password   = 'Grupoteso2024!';
