@@ -27,7 +27,7 @@ $mail = new PHPMailer(true);
 $captcha_es_valido = validarReCaptcha($_REQUEST['g-recaptcha-response']);
 if (!$captcha_es_valido) {
     $codigo_de_error = "3";
-    header('location: /?msj='. $codigo_de_error);
+    header('location: /index.php?msj='. $codigo_de_error);
     if (isset($_GET)) {
       include_once("php/msg.php");
     }
@@ -37,12 +37,12 @@ try {
     //Server settings
     $mail->SMTPDebug = 2;                                       //Enable verbose debug output
     $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'mail.grupoteso.com';                   //Set the SMTP server to send through
+    $mail->Host       = 'mail.hostinger.com';                   //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
     $mail->Username   = 'info@grupoteso.com';    //SMTP username
     $mail->Password   = 'Grupoteso2024!';                        //SMTP password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;                                  //Enable implicit TLS encryption
-    $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+    $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //MANDAMOS EL NOMBRE EN UNA VARIABLE PARA PODER AGREGARLE LAA COMILLA SIMPLE
     $slh = "Mision San Jose";
