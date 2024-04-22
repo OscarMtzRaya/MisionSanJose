@@ -380,7 +380,7 @@
                                 <div></div>
                             </div>
                         </div>
-                        <form class="book-form" method="POST" action="/php/archivo-contacto.php">
+                        <form class="" method="POST" action="/php/archivo-contacto.php">
                             <fieldset class="name">
                                 <input type="text" placeholder="Name*" class="" name="nombre" tabindex="2" value=""
                                     aria-required="true" required="">
