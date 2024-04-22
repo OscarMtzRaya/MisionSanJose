@@ -386,7 +386,7 @@
                                     aria-required="true" required="">
                             </fieldset>
                             <fieldset class="name">
-                                <input type="text" placeholder="Email*" class="" name="mail" tabindex="2" value=""
+                                <input type="text" placeholder="Email*" class="" name="email" tabindex="2" value=""
                                     aria-required="true" required="">
                             </fieldset>
                             <div class="columns">

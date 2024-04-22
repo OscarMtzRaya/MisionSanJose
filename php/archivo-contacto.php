@@ -159,7 +159,7 @@ try {
                                     <h3><b>¡Tienes una nueva reservación!</h3>
                                     <h3>Estos son los datos que han proporcionado:</h3>
                                     <p style="margin-bottom: 15px;"><b>Nombre: </b>' . $nombre . '</p>
-                                    <p style="margin-bottom: 15px;"><b>Correo: </b>' . $mail . '</p>
+                                    <p style="margin-bottom: 15px;"><b>Correo: </b>' . $email . '</p>
                                     <p style="margin-bottom: 15px;"><b>Teléfono: </b>' . $tel . '</p>
                                     <p style="margin-bottom: 15px;"><b>Hora solicitada: </b>' . $hora . '</p>
                                     <p style="margin-bottom: 15px;"><b>Pax: </b>' . $pax . '</p>
