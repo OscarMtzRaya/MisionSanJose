@@ -92,7 +92,7 @@
             <div class="content">
                 <div class="heading-section text-center">
                     <div class="sub wow fadeInUp">Time of Luxury</div>
-                    <div class="main wow fadeInUp">Open Hours</div>
+                    <div class="main wow fadeInUp">Opening Hours</div>
                     <div class="divider wow fadeInUp">
                         <div></div>
                     </div>
@@ -101,7 +101,7 @@
                 </div>
                 <ul class="list-content">
                     <li class="wow fadeInUp">
-                        <p class="text">Open Hours:</p>
+                        <p class="text">Opening Hours:</p>
                     </li>
                     <li class="wow fadeInUp">
                         <p>Thusday - Sunday : 5.00pm - 11.00pm</p>
