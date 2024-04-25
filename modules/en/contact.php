@@ -37,7 +37,7 @@
                  <div class="col-md-4">
                      <div class="contact-item wow fadeInUp" data-wow-delay="0.2s">
                          <div class="image"><img src="assets/images/item-background/time.png" alt=""></div>
-                         <div class="title">open time</div>
+                         <div class="title">Operating hours</div>
                          <p>
                              Mon - Sun : 5.00pm - 11.00pm <br>
                              Monday : Closed
@@ -56,7 +56,7 @@
          <div class="row">
              <div class="col-12">
                  <div class="heading-section text-center">
-                     <div class="title wow fadeInUp">Have a question or need more information? Just drop us a line!
+                     <div class="title wow fadeInUp">Have a question or need more information? Hit us up!
                      </div>
                      <p class="wow fadeInUp">Give us a call or drop by anytime, we endeavour to answer all enquiries.
                          <br>We will be happy to answer your questions.

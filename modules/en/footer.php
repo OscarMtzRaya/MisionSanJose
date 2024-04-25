@@ -28,7 +28,7 @@
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-12">
-                <div class="footer-title">Open hour</div>
+                <div class="footer-title">Opening hours</div>
                 <ul class="list">
                     <li>
                         <p class="tf-color">Thusday - Sunday:</p>
