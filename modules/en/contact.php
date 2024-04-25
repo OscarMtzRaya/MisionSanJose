@@ -67,10 +67,10 @@
                  </div>
              </div>
              <div class="col-12">
-                 <form class="book-form">
+                 <form class="" method="POST" action="/php/archivo-contacto-2.php">
                      <div class="columns">
                          <fieldset class="name">
-                             <input type="text" placeholder="Name*" class="" name="name" tabindex="2" value=""
+                             <input type="text" placeholder="Name*" class="" name="nombre" tabindex="2" value=""
                                  aria-required="true" required="">
                          </fieldset>
                          <fieldset class="email">
@@ -78,7 +78,7 @@
                                  aria-required="true" required="">
                          </fieldset>
                          <fieldset class="phone">
-                             <input type="text" placeholder="Phone*" class="" name="text" tabindex="2" value=""
+                             <input type="text" placeholder="Phone*" class="" name="tel" tabindex="2" value=""
                                  aria-required="true" required="">
                          </fieldset>
                      </div>
@@ -86,8 +86,14 @@
                          <textarea id="message" name="message" rows="4" placeholder="Message" class="" tabindex="4"
                              aria-required="true" required=""></textarea>
                      </fieldset>
+                     <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">
+                                <div class="col-12 col-md-12">
+                                    <div class="g-recaptcha" data-sitekey="6LdJbr8fAAAAACTrH_tQBzWfqtoU9j8r5WqpMaNI"
+                                        required></div>
+                                </div>
+                            </div>
                      <div class="bot">
-                         <a href="" class="button-two-line m-auto" type="submit">SEND A MESSAGE</a>
+                         <button href="" class="button-two-line m-auto" type="submit">SEND A MESSAGE</button>
                      </div>
                  </form>
              </div>
