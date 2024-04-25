@@ -11,6 +11,34 @@
 <div class="portfolio-mansonry">
     <div class="themesflat-container">
         <div class="row popup-gallery">
+        <div class="col-12">
+                <div class="portfolio-item style-mansory">
+                    <a class="gallery-plus-fix" title="" href="assets/images/box-item/galeria6.webp">
+                        <img src="assets/images/box-item/galeria6.webp" style="height: 40rem;" alt="">
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="portfolio-item style-mansory">
+                    <a class="gallery-plus-fix" title="" href="assets/images/box-item/galeria2.jpg">
+                        <img src="assets/images/box-item/galeria2.webp" alt="">
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="portfolio-item style-mansory">
+                    <a class="gallery-plus-fix" title="" href="assets/images/box-item/galeria1.jpg">
+                        <img src="assets/images/box-item/galeria1.webp" alt="">
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="portfolio-item style-mansory">
+                    <a class="gallery-plus-fix" title="" href="assets/images/box-item/galeria3.jpg">
+                        <img src="assets/images/box-item/galeria3.webp" alt="">
+                    </a>
+                </div>
+            </div>
             <div class="col-12">
                 <div class="portfolio-item style-mansory">
                 <a class="gallery-plus-fix" title="Exquisite food"

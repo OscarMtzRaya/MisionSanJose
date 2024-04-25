@@ -2279,7 +2279,7 @@ a:focus {
 }
 
 .banner-page.about {
-    background-image: url(../images/bg-section/bg-about-us.jpg?=1);
+    background-image: url(../images/bg-section/slider1.webp);
 }
 
 .banner-page.book-table {
@@ -2315,11 +2315,11 @@ a:focus {
 }
 
 .banner-page.contact-page {
-    background-image: url(../images/bg-section/bg-contact.jpg?=2);
+    background-image: url(../images/bg-section/slider3.webp);
 }
 
 .banner-page.portfolio-page {
-    background-image: url(../images/fotos12feb/3.webp);
+    background-image: url(../images/bg-section/slider2.webp);
 }
 
 /* heading-section */

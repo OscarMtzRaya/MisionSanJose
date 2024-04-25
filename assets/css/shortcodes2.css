@@ -953,7 +953,7 @@ form.form-search button {
 
 .page-title .content.text-center {
     text-align: center;
-    background-image: url(../images/bg-section/bg-home-1.jpg);
+    background-image: url(../images/bg-section/slider1.webp);
 }
 
 .page-title .content.text-center a {
@@ -964,7 +964,7 @@ form.form-search button {
 
 .page-title .content.text-right {
     text-align: end;
-    background-image: url(../images/bg-section/bg-home-right.jpg);
+    background-image: url(../images/bg-section/slider2.webp);
 }
 
 .page-title .content.text-right a {
@@ -973,7 +973,7 @@ form.form-search button {
 
 .page-title .content.text-left {
     text-align: start;
-    background-image: url(../images/bg-section/bg-home-2.jpg);
+    background-image: url(../images/bg-section/slider3.webp);
 }
 
 .page-title .content.text-rigleftht a {
@@ -1202,7 +1202,7 @@ form.form-search button {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(../images/box-item/video-1.jpg?=1);
+    background-image: url(../images/bg-section/slider3.webp);
     position: relative;
 }
 

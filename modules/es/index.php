@@ -157,7 +157,7 @@
             </div>
             <div class="col-md-6">
                 <div class="image text-end wow fadeInRight">
-                    <img src="assets/images/fotos12feb/7.webp" alt="">
+                    <img src="assets/images/eventos.webp" alt="">
                 </div>
             </div>
         </div>
@@ -169,28 +169,28 @@
 <!-- portfolio -->
 <div class="portfolio-wrap flex popup-gallery">
     <div class="portfolio-item">
-        <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/box-item/portfolio-1.jpg">
-            <img src="assets/images/box-item/portfolio-1.jpg" alt="Mision San Jose">
+        <a class="gallery-plus-fix" title="" href="assets/images/box-item/galeria1.webp">
+            <img src="assets/images/box-item/galeria1.webp" alt="Mision San Jose">
         </a>
     </div>
     <div class="portfolio-item">
-        <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/box-item/portfolio-2.jpg">
-            <img src="assets/images/box-item/portfolio-2.jpg" alt="Mision San Jose">
+        <a class="gallery-plus-fix" title="" href="assets/images/box-item/galeria2.webp">
+            <img src="assets/images/box-item/galeria2.webp" alt="Mision San Jose">
         </a>
     </div>
     <div class="portfolio-item">
-        <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/box-item/portfolio-3.jpg">
-            <img src="assets/images/box-item/portfolio-3.jpg" alt="Mision San Jose">
+        <a class="gallery-plus-fix" title="" href="assets/images/box-item/galeria3.webp">
+            <img src="assets/images/box-item/galeria3.webp" alt="Mision San Jose">
         </a>
     </div>
     <div class="portfolio-item">
-        <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/fotos12feb/4.webp">
-            <img src="assets/images/fotos12feb/4.webp" alt="Mision San Jose">
+        <a class="gallery-plus-fix" title="" href="assets/images/box-item/galeria4.webp">
+            <img src="assets/images/box-item/galeria4.webp" alt="Mision San Jose">
         </a>
     </div>
     <div class="portfolio-item">
-        <a class="gallery-plus-fix" title="Exquisite food" href="assets/images/box-item/portfolio-5.jpg">
-            <img src="assets/images/box-item/portfolio-5.jpg" alt="Mision San Jose">
+        <a class="gallery-plus-fix" title="" href="assets/images/box-item/galeria5.webp">
+            <img src="assets/images/box-item/galeria5.webp" alt="Mision San Jose">
         </a>
     </div>
 </div>
