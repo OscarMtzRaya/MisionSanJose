@@ -32,11 +32,11 @@
                 <div class="footer-title">Horarios</div>
                 <ul class="list">
                     <li>
-                        <p class="tf-color">Martes - domingo:</p>
+                        <p class="tf-color">Lunes - Sábado:</p>
                         <p>5:00 pm - 11:00pm</p>
                     </li>
                     <li>
-                        <p class="tf-color">Lunes:</p>
+                        <p class="tf-color">Domingo:</p>
                         <p>Cerrado</p>
                 </ul>
             </div>

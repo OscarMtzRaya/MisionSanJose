@@ -462,7 +462,7 @@
                                 target="_blank">info@grupoteso.com</a>
                         </p>
                         <div class="title wow fadeInUp">Opening Hours:</div>
-                        <p class="text wow fadeInUp">Thu - Sun : 5.00pm - 11.00pm, Monday : Closed</p>
+                        <p class="text wow fadeInUp">Mon - Sat : 5.00pm - 11.00pm, Sunday : Closed</p>
                         <div class="widget-social style-big justify-center wow fadeInUp">
                             <ul class="">
                                 <li><a target="_blank" href="https://www.facebook.com/misionsanjoserest"

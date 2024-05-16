@@ -461,7 +461,7 @@
                                 target="_blank">info@grupoteso.com</a>
                         </p>
                         <div class="title wow fadeInUp">Horarios:</div>
-                        <p class="text wow fadeInUp">Mart - Sun : 5.00pm - 11.00pm, Lunes : Cerrado</p>
+                        <p class="text wow fadeInUp">Lun - Sab : 5.00pm - 11.00pm, Domingo : Cerrado</p>
                         <div class="widget-social style-big justify-center wow fadeInUp">
                             <ul class="">
                                 <li><a target="_blank" href="https://www.facebook.com/misionsanjoserest"

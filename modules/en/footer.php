@@ -31,11 +31,11 @@
                 <div class="footer-title">Opening hours</div>
                 <ul class="list">
                     <li>
-                        <p class="tf-color">Thusday - Sunday:</p>
+                        <p class="tf-color">Monday - Saturday:</p>
                         <p>5:00 pm - 11:00pm</p>
                     </li>
                     <li>
-                        <p class="tf-color">Monday:</p>
+                        <p class="tf-color">Sunday:</p>
                         <p>Closed</p>
                 </ul>
             </div>
