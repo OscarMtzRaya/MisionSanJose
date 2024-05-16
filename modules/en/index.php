@@ -104,10 +104,10 @@
                         <p class="text">Opening Hours:</p>
                     </li>
                     <li class="wow fadeInUp">
-                        <p>Thusday - Sunday : 5.00pm - 11.00pm</p>
+                        <p>Monday - Saturday : 5.00pm - 11.00pm</p>
                     </li>
                     <li class="wow fadeInUp">
-                        <p>Monday: Closed</p>
+                        <p>Sunday: Closed</p>
                     </li>
 
                 </ul>

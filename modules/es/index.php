@@ -105,10 +105,10 @@
                         <p class="text">Horarios:</p>
                     </li>
                     <li class="wow fadeInUp">
-                        <p>Martes - Domingo : 5.00pm - 11.00pm</p>
+                        <p>Lunes - Sábado : 5.00pm - 11.00pm</p>
                     </li>
                     <li class="wow fadeInUp">
-                        <p>Lunes: Cerrado</p>
+                        <p>Domingo: Cerrado</p>
                     </li>
 
                 </ul>
