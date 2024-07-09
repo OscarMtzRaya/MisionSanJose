@@ -60,7 +60,7 @@
             </div>
             <div class="col-12">
                 <div class="footer-bottom justify-content-center">
-                    <p>Copyright © 2024 Mision San José del Cabo. All Rights Reserved. Design by <a href="">Mar-keting
+                    <p>Copyright © 2024 Mision San José del Cabo. All Rights Reserved. Design by <a target="_blank" href="https://mktadgroup.com/">Mar-keting
                             Ad Group</a></p>
                 </div>
             </div>
