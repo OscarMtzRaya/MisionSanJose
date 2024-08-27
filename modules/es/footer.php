@@ -29,6 +29,11 @@
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-12">
+                <hr>
+                <h4>
+                    Misión D' San José permanecerá cerrada del Domingo 10 de agosto al martes 10 de septiembre
+                </h4>
+                <hr>
                 <div class="footer-title">Horarios</div>
                 <ul class="list">
                     <li>
@@ -62,7 +67,8 @@
             </div>
             <div class="col-12">
                 <div class="footer-bottom justify-content-center">
-                    <p>Copyright © 2024 Mision San José del Cabo. Todos los derechos reservados. Diseñado por <a target="_blank" href="https://mktadgroup.com/">Mar-keting
+                    <p>Copyright © 2024 Mision San José del Cabo. Todos los derechos reservados. Diseñado por <a
+                            target="_blank" href="https://mktadgroup.com/">Mar-keting
                             Ad Group</a></p>
                 </div>
             </div>

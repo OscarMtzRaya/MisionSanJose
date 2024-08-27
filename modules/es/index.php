@@ -56,6 +56,12 @@
 </div>
 <!-- /page-title -->
 
+<div class="row justify-content-center mt-5 mb-5">
+    <div class="col-md-4">
+        <img src="assets/images/anuncios/cerradoAgosto2024.webp" alt="AnuncioCerradoAgosto2024">
+    </div>
+</div>
+
 <!-- wg-about-hour -->
 <div class="wg-about-hour">
     <div class="wrap">
@@ -100,6 +106,11 @@
                         Ven y experimenta la atmósfera elegante con deliciosa comida y música.
                     </div>
                 </div>
+                <hr>
+                <h3>
+                    Misión D' San José permanecerá cerrada del Domingo 10 de agosto al martes 10 de septiembre
+                </h3>
+                <hr>
                 <ul class="list-content">
                     <li class="wow fadeInUp">
                         <p class="text">Horarios:</p>
@@ -239,7 +250,8 @@
                                 <img src="assets/images/box-item/our-menu-1.jpg" alt="Menú Mision San José">
                             </div>
                         </div>
-                        <div class="widget-content-tab pswp-gallery pswp-gallery--single-column" id="gallery--none-transition">
+                        <div class="widget-content-tab pswp-gallery pswp-gallery--single-column"
+                            id="gallery--none-transition">
                             <div class="widget-content-inner active">
                                 <a href="assets/images/menuEsp/01.jpg" data-pswp-width="1669" data-pswp-height="2500"
                                     target="_blank">
@@ -395,8 +407,8 @@
                             </fieldset>
                             <div class="columns">
                                 <fieldset class="phone">
-                                    <input type="text" placeholder="Teléfono*" class="" name="text" tabindex="2" value=""
-                                        aria-required="true" required="">
+                                    <input type="text" placeholder="Teléfono*" class="" name="text" tabindex="2"
+                                        value="" aria-required="true" required="">
                                 </fieldset>
                                 <fieldset class="hour select">
                                     <input type="time" class="" name="time" tabindex="2" value="19:00"
@@ -460,6 +472,11 @@
                         <p class="wow fadeInUp">San José del Cabo <br><a href="info@grupoteso.com"
                                 target="_blank">info@grupoteso.com</a>
                         </p>
+                        <hr>
+                        <h3>
+                            Misión D' San José permanecerá cerrada del Domingo 10 de agosto al martes 10 de septiembre
+                        </h3>
+                        <hr>
                         <div class="title wow fadeInUp">Horarios:</div>
                         <p class="text wow fadeInUp">Lun - Sab : 5.00pm - 11.00pm, Domingo : Cerrado</p>
                         <div class="widget-social style-big justify-center wow fadeInUp">

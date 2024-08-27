@@ -21,13 +21,20 @@
                     <ul class="">
                         <li><a target="_blank" href="https://www.facebook.com/misionsanjoserest" class="icon-fb"></a>
                         </li>
-                        <li><a target="_blank" href="https://www.tripadvisor.com.mx/Restaurant_Review-g152516-d26530596-Reviews-Mision_San_Jose-San_Jose_del_Cabo_Los_Cabos_Baja_California.html" class="icon-trip"></a></li>
+                        <li><a target="_blank"
+                                href="https://www.tripadvisor.com.mx/Restaurant_Review-g152516-d26530596-Reviews-Mision_San_Jose-San_Jose_del_Cabo_Los_Cabos_Baja_California.html"
+                                class="icon-trip"></a></li>
                         <li><a target="_blank" href="https://www.instagram.com/misionsanjose_"
                                 class="icon-instagram2"></a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-12">
+                <hr>
+                <h4>
+                    Misión D' San José will be closed from Sunday, August 10 to Tuesday, September 10.
+                </h4>
+                <hr>
                 <div class="footer-title">Opening hours</div>
                 <ul class="list">
                     <li>
@@ -60,7 +67,8 @@
             </div>
             <div class="col-12">
                 <div class="footer-bottom justify-content-center">
-                    <p>Copyright © 2024 Mision San José del Cabo. All Rights Reserved. Design by <a target="_blank" href="https://mktadgroup.com/">Mar-keting
+                    <p>Copyright © 2024 Mision San José del Cabo. All Rights Reserved. Design by <a target="_blank"
+                            href="https://mktadgroup.com/">Mar-keting
                             Ad Group</a></p>
                 </div>
             </div>

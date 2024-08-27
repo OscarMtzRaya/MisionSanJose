@@ -99,6 +99,11 @@
                     <div class="description wow fadeInUp">Come and experience the classy atmosphere with delicious food
                         and music at brochette</div>
                 </div>
+                <hr>
+                <h3>
+                    Misión D' San José will be closed from Sunday, August 10 to Tuesday, September 10.
+                </h3>
+                <hr>
                 <ul class="list-content">
                     <li class="wow fadeInUp">
                         <p class="text">Opening Hours:</p>
@@ -461,6 +466,11 @@
                         <p class="wow fadeInUp">San José del Cabo <br><a href="info@grupoteso.com"
                                 target="_blank">info@grupoteso.com</a>
                         </p>
+                        <hr>
+                        <h3>
+                            Misión D' San José will be closed from Sunday, August 10 to Tuesday, September 10.
+                        </h3>
+                        <hr>
                         <div class="title wow fadeInUp">Opening Hours:</div>
                         <p class="text wow fadeInUp">Mon - Sat : 5.00pm - 11.00pm, Sunday : Closed</p>
                         <div class="widget-social style-big justify-center wow fadeInUp">
