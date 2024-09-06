@@ -62,6 +62,34 @@
     </div>
 </div>
 
+<!-- our-menu -->
+<div class="our-menu style-1" id="menu">
+    <div class="themesflat-container w1600">
+        <div class="row justify-content-center">
+            <div class="col-12">
+                <div class="heading-section text-center">
+                    <div class="sub wow fadeInUp">
+                        Momentos especiales
+                    </div>
+                    <div class="main wow fadeInUp">Nuestros eventos</div>
+                    <div class="text wow fadeInUp">
+                    </div>
+                    <div class="divider wow fadeInUp">
+                        <div></div>
+                    </div>
+                </div>
+            </div>
+           <div class="col-md-6">
+                <img src="assets/images/promo14sep.webp" alt="Promocion14deSeptiembre">
+           </div>
+           <div class="col-md-6">
+                <img src="assets/images/promo15sep.webp" alt="Promocion14deSeptiembre">
+           </div>
+        </div>
+    </div>
+</div>
+<!-- /our-menu -->
+
 <!-- wg-about-hour -->
 <div class="wg-about-hour">
     <div class="wrap">
