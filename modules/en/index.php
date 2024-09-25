@@ -99,11 +99,6 @@
                     <div class="description wow fadeInUp">Come and experience the classy atmosphere with delicious food
                         and music at brochette</div>
                 </div>
-                <hr>
-                <h3>
-                    Misión D' San José will be closed from Sunday, August 10 to Tuesday, September 10.
-                </h3>
-                <hr>
                 <ul class="list-content">
                     <li class="wow fadeInUp">
                         <p class="text">Opening Hours:</p>

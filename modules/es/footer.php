@@ -29,11 +29,6 @@
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-12">
-                <hr>
-                <h4>
-                    Misión D' San José permanecerá cerrada del Domingo 10 de agosto al martes 10 de septiembre
-                </h4>
-                <hr>
                 <div class="footer-title">Horarios</div>
                 <ul class="list">
                     <li>

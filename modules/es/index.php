@@ -56,12 +56,6 @@
 </div>
 <!-- /page-title -->
 
-<div class="row justify-content-center mt-5 mb-5">
-    <div class="col-md-4">
-        <img src="assets/images/anuncios/cerradoAgosto2024.webp" alt="AnuncioCerradoAgosto2024">
-    </div>
-</div>
-
 <!-- our-menu -->
 <div class="our-menu style-1" id="menu">
     <div class="themesflat-container w1600">
@@ -134,11 +128,6 @@
                         Ven y experimenta la atmósfera elegante con deliciosa comida y música.
                     </div>
                 </div>
-                <hr>
-                <h3>
-                    Misión D' San José permanecerá cerrada del Domingo 10 de agosto al martes 10 de septiembre
-                </h3>
-                <hr>
                 <ul class="list-content">
                     <li class="wow fadeInUp">
                         <p class="text">Horarios:</p>

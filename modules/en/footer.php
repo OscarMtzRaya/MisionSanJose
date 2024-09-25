@@ -30,11 +30,6 @@
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-12">
-                <hr>
-                <h4>
-                    Misión D' San José will be closed from Sunday, August 10 to Tuesday, September 10.
-                </h4>
-                <hr>
                 <div class="footer-title">Opening hours</div>
                 <ul class="list">
                     <li>
