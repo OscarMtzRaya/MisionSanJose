@@ -25,7 +25,7 @@
              </div>
              <div class="button-right">
                  <a target="ref"
-                     href="https://wa.me/+526241096522?text=Hello,%20I%20would%20like%20make%20a%20reservation."
+                     href="mailto:info@grupoteso.com"
                      class="button-default mt-0">BOOK A TABLE</a>
              </div>
          </div>
@@ -71,8 +71,8 @@
                      </div>
                      <div class="content">
                          <p class="tf-color">Contact Us</p>
-                         <a href="tel:+526241232842">
-                             <p class="number-phone">+52 624 123 2842</p>
+                         <a href="tel:+526241424038">
+                             <p class="number-phone">+52 624 142 4038</p>
                          </a>
                      </div>
                  </div>

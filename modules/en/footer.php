@@ -34,7 +34,7 @@
                 <ul class="list">
                     <li>
                         <p class="tf-color">Monday - Saturday:</p>
-                        <p>5:00 pm - 11:00pm</p>
+                        <p>2:00 pm - 10:00pm</p>
                     </li>
                     <li>
                         <p class="tf-color">Sunday:</p>
@@ -53,9 +53,9 @@
                         <p><a href="mailto:info@grupoteso.com" class="__cf_email__">info@grupoteso.com</a></p>
                     </li>
                     <li>
-                        <p class="tf-color">Phone & Book table:</p>
+                        <p class="tf-color">Phone & Book a table:</p>
                         <p>
-                            <a href="tel:+526241232842">+52 624 123 2842</a>
+                            <a href="tel:+526241424038">+52 624 142 4038</a>
                         </p>
                     </li>
                 </ul>

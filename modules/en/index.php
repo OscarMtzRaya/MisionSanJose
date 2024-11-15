@@ -104,7 +104,7 @@
                         <p class="text">Opening Hours:</p>
                     </li>
                     <li class="wow fadeInUp">
-                        <p>Monday - Saturday : 5.00pm - 11.00pm</p>
+                        <p>Monday - Saturday : 2.00pm - 10.00pm</p>
                     </li>
                     <li class="wow fadeInUp">
                         <p>Sunday: Closed</p>
@@ -445,29 +445,25 @@
                                 <div></div>
                             </div>
                         </div>
-                        <div class="title wow fadeInUp">Book by WhatsApp</div>
+                        <!-- <div class="title wow fadeInUp">Book by WhatsApp</div>
                         <div class="number wow fadeInUp">
                             <a
                                 href="https://wa.me/+526241096522?text=Hello,%20I%20would%20like%20make%20a%20reservation.">
                                 +52 624 109 6522
                             </a>
-                        </div>
+                        </div> -->
                         <div class="title wow fadeInUp">Book by telephone</div>
                         <div class="number wow fadeInUp">
-                            <a href="tel:+526241232842">
-                                +52 624 123 2842
+                            <a href="tel:+526241424038">
+                                +52 624 142 4038
                             </a>
                         </div>
-                        <p class="wow fadeInUp">San José del Cabo <br><a href="info@grupoteso.com"
+                        <p class="wow fadeInUp">San José del Cabo <br><a href="mailto:info@grupoteso.com"
                                 target="_blank">info@grupoteso.com</a>
                         </p>
                         <hr>
-                        <h3>
-                            Misión D' San José will be closed from Sunday, August 10 to Tuesday, September 10.
-                        </h3>
-                        <hr>
                         <div class="title wow fadeInUp">Opening Hours:</div>
-                        <p class="text wow fadeInUp">Mon - Sat : 5.00pm - 11.00pm, Sunday : Closed</p>
+                        <p class="text wow fadeInUp">Mon - Sat : 2.00pm - 10.00pm, Sunday : Closed</p>
                         <div class="widget-social style-big justify-center wow fadeInUp">
                             <ul class="">
                                 <li><a target="_blank" href="https://www.facebook.com/misionsanjoserest"

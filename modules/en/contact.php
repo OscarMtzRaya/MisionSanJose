@@ -17,8 +17,8 @@
                          <div class="image"><img src="assets/images/item-background/call.png" alt=""></div>
                          <div class="title">Contact Us</div>
                          <p>
-                             <a href="tel:+526241232842">
-                                 Phone: +52 624 123 2842
+                             <a href="tel:+526241424038">
+                                 Phone: +52 624 142 4038
                              </a><br>
                              Email: <a href="mailto:info@grupoteso.com" class="__cf_email__">
                                  info@grupoteso.com</a>
@@ -39,8 +39,8 @@
                          <div class="image"><img src="assets/images/item-background/time.png" alt=""></div>
                          <div class="title">Operating hours</div>
                          <p>
-                             Mon - Sun : 5.00pm - 11.00pm <br>
-                             Monday : Closed
+                             Mon - Sat : 2.00pm - 10.00pm <br>
+                             Sunday : Closed
                          </p>
                      </div>
                  </div>

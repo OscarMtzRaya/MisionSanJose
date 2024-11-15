@@ -57,7 +57,7 @@
 <!-- /page-title -->
 
 <!-- our-menu -->
-<div class="our-menu style-1" id="menu">
+<div class="our-menu style-1" id="eventos">
     <div class="themesflat-container w1600">
         <div class="row justify-content-center">
             <div class="col-12">
@@ -133,7 +133,7 @@
                         <p class="text">Horarios:</p>
                     </li>
                     <li class="wow fadeInUp">
-                        <p>Lunes - Sábado : 5.00pm - 11.00pm</p>
+                        <p>Lunes - Sábado : 2.00pm - 10.00pm</p>
                     </li>
                     <li class="wow fadeInUp">
                         <p>Domingo: Cerrado</p>
@@ -473,29 +473,25 @@
                                 <div></div>
                             </div>
                         </div>
-                        <div class="title wow fadeInUp">Reserva a través de WhatsApp</div>
+                        <!-- <div class="title wow fadeInUp">Reserva a través de WhatsApp</div>
                         <div class="number wow fadeInUp">
                             <a
                                 href="https://wa.me/+526241096522?text=Hola,%20me%20gustaría%20hacer%20una%20reservación.">
                                 +52 624 109 6522
                             </a>
-                        </div>
+                        </div> -->
                         <div class="title wow fadeInUp">Reserva llamando</div>
                         <div class="number wow fadeInUp">
-                            <a href="tel:+526241232842">
-                                +52 624 123 2842
+                            <a href="tel:+526241424038">
+                                +52 624 142 4038
                             </a>
                         </div>
-                        <p class="wow fadeInUp">San José del Cabo <br><a href="info@grupoteso.com"
+                        <p class="wow fadeInUp">San José del Cabo <br><a href="mailto:info@grupoteso.com"
                                 target="_blank">info@grupoteso.com</a>
                         </p>
                         <hr>
-                        <h3>
-                            Misión D' San José permanecerá cerrada del Domingo 10 de agosto al martes 10 de septiembre
-                        </h3>
-                        <hr>
                         <div class="title wow fadeInUp">Horarios:</div>
-                        <p class="text wow fadeInUp">Lun - Sab : 5.00pm - 11.00pm, Domingo : Cerrado</p>
+                        <p class="text wow fadeInUp">Lun - Sab : 2.00pm - 10.00pm, Domingo : Cerrado</p>
                         <div class="widget-social style-big justify-center wow fadeInUp">
                             <ul class="">
                                 <li><a target="_blank" href="https://www.facebook.com/misionsanjoserest"

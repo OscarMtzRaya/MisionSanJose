@@ -33,7 +33,11 @@
                         the
                         mountains while observing locals and tourists enjoy their evening.
                     </p>
-                    <a class="button-two-line wow fadeInUp" target="_blank" href="https://wa.me/+526241096522?text=Hello,%20I%20would%20like%20make%20a%20reservation.">BOOK A TABLE</a>
+                    <a class="button-two-line wow fadeInUp" target="_blank"
+                        href="mailto:info@grupoteso.com">
+                        BOOK
+                        A TABLE
+                    </a>
                 </div>
             </div>
         </div>
@@ -98,10 +102,14 @@
                         </div>
                     </div>
                     <p class="wow fadeInUp">
-                    Welcome to our philosophical corner, where each experience is more than just a combination of flavors and colors. In our gastronomic universe, we firmly believe that each dish is a unique narrative, a story that unfolds in every bite, captivating the senses and evoking emotions.
+                        Welcome to our philosophical corner, where each experience is more than just a combination of
+                        flavors and colors. In our gastronomic universe, we firmly believe that each dish is a unique
+                        narrative, a story that unfolds in every bite, captivating the senses and evoking emotions.
                     </p>
                     <p class="wow fadeInUp">
-                    Our signature cocktails are like pages of a book, each with its own story to discover. From reinvented classics to original creations, each sip is a sensory adventure that will transport you to unexpected places.
+                        Our signature cocktails are like pages of a book, each with its own story to discover. From
+                        reinvented classics to original creations, each sip is a sensory adventure that will transport
+                        you to unexpected places.
                     </p>
                     <a class="button-two-line wow fadeInUp" href="index.php#menu">VIEW MENU</a>
                 </div>

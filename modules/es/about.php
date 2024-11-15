@@ -35,7 +35,7 @@
                         detrás de las montañas mientras observas a locales y turistas disfrutar de su tarde.
                     </p>
                     <a class="button-two-line wow fadeInUp" target="_blank"
-                        href="https://wa.me/+526241096522?text=Hola,%20me%20gustaría%20hacer%20una%20reservación.">
+                        href="mailto:info@grupoteso.com">
                         RESERVAR
                     </a>
                 </div>
