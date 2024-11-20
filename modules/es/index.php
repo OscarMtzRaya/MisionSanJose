@@ -113,7 +113,7 @@
         </div>
         <div class="center">
             <div class="image">
-                <img src="assets/images/fotos12feb/11-2.webp" alt="Mision San Jose">
+                <img src="assets/images/fotos12feb/14.webp" alt="Mision San Jose">
             </div>
         </div>
         <div class="right">

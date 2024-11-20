@@ -85,7 +85,7 @@
         </div>
         <div class="center">
             <div class="image">
-                <img src="assets/images/fotos12feb/11-2.webp" alt="">
+                <img src="assets/images/fotos12feb/14.webp" alt="">
             </div>
         </div>
         <div class="right">
