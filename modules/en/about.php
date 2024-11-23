@@ -265,7 +265,7 @@
 <!-- wg-action -->
 <div class="wg-video-full style-1 h649">
     <div class="video-wrap">
-        <a href="https://www.youtube.com/watch?v=eI_LjETc_Ak" class="popup-youtube">
+        <a href="https://www.youtube.com/watch?v=wdOLMbp4-BE" class="popup-youtube">
             <div class="icon">
                 <i class="icon-play3"></i>
             </div>
