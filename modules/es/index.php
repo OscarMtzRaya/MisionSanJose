@@ -9,10 +9,10 @@
                             <div class="col-12">
                                 <div class="text">Bienvenidos a Misión San José</div>
                                 <div class="heading">ÍNCREIBLES RECETAS</div>
-                                <p>
+                                <p class="color1">
                                     Descubre la esencia de San José del Cabo en su máxima expresión.
                                 </p>
-                                <a class="button-two-line" href="#menu">Ver menú</a>
+                                <a class="button-two-line color1" href="#menu">Ver menú</a>
                             </div>
                         </div>
                     </div>
@@ -25,10 +25,10 @@
                             <div class="col-12">
                                 <div class="text">Bienvenidos a Misión San José</div>
                                 <div class="heading">ÍNCREIBLES RECETAS</div>
-                                <p>
+                                <p class="color1">
                                     Descubre la esencia de San José del Cabo en su máxima expresión.
                                 </p>
-                                <a class="button-two-line" href="#menu">Ver menú</a>
+                                <a class="button-two-line color1" href="#menu">Ver menú</a>
                             </div>
                         </div>
                     </div>
@@ -41,10 +41,10 @@
                             <div class="col-12">
                                 <div class="text">Bienvenidos a Misión San José</div>
                                 <div class="heading">ÍNCREIBLES RECETAS</div>
-                                <p>
+                                <p class="color1">
                                     Descubre la esencia de San José del Cabo en su máxima expresión.
                                 </p>
-                                <a class="button-two-line" href="#menu">Ver menú</a>
+                                <a class="button-two-line color1" href="#menu">Ver menú</a>
                             </div>
                         </div>
                     </div>
@@ -108,7 +108,7 @@
                 </p>
                 <!-- <img class="wow fadeInUp" src="assets/images/item-background/signature.png" alt=""> -->
                 <div class="author wow fadeInUp"><a href="https://www.facebook.com/misionsanjoserest"
-                        target="_blank">Misión San José</a></div>
+                        target="_blank" class="link_title">#ElCorazónDeSanJosé</a></div>
             </div>
         </div>
         <div class="center">
@@ -197,13 +197,13 @@
 <!-- portfolio -->
 <div class="portfolio-wrap flex popup-gallery">
     <div class="portfolio-item">
-        <a class="gallery-plus-fix" title="" href="assets/images/box-item/galeria1.webp">
-            <img src="assets/images/box-item/galeria1.webp" alt="Mision San Jose">
+        <a class="gallery-plus-fix" title="" href="assets/images/box-item/galeria2.webp">
+            <img src="assets/images/box-item/galeria2.webp" alt="Mision San Jose">
         </a>
     </div>
     <div class="portfolio-item">
-        <a class="gallery-plus-fix" title="" href="assets/images/box-item/galeria2.webp">
-            <img src="assets/images/box-item/galeria2.webp" alt="Mision San Jose">
+        <a class="gallery-plus-fix" title="" href="assets/images/box-item/03.webp">
+            <img src="assets/images/box-item/03.webp" alt="Mision San Jose">
         </a>
     </div>
     <div class="portfolio-item">
@@ -212,8 +212,8 @@
         </a>
     </div>
     <div class="portfolio-item">
-        <a class="gallery-plus-fix" title="" href="assets/images/box-item/galeria4.webp">
-            <img src="assets/images/box-item/galeria4.webp" alt="Mision San Jose">
+        <a class="gallery-plus-fix" title="" href="assets/images/box-item/04.webp">
+            <img src="assets/images/box-item/04.webp" alt="Mision San Jose">
         </a>
     </div>
     <div class="portfolio-item">
@@ -264,7 +264,7 @@
                     <div class="bottom">
                         <div class="image border-over-column">
                             <div class="wrap">
-                                <img src="assets/images/box-item/our-menu-1.jpg" alt="Menú Mision San José">
+                                <img src="assets/images/box-item/01.webp" alt="Menú Mision San José">
                             </div>
                         </div>
                         <div class="widget-content-tab pswp-gallery pswp-gallery--single-column"
@@ -297,7 +297,7 @@
                         </div>
                         <div class="image border-over-column">
                             <div class="wrap">
-                                <img src="assets/images/box-item/our-menu-2.jpg" alt="">
+                                <img src="assets/images/box-item/02.webp" alt="">
                             </div>
                         </div>
                     </div>

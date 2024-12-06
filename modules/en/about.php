@@ -2,7 +2,8 @@
 <div class="banner-page inner-page about">
     <div class="content">
         <div class="banner-text">about us</div>
-        <p>Need food and a good place to eat? Welcome to our humble place where you can eat <br> good food peacefully.
+        <p class="color1">
+            Need food and a good place to eat? Welcome to our humble place where you can eat <br> good food peacefully.
         </p>
     </div>
 </div>

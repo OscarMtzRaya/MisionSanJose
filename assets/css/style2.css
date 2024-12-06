@@ -160,7 +160,7 @@ html {
 
 body {
     /* background : #0e1618; */
-    background : #132c2d;
+    background : #E8E5df;
     line-height: 1;
     padding: 0 !important;
 }
@@ -249,7 +249,7 @@ p {
     font-weight: 400;
     font-size  : 15px;
     line-height: 25px;
-    color      : #fff;
+    color      : #715a29;
 }
 
 strong,
@@ -652,7 +652,7 @@ input[type="color"] {
     padding: 15px;
     width: 100%;
     height: 50px;
-    background: transparent;
+    background: #5e4b30e0;
     font-size  : 15px;
     font-weight: 400;
     line-height: 50px;
@@ -1058,7 +1058,7 @@ a:focus {
     align-items: center;
     justify-content: center;
     gap: 7px;
-    color: #FFF;
+    color: #5e4b30;
     font-family: 'CerebriSans';
     font-size: 13px;
     line-height: 25px;
@@ -1219,7 +1219,7 @@ a:focus {
 .header-inner-wrap {
     display: flex;
     align-items: center;
-    border-top: 1px solid #4e4a3d;
+    border-top: 1px solid #e8e5df;
 }
 
 #site-logo {
@@ -1247,7 +1247,7 @@ a:focus {
 
 .header-left {
     padding: 41px 50px 42px 40px;
-    border-right: 1px solid #4e4a3d;
+    border-right: 1px solid #e8e5df;
     position: relative;
     display: flex;
     align-items: center;
@@ -1255,7 +1255,7 @@ a:focus {
 
 .header-right {
     padding: 34px 48px 36px 54px;
-    border-left: 1px solid #4e4a3d;
+    border-left: 1px solid #e8e5df;
     display: flex;
     align-items: center;
     gap: 30px;
@@ -1709,7 +1709,7 @@ a:focus {
 .header.is-fixed.is-small .header-inner {
     top: 0;
     margin-top: 0px;
-    background-color: #132c2d;
+    background-color: #5e4b30;
     padding-left: 15px;
     padding-right: 15px;
     box-shadow: 0px 0px 5px rgba(195 162 124 / 20%);
@@ -2082,7 +2082,7 @@ a:focus {
 .footer-1 .footer-title {
     font-size: 23px;
     line-height: 32px;
-    color: #FFF;
+    color: #5e4b30;
     text-transform: uppercase;
     letter-spacing: 1px;
     margin-bottom: 51px;
@@ -2325,7 +2325,7 @@ a:focus {
 /* heading-section */
 /* --------------------------- */
 .heading-section .sub {
-    color: #c6ac83;
+    color: #5e4b30;
     font-family: 'CormorantInfant';
     font-size: 25px;
     line-height: 32px;
@@ -2336,7 +2336,7 @@ a:focus {
 }
 
 .heading-section .main {
-    color: #fff;
+    color: #5e4b30;
     font-size: 45px;
     font-weight: 600;
     line-height: 55px;
@@ -2350,7 +2350,7 @@ a:focus {
     font-family: 'CerebriSans';
     font-size: 17px;
     line-height: 28px;
-    color: #FFF;
+    color: #715a29;
     margin-bottom: 30px;
 }
 
@@ -2384,7 +2384,7 @@ a:focus {
 }
 
 .heading-section  .description {
-    color: #c6ac83;
+    color: #715a29;
     font-family: 'CormorantInfant';
     font-size: 23px;
     line-height: 33px;
@@ -2566,4 +2566,19 @@ ul.list-content li p.text {
 }
 .gallery-plus-fix{
     font-size: 4rem !important;
+}
+.color1{
+    color: #e8e5df !important;
+}
+
+.link_title{
+    color: #272f2c;
+    font-size: 2.5rem;
+    text-transform: none;
+    color: #5e4b30 !important;
+    font-family: 'CormorantInfant';
+}
+
+.color2{
+    color: #5e4b30 !important;
 }

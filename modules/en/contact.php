@@ -2,7 +2,7 @@
  <div class="banner-page inner-page contact-page">
      <div class="content">
          <div class="banner-text">contact us</div>
-         <p class="t1">If you have any questions or concerns, you can contact us in the <br> following ways</p>
+         <p class="t1 color1">If you have any questions or concerns, you can contact us in the <br> following ways</p>
      </div>
  </div>
  <!-- /banner-page -->
@@ -15,7 +15,7 @@
                  <div class="col-md-4">
                      <div class="contact-item wow fadeInUp line-right">
                          <div class="image"><img src="assets/images/item-background/call.png" alt=""></div>
-                         <div class="title">Contact Us</div>
+                         <div class="title color2">Contact Us</div>
                          <p>
                              <a href="tel:+526241424038">
                                  Phone: +52 624 142 4038
@@ -28,7 +28,7 @@
                  <div class="col-md-4">
                      <div class="contact-item wow fadeInUp line-right" data-wow-delay="0.1s">
                          <div class="image"><img src="assets/images/item-background/address.png" alt=""></div>
-                         <div class="title">Address</div>
+                         <div class="title color2">Address</div>
                          <p>
                              Blv. Antonio Mijares 17, <br> Centro 23400, San José del Cabo BCS.
                          </p>
@@ -37,7 +37,7 @@
                  <div class="col-md-4">
                      <div class="contact-item wow fadeInUp" data-wow-delay="0.2s">
                          <div class="image"><img src="assets/images/item-background/time.png" alt=""></div>
-                         <div class="title">Operating hours</div>
+                         <div class="title color2">Operating hours</div>
                          <p>
                              Mon - Sat : 2.00pm - 10.00pm <br>
                              Sunday : Closed

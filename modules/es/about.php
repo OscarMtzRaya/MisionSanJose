@@ -2,7 +2,7 @@
 <div class="banner-page inner-page about">
     <div class="content">
         <div class="banner-text">Sobre Nosotros</div>
-        <p>
+        <p class="color1">
             ¿Necesitas comida y un buen lugar para comer? Bienvenido a nuestro modesto establecimiento donde puedes
             comer buena comida en paz.
         </p>

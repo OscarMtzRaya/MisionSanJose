@@ -1,10 +1,10 @@
  <!-- header -->
- <header id="header_main" class="header header-fixed header-2">
+ <header id="header_main" class="header header-fixed header-2" style="background-color: #5e4b30;">
      <div class="header-top">
          <div class="left">
              <ul>
                  <li>
-                     <p>San José del Cabo</p>
+                     <p style="color: #fff;">San José del Cabo</p>
                  </li>
                  <li>
                      <p><a href="mailto:info@grupoteso.com" class="__cf_email__">info@grupoteso.com</a></p>
@@ -72,7 +72,7 @@
                      <div class="content">
                          <p class="tf-color">Contact Us</p>
                          <a href="tel:+526241424038">
-                             <p class="number-phone">+52 624 142 4038</p>
+                             <p class="number-phone color1">+52 624 142 4038</p>
                          </a>
                      </div>
                  </div>

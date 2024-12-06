@@ -114,9 +114,9 @@
     .portfolio-item {
         width: 50%;
     }
-    .widget-tabs.style-1 > .bottom .widget-content-tab {
+    /* .widget-tabs.style-1 > .bottom .widget-content-tab {
         padding: 30px;
-    }
+    } */
     .wg-reservations.style-1 .content {
         padding-top: 70px;
         padding-bottom: 50px;

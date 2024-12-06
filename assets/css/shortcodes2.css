@@ -558,7 +558,7 @@ form.form-search button {
     border-radius: 50%;
     background-color: transparent;
     border: 1px solid #c6ac83;
-    color: #FFF;
+    color: #272f2c;
     font-size: 13px;
     display: flex;
     align-items: center;
@@ -1589,7 +1589,7 @@ form.form-search button {
 .wg-testimonial.style-1 {
     padding-top: 129px;
     padding-bottom: 125px;
-    background-image: url(../images/bg-section/bg_testimonials.jpg);
+    background-image: url(../images/bg-section/01.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1597,7 +1597,7 @@ form.form-search button {
 }
 
 .wg-testimonial > .bg::before {
-    background-color: rgba(19, 44, 45,0.749);
+    /* background-color: rgba(19, 44, 45,0.749); */
     position: absolute;
     content: '';
     top: 0;
@@ -1716,7 +1716,7 @@ form.form-search button {
     padding-bottom: 16px;
     cursor: pointer;
     position: relative;
-    color: #FFF;
+    color: #272f2c;
 }
 
 .widget-menu-tab .item-title.active::after {
@@ -1852,11 +1852,11 @@ form.form-search button {
     width: 100%;
 }
 
-.widget-tabs.style-1 > .bottom .widget-content-tab {
+/* .widget-tabs.style-1 > .bottom .widget-content-tab {
     background-color: #182125;
     flex-grow: 1;
     padding: 76px 75px 84px;
-}
+} */
 
 .widget-tabs.style-1 > .bottom .wg-menu-item {
     margin-bottom: 26px;
@@ -2037,6 +2037,7 @@ form.form-search button {
     line-height: 28px;
     letter-spacing: 0.4px;
     text-transform: uppercase;
+    color: #5e4b30;
 }
 
 .wg-location .content .number {
@@ -4002,7 +4003,7 @@ a.mapboxgl-ctrl-logo {
 }
 
 .wg-about-hour .content .author a {
-    color: #FFF;
+    color: #272f2c;
 }
 
 .wg-about-hour .content .author a:hover {
