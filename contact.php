@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
 <?php
 include('indexController.php');
 $title = "Contact";
