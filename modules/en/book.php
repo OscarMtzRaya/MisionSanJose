@@ -29,7 +29,7 @@
                   </div>
               </div>
               <div class="col-12 justify-content-center">
-                  <form class="" method="POST" action="/php/archivo-contacto-2.php">
+                  <form class="" method="POST" action="/php/book.php">
                       <div class="row justify-content-center align-items-center">
                           <div class="col-md-8">
                               <fieldset class="name">

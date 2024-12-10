@@ -29,7 +29,7 @@
                  </div>
              </div>
              <div class="col-12 justify-content-center">
-                 <form class="" method="POST" action="/php/archivo-contacto-2.php">
+                 <form class="" method="POST" action="/php/book.php">
                      <div class="row justify-content-center">
                          <div class="col-md-8">
                              <fieldset class="name">
@@ -39,7 +39,7 @@
                          </div>
                          <div class="col-md-8">
                              <fieldset class="email">
-                                 <input type="email" placeholder="Correo*" class="" name="email" tabindex="2" value=""
+                                 <input type="email" placeholder="Correo*" class="" name="correo" tabindex="2" value=""
                                      aria-required="true" required="">
                              </fieldset>
                          </div>
