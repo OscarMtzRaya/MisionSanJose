@@ -28,24 +28,31 @@
                       </div>
                   </div>
               </div>
-              <div class="col-12">
+              <div class="col-12 justify-content-center">
                   <form class="" method="POST" action="/php/archivo-contacto-2.php">
-                      <div class="columns">
-                          <fieldset class="name">
-                              <input type="text" placeholder="Full Name*" class="" name="nombre" tabindex="2" value=""
-                                  aria-required="true" required="">
-                          </fieldset>
-                          <fieldset class="email">
-                              <input type="email" placeholder="Email*" class="" name="email" tabindex="2" value=""
-                                  aria-required="true" required="">
-                          </fieldset>
-                          <fieldset class="phone">
-                              <input type="text" placeholder="Phone*" class="" name="tel" tabindex="2" value=""
-                                  aria-required="true" required="">
-                          </fieldset>
-                      </div>
-                      <div class="bot">
-                          <button href="" class="button-two-line m-auto" type="submit">SEND PRE-RESERVATION</button>
+                      <div class="row justify-content-center align-items-center">
+                          <div class="col-md-8">
+                              <fieldset class="name">
+                                  <input type="text" placeholder="Nombre Completo*" class="" name="nombre" tabindex="2"
+                                      value="" aria-required="true" required="">
+                              </fieldset>
+                          </div>
+                          <div class="col-md-8">
+                              <fieldset class="email">
+                                  <input type="email" placeholder="Correo*" class="" name="email" tabindex="2" value=""
+                                      aria-required="true" required="">
+                              </fieldset>
+                          </div>
+                          <div class="col-md-8">
+                              <fieldset class="phone">
+                                  <input type="text" placeholder="Télefono*" class="" name="tel" tabindex="2" value=""
+                                      aria-required="true" required="">
+                              </fieldset>
+                          </div>
+
+                          <div class="bot">
+                              <button href="" class="button-two-line m-auto" type="submit">PRE-RESERVACIÓN</button>
+                          </div>
                       </div>
                   </form>
               </div>
