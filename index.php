@@ -1,5 +1,6 @@
 <?php
 include('indexController.php');   
+$title = "Home";
 include_once('includes/head.php');
 include_once('includes/body.php');
 if (isset($_GET)) {
