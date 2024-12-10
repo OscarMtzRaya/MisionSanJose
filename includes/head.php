@@ -1,9 +1,13 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+
 
 <head>
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <title>Misión San José - <?echo $title;?></title>
+    <title>Misión San José </title>
 
     <meta name="author" content="mktadgroup.com">
 
