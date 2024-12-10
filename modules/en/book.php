@@ -44,16 +44,6 @@
                                   aria-required="true" required="">
                           </fieldset>
                       </div>
-                      <fieldset class="message">
-                          <textarea id="message" name="message" rows="4" placeholder="Message" class="" tabindex="4"
-                              aria-required="true" required=""></textarea>
-                      </fieldset>
-                      <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">
-                          <div class="col-12 col-md-12">
-                              <div class="g-recaptcha" data-sitekey="6LdJbr8fAAAAACTrH_tQBzWfqtoU9j8r5WqpMaNI" required>
-                              </div>
-                          </div>
-                      </div>
                       <div class="bot">
                           <button href="" class="button-two-line m-auto" type="submit">SEND PRE-RESERVATION</button>
                       </div>
