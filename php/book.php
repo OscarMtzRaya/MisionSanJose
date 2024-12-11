@@ -48,21 +48,21 @@ function mandarError($codigo_de_error)
        //header('location: index.html?err=' .$codigo_de_error);
      
     if($codigo_de_error == "0"){
-        header('location: /?msj='. $codigo_de_error);
+        header('location: /book.php?msj='. $codigo_de_error);
         exit;   
     }
         if($codigo_de_error == "1"){
-            header('location: /?msj='. $codigo_de_error);
+            header('location: /book.php?msj='. $codigo_de_error);
              exit;
     exit;   
     }if($codigo_de_error == "2"){
-        header('location: /?msj='. $codigo_de_error);
+        header('location: /book.php?msj='. $codigo_de_error);
         exit;
       
     exit;   
     }
      if($codigo_de_error == "3"){
-        header('location: /?msj=' . $codigo_de_error);
+        header('location: /book.php?msj=' . $codigo_de_error);
         exit;
       
     exit;   
