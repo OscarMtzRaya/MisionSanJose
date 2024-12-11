@@ -4,8 +4,9 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 // mail completado se saca de la carpeta modules y se posiciona en la carpeta raíz 
 // ENVIAMOS CORREO
-$para  = $correo;
+extract($_REQUEST);
 
+$para  = $correo;
 // título
 $titulo = 'Pre-registro exitoso para Misión San José '.$name;
 
