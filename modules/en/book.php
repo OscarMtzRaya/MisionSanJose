@@ -39,7 +39,7 @@
                           </div>
                           <div class="col-md-8">
                               <fieldset class="email">
-                                  <input type="email" placeholder="Correo*" class="" name="email" tabindex="2" value=""
+                                  <input type="email" placeholder="Correo*" class="" name="correo" tabindex="2" value=""
                                       aria-required="true" required="">
                               </fieldset>
                           </div>

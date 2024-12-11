@@ -20,7 +20,7 @@ Códigos de error
 
 
 
-if (!validarVariable($nombre) || !validarVariable($tel) || !validarVariable($mail) ) {
+if (!validarVariable($nombre) || !validarVariable($tel) || !validarVariable($correo) ) {
   mandarError("1");
 }
 
