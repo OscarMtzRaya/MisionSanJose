@@ -48,6 +48,7 @@ function mandarError($codigo_de_error)
        //header('location: index.html?err=' .$codigo_de_error);
      
     if($codigo_de_error == "0"){
+        include('correoClientes.php');
         header('location: /book.php?msj='. $codigo_de_error);
         exit;   
     }
