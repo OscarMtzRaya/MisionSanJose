@@ -240,7 +240,7 @@ class Correo
                 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
                   <tr>
                     <td class="content-block" style="font-family: sans-serif; vertical-align: top; padding-bottom: 10px; padding-top: 10px; font-size: 12px; color: #999999; text-align: center;">
-                      <span class="apple-link" style="color: #999999; font-size: 12px; text-align: center;">Copyright © 2023 El Peregrino. Todos los Derechos Reservados.</span>
+                      <span class="apple-link" style="color: #999999; font-size: 12px; text-align: center;">Copyright © 2024 Misión San José. Todos los Derechos Reservados.</span>
                       <br>Los Cabos, B.C.S. México.
                     </td>
                   </tr>
