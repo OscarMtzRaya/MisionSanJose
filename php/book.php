@@ -49,7 +49,6 @@ function mandarError($codigo_de_error)
      
     if($codigo_de_error == "0"){
       header('location: /reservation.php?msj='. $codigo_de_error);
-      require_once($_SERVER["DOCUMENT_ROOT"] . "/php/correoClientes.php");
         exit;   
     }
         if($codigo_de_error == "1"){
