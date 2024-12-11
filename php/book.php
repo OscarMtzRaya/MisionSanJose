@@ -48,22 +48,22 @@ function mandarError($codigo_de_error)
        //header('location: index.html?err=' .$codigo_de_error);
      
     if($codigo_de_error == "0"){
-        include('/php/correoClientes.php');
-        header('location: book.php?msj='. $codigo_de_error);
+      header('location: /reservation.php?msj='. $codigo_de_error);
+      require_once($_SERVER["DOCUMENT_ROOT"] . "/php/correoClientes.php");
         exit;   
     }
         if($codigo_de_error == "1"){
-            header('location: book.php?msj='. $codigo_de_error);
+            header('location: /reservation.php?msj='. $codigo_de_error);
              exit;
     exit;   
     }if($codigo_de_error == "2"){
-        header('location: book.php?msj='. $codigo_de_error);
+        header('location: /reservation.php?msj='. $codigo_de_error);
         exit;
       
     exit;   
     }
      if($codigo_de_error == "3"){
-        header('location: book.php?msj=' . $codigo_de_error);
+        header('location: /reservation.php?msj=' . $codigo_de_error);
         exit;
       
     exit;   
