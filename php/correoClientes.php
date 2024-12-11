@@ -166,7 +166,7 @@ $cabeceras .= 'From: Los Cabos Munchies - noreply@bananagroup.com.mx' . "\r\n";
 // Enviarlo
 
 if (mail($para, $titulo, $mensaje, $cabeceras) == true) {
-  include('mailCompletadoAdmin.php');
+  include('/php/correoClientes.php');
 } else {
   echo "No se pudo enviar";
 }
