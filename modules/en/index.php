@@ -378,7 +378,7 @@
             </div>
             <div class="bot">
               <a href="https://www.opentable.com.mx/r/mision-san-jose-reservations-san-jose-del-cabo?restref=1365508&lang=es-MX&ot_source=Restaurant%20website"
-                class="button-two-line w-full" style="font-size: 2rem" type="submit" target="blank">Reservar</a>
+                class="button-two-line w-full" style="font-size: 2rem" type="submit" target="blank">Book a table</a>
             </div>
           </div>
         </div>
