@@ -25,8 +25,9 @@
              </div>
              <div class="button-right">
                  <a target="ref"
-                     href="mailto:info@grupoteso.com"
-                     class="button-default mt-0">RESERVAR</a>
+                     href="https://www.opentable.com.mx/r/mision-san-jose-reservations-san-jose-del-cabo?restref=1365508&lang=es-MX&ot_source=Restaurant%20website"
+                     class="button-default mt-0"
+                     target="blank">RESERVAR</a>
              </div>
          </div>
      </div>
