@@ -223,13 +223,10 @@
                 <span class="inner">Comida </span>
               </li>
               <li class="item-title">
-                <span class="inner">Bebidas</span>
-              </li>
-              <li class="item-title">
                 <span class="inner">Vinos</span>
               </li>
               <li class="item-title">
-                <span class="inner">Destilados</span>
+                <span class="inner">Cocteles</span>
               </li>
             </ul>
           </div>
@@ -241,24 +238,18 @@
             </div>
             <div class="widget-content-tab pswp-gallery pswp-gallery--single-column" id="gallery--none-transition">
               <div class="widget-content-inner active">
-                <a href="assets/images/menuEsp/01.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
-                  <img src="assets/images/menuEsp/01.jpg" alt="Menú Mision San José">
-                </a>
-              </div>
-
-              <div class="widget-content-inner">
-                <a href="assets/images/menuEsp/02.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
-                  <img src="assets/images/menuEsp/02.jpg" alt="Menú Mision San José">
+                <a href="assets/images/menuEsp/Comida.webp" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+                  <img src="assets/images/menuEsp/Comida.webp" alt="Menú Mision San José">
                 </a>
               </div>
               <div class="widget-content-inner">
-                <a href="assets/images/menuEsp/03.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
-                  <img src="assets/images/menuEsp/03.jpg" alt="Menú Mision San José">
+                <a href="assets/images/menuEsp/Vino.webp" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+                  <img src="assets/images/menuEsp/Vino.webp" alt="Menú Mision San José">
                 </a>
               </div>
               <div class="widget-content-inner">
-                <a href="assets/images/menuEsp/04.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
-                  <img src="assets/images/menuEsp/04.jpg" alt="Menú Mision San José">
+                <a href="assets/images/menuEsp/Cocteles.webp" data-pswp-width="1669" data-pswp-height="2500" target="_blank">
+                  <img src="assets/images/menuEsp/Cocteles.webp" alt="Menú Mision San José">
                 </a>
               </div>
             </div>
